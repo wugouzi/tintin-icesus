@@ -1,0 +1,32 @@
+#split 0 2
+
+
+#nop status bar
+#var HP 0;
+#var MAXHP 0;
+#var SP;
+#var MAXSP;
+#var EP;
+#var MAXEP;
+#var EXP;
+#var EXPP;
+#var MONEY;
+#var COORD;
+#action {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {
+  #var HP %1;
+  #var MAXHP %2;
+  #var SP %3;
+  #var MAXSP %4;
+  #var EP %5;
+  #var MAXEP %6;
+  #var EXP %7;
+  #var EXPP %8;
+  #var MONEY %9;
+  #var COORD %10;
+}
+
+#prompt {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10 $TARGET:$TARGET_STATUS} {row -2}
+#variable TARGET {NA}
+#variable TARGET_STATUS {NA}
+
+#nop#action {%1 is %2}

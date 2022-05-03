@@ -1,0 +1,19 @@
+#VARIABLE {name} {};				# Character name
+#VARIABLE {password} {};			# Character password
+#VARIABLE {dir} {.};				# Directory of setings, without '/' or '~' (Ex. /home/user/aardwolf, not ~/aardwolf )
+#VARIABLE {confdir} {$dir/conf}
+#VARIABLE {logdir} {$dir/log}
+#VARIABLE {map_path} {$dir/map}
+#VARIABLE {modulesdir} {$dir/modules}
+
+#session {icesus} {icesus.org} {4000};
+
+#READ {$modulesdir/layout.tin}
+#READ {$modulesdir/login.tin}
+#READ {$modulesdir/config.tin}
+#READ {$modulesdir/alias.tin}
+#READ {$modulesdir/action.tin}
+
+#nop #READ {$modulesdir/map.tin}
+
+#nop #MAP READ {$map_path/map-all.tt}

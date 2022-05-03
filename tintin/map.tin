@@ -1,0 +1,3 @@
+#event {MAP ENTER ROOM} {
+    #map map 16x16 map.txt {a};
+};

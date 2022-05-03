@@ -1,0 +1,60 @@
+#alias {k} {target %1; kill %1; uk;
+  #ticker {bx} {x} {2};
+}
+
+#alias {ubx} {
+  #unticker {bx};
+}
+
+#alias {readalias} {
+  #READ {$modulesdir/alias.tin};
+}
+
+#alias {reaction} {
+  #READ {$modulesdir/action.tin};
+}
+
+#nop equipment handling
+#alias {mkeep} {keep axe;keep throwing dagger;keep flint;}
+#alias {mmiaodam} {wield axe;}
+#alias {mmiaologin} {mmiaodamkeep;mmiaodam;}
+#alias {eqdam} {mmiaodam;}
+
+
+#nop routes
+#alias {ve2leave} {brief;5 n;6 w;n;w;u;brief;leave game;#end;}
+#alias {leave2ve} {brief;d;e;s;6 e;5 s;drink fountain;brief;}
+#alias {ve2sg} {brief;6 s;2 e;3 se;15 s;e;2 s;brief;}
+#alias {ve2ng} {brief;29 n;brief;}
+#alias {ng2ve} {brief;29 s;drink fountain;brief;}
+#alias {ve2vw} {brief;12 e;4 n;2 w;brief;}
+#alias {vw2ve} {brief;2 e;4 s;12 w;drink fountain;brief;}
+#alias {vw2va} {brief;2 e;6 n;2 w;brief;}
+#alias {va2vw} {brief;2 e;6 s;2 w;brief;}
+#alias {va2vg} {brief;2 e;s;6 e;2 s;brief;}
+#alias {va2ve} {va2vw;vw2ve;}
+#alias {vg2va} {brief;2 n;6 w;n;2 w;brief;}
+#alias {vg2ve} {brief;7 s;18 w;drink fountain;brief;}
+#alias {ve2vg} {brief;18 e;7 n;brief;}
+#alias {ve2rat} {brief;6 s;2 e;3 se;7 s;28 e;brief;}
+#alias {ve2forest} {ve2drud;drud2forest;}
+#alias {ve2drud} {ve2sg;sg2drud;}
+#alias {sg2ve} {brief;2 n;w;15 n;3 nw;2 w;6 n;brief;}
+#alias {sg2elyr} {brief;s;8 w;3 sw;3 s;farm;brief;}
+#alias {rat2ve} {brief;28 w;7 n;3 nw;2 w;6 n;drink fountain;brief;}
+#alias {sg2drud} {brief;s;4 e;3 ne;9 e;3 se;hut;brief;}
+#alias {drud2sg} {brief;out;3 nw;9 w;3 sw;4 w;n;brief;}
+#alias {drud2forest} {brief;out;3 n;9 e; 2 ne;10 e;2 se;4 sw;brief;}
+#alias {drud2ve} {drud2sg;sg2ve;}
+
+#alias {elyr2sg} {brief;out;3 n;3 ne;8 e;n;brief;}
+#alias {elyr2drud} {elyr2sg;sg2drud;}
+#alias {rat2sg} {rat2ve;ve2sg;}
+#alias {death2sg} {brief;out;2 se;e;3 se;e;2 se;e;2 ne;4 3;n;brief;}
+#alias {forest2drud} {brief;4 ne;2 nw;10 w;2 sw;9 w;3 s;hut;brief;}
+#alias {forest2ve} {forest2drud;drud2ve;}
+#alias {forest2sg} {forest2drud;drud2sg;}
+#alias {sg2forest} {sg2drud;drud2forest;}
+
+#alias {ve2wild} {ve2sg;e;}
+#alias {wild2ve} {w;sg2ve;}

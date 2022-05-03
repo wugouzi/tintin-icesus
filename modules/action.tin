@@ -1,0 +1,9 @@
+#action {You decide to try a combat maneuver!} {uk}
+#action {Battle over} {loot;
+  #unticker {bx};
+  #delay {2} {scor};
+}
+
+#action {You try to find a good spot to flee from battle} {
+  #unticker {bx};
+}
