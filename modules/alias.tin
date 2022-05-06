@@ -1,10 +1,20 @@
-#alias {k} {target %1; kill %1; uk;
-  #ticker {bx} {x} {2};
-}
+#nop general
+
+#alias {k} {target %1; storm %1;uk;
+#ticker {bx} {x} {2};}
+#alias {ky} {target %1; kill %1; wy;
+#ticker {bx} {x} {2};}
+#action {You decide to try a combat maneuver!} {uk}
+#alias {da} {deposit all;withdraw 5000;}
+#alias {va} {value all;}
 
 #alias {ubx} {
   #unticker {bx};
-}
+  }
+#variable TOTEM {wolf totem}
+#alias {tv} {keep $TOTEM;put $TOTEM in shrine;uvs;}
+#alias {utv} {get $TOTEM from shrine;keep $TOTEM;wear $TOTEM;}
+#alias {ctot} {get $TOTEM from shrine;l $TOTEM;put $TOTEM in shrine;}
 
 #alias {readalias} {
   #READ {$modulesdir/alias.tin};
@@ -15,16 +25,17 @@
 }
 
 #nop equipment handling
-#alias {mkeep} {keep axe;keep throwing dagger;keep flint;}
-#alias {mmiaodam} {wield axe;}
-#alias {mmiaologin} {mmiaodamkeep;mmiaodam;}
-#alias {eqdam} {mmiaodam;}
-
+#alias {mkeep} {keep great axe;keep "tita_great";keep throwing dagger;keep flint;keep wolf totem;
+keep helmet;keep cloak;keep belt;keep armour;keep sleeping bag;keep lantern;keep sack;
+keep ring of luck;}
+#alias {eqdam} {wield "tita_great" in right hand;wield great axe in left hand;wear wolf totem;
+wear helmet;wear cloak;wear belt;wear armour;wear ring of luck;}
+#alias {eqhpr} {remove wolf totem;wear bird totem;}
 
 #nop routes
-#alias {ve2leave} {brief;5 n;6 w;n;w;u;brief;leave game;#end;}
+#alias {ve2leave} {brief;5 n;6 w;n;w;u;brief;leave game;}
 #alias {leave2ve} {brief;d;e;s;6 e;5 s;drink fountain;brief;}
-#alias {ve2sg} {brief;6 s;2 e;3 se;15 s;e;2 s;brief;}
+#alias {ve2sg} {brief;6 s;2 e;3 se;15 s;e;2 s;e;brief;}
 #alias {ve2ng} {brief;29 n;brief;}
 #alias {ng2ve} {brief;29 s;drink fountain;brief;}
 #alias {ve2vw} {brief;12 e;4 n;2 w;brief;}
@@ -39,15 +50,43 @@
 #alias {ve2rat} {brief;6 s;2 e;3 se;7 s;28 e;brief;}
 #alias {ve2forest} {ve2drud;drud2forest;}
 #alias {ve2drud} {ve2sg;sg2drud;}
-#alias {sg2ve} {brief;2 n;w;15 n;3 nw;2 w;6 n;brief;}
-#alias {sg2elyr} {brief;s;8 w;3 sw;3 s;farm;brief;}
+#alias {ve2vadv} {brief;36 e;6 n;brief;}
+#alias {smithy2ve} {brief;n;18 e;25 s;brief;}
+#alias {ve2smithy} {brief;25 n;18 w;s;brief;}
+#alias {va2vbk} {brief;2 e;3 n;12 e;2 n;brief;}
+#alias {vbk2va} {brief;2 s;12 w;3 s;2 w;brief;}
+#alias {vbk2ve} {vbk2va;va2ve;}
+#alias {ve2va} {ve2vw;vw2va;}
+#alias {ve2vbk} {ve2va;va2vbk;}
+#alias {ve2hguhl} {ve2tunnel;tunnel2hguhl;}
+#alias {ve2tunnel} {ve2smithy;smithy2tunnel;}
+#alias {ve2shanty} {ve2tunnel;tunnel2shanty;}
+#alias {ve2namgeb} {ve2shanty;shanty2namgeb;}
+#alias {ve2vfur} {brief;25 n;21 e;2 se;2 s;brief;}
+#alias {vfur2ve} {brief;2 n;2 nw;21 w;25 s;brief;}
+#alias {ve2gale} {ve2ng;ng2gale;}
+#alias {ve2crypt} {ve2shanty;shanty2crypt;}
+#alias {vgem2va} {brief;2 s;6 e;3 s;2 w;brief;}
+#alias {va2vgem} {brief;2 e;3 n;6 w;2 n;brief;}
+#alias {vgem2ve} {vgem2va;va2ve;}
+#alias {ve2vgem} {ve2va;va2vgem;}
+
+
+#alias {ng2gale} {brief;n;8 e;4 n;brief;}
+#alias {gale2ng} {brief;4 s;8 w;s;brief;}
+#alias {gale2ve} {gale2ng;ng2ve;}
+#alias {vadv2ve} {brief;6 s;36 w;brief;}
+#alias {sg2ve} {brief;w;2 n;w;15 n;3 nw;2 w;6 n;brief;}
+#alias {sg2elyr} {brief;w;s;8 w;3 sw;3 s;farm;brief;}
 #alias {rat2ve} {brief;28 w;7 n;3 nw;2 w;6 n;drink fountain;brief;}
-#alias {sg2drud} {brief;s;4 e;3 ne;9 e;3 se;hut;brief;}
-#alias {drud2sg} {brief;out;3 nw;9 w;3 sw;4 w;n;brief;}
+#alias {sg2drud} {brief;w;s;4 e;3 ne;9 e;3 se;hut;brief;}
+#alias {drud2sg} {brief;out;3 nw;9 w;3 sw;4 w;n;e;brief;}
 #alias {drud2forest} {brief;out;3 n;9 e; 2 ne;10 e;2 se;4 sw;brief;}
 #alias {drud2ve} {drud2sg;sg2ve;}
+#alias {drud2orc} {brief;out;3 n;9 e;9 s;9 se;7 e;path;brief;}
+#alias {orc2drud} {brief;leave;7 w;9 nw;9 n;9 w;3 s;hut;brief;}
 
-#alias {elyr2sg} {brief;out;3 n;3 ne;8 e;n;brief;}
+#alias {elyr2sg} {brief;out;3 n;3 ne;8 e;n;e;brief;}
 #alias {elyr2drud} {elyr2sg;sg2drud;}
 #alias {rat2sg} {rat2ve;ve2sg;}
 #alias {death2sg} {brief;out;2 se;e;3 se;e;2 se;e;2 ne;4 3;n;brief;}
@@ -56,5 +95,30 @@
 #alias {forest2sg} {forest2drud;drud2sg;}
 #alias {sg2forest} {sg2drud;drud2forest;}
 
+#alias {tunnel2hguhl} {brief;3 u;s;nw;3 w;nw;2 w;brief;}
+#alias {hguhl2tunnel} {brief;2 e;se;3 e;se;n;3 d;brief;}
+#alias {tunnel2smithy} {brief;3 u;s;4 e;ne;e;2 ne;3 e;n;2 nw;3 w;s;brief;}
+#alias {smithy2tunnel} {brief;n;3 e;2 se;s;3 w;2 sw;w;sw;4 w;n;3 d;brief;}
+#alias {tunnel2ve} {tunnel2smithy;smithy2ve;}
+#alias {hguhl2shanty} {brief;3 w;3 nw;3 n;6 nw;12 w;path;brief;}
+#alias {shanty2crypt} {brief;road;12 e;8 n;16 nw;25 n;3 ne;3 nw;2 w;sw;nw;w;3 nw;n;clearing;brief;}
+#alias {crypt2shanty} {brief;forest;s;3 se;e;se;ne;2 e;3 se;3 sw;25 s;16 se;8 s;12 w;path;brief;}
+#alias {crypt2ve} {crypt2shanty;shanty2ve;}
+#alias {rebel2drud} {brief;w;6 n;5 nw;hut;brief;}
+#alias {drud2rebel} {brief;out;5 se;6 s;e;brief;}
+#alias {rebel2sg} {sg2drud;drud2rebel;}
+#alias {sg2rebel} {sg2drud;drud2rebel;}
+
+
+#alias {shanty2hguhl} {brief;road;12 e;6 se;3 s;3 se;3 e;brief;}
+#alias {hguhl2ve} {hguhl2tunnel;tunnel2ve;}
+#alias {tunnel2shanty} {tunnel2hguhl;hguhl2shanty;}
+#alias {shanty2tunnel} {shanty2hguhl;hguhl2tunnel;}
+#alias {shanty2ve} {shanty2tunnel;tunnel2ve;}
+#alias {shanty2namgeb} {brief;road;12 e;8 n;ne;n;nw;n;ne;2 e;4 ne;2 nw;n;ne;e;ne;2 nw;2 n;
+5 ne;n;2 nw;path;brief;}
+#alias {namgeb2shanty} {brief;leave;2 se;s;5 sw;2 s;2 se;sw;w;sw;s;2 se;4 sw;2 w;sw;s;se;s;sw;8 s;12 w;path;brief;}
+#alias {namgeb2tunnel} {namgeb2shanty;shanty2tunnel;}
+#alias {namgeb2ve} {namgeb2tunnel;tunnel2ve;}
 #alias {ve2wild} {ve2sg;e;}
 #alias {wild2ve} {w;sg2ve;}

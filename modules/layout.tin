@@ -1,6 +1,73 @@
 #split 0 2
+#nop#split 0 2 0 -110
+#nop#map offset 1 121 -4 -1
+#nop#map flag vtmap on
 
+#FUNCTION {colscale}
+{
+     #switch {10 * %1 / %2}
+     {
+          #case {0}
+          {
+               #return <faa>
+          };
+          #case {1}
+          {
+               #return <fba>
+          };
+          #case {2}
+          {
+               #return <fca>
+          };
+          #case {3}
+          {
+               #return <fda>
+          };
+          #case {4}
+          {
+               #return <fea>
+          };
+          #case {5}
+          {
+               #return <ffa>
+          };
+          #case {6}
+          {
+               #return <efa>
+          };
+          #case {7}
+          {
+               #return <dfa>
+          };
+          #case {8}
+          {
+               #return <cfa>
+          };
+          #case {9}
+          {
+               #return <bfa>
+          };
+          #default
+          {
+               #return <afa>
+          }
+     }
+}
 
+#ACTION {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>}
+{
+     #variable hpcol @colscale{%1;%2};
+     #variable mncol @colscale{%3;%4};
+     #variable epcol @colscale{%5;%6};
+     #format time %t {%H:%M};
+     #format {prompt1} {H: %s%s<238>/<138>%s<099>} {$hpcol} {%1} {%2};
+     #format {prompt2} {S: %s%s<238>/<138>%s<099>} {$mncol} {%3} {%4};
+     #format {prompt3} {E: %s%s<238>/<138>%s<099>} {$epcol} {%5} {%6}
+}
+{1}
+
+#PROMPT {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {$prompt1  $prompt2  $prompt3 EXP:%7(%8) $:%9 %10 $TARGET:$TARGET_STATUS} {row -2} {}
+/*
 #nop status bar
 #var HP 0;
 #var MAXHP 0;
@@ -26,7 +93,8 @@
 }
 
 #prompt {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10 $TARGET:$TARGET_STATUS} {row -2}
+*/
 #variable TARGET {NA}
 #variable TARGET_STATUS {NA}
 
-#nop#action {%1 is %2}
+#nop #action {%1 is %2}

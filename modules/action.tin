@@ -1,9 +1,35 @@
-#action {You decide to try a combat maneuver!} {uk}
-#action {Battle over} {loot;
-  #unticker {bx};
-  #delay {2} {scor};
+#var LOOT 1
+#action {Battle over} {#unticker {bx}; #delay {2} {scor};
+#if {$LOOT == 1} {loot};
 }
 
 #action {You try to find a good spot to flee from battle} {
   #unticker {bx};
 }
+
+#action {KEEP-ALIVE} {exp}
+
+#action {You fail miserably.} {!}
+
+#nop momentum
+#function {rnd} {#math {result} {1 d (%2 - %1 + 1) + %1 - 1}}
+#function {delmom} {#math {rr} {10.0 / @rnd{4;20}};
+#showme delay $rr;
+#delay {$rr} {use %1};
+};
+
+
+/*
+action {Your rapid moves allow you to create enough space to perform a %1} {@delmon{%1}};
+action {As your opponent takes a step backwards you gain an ideal moment to do a swift %1.} {@delmon{%1};}
+*/
+
+#action {Your rapid moves allow you to create enough space to perform a %*.} {@delmom{%1};};
+#action {You lunge at your enemy and create an opportunity to execute a %*.} {@delmom{%1};};
+#action {Perfect opening to perform a %* arises as your opponent makes a slight mistake.} {@delmom{%1}};
+#action {As your opponent takes a step backwards you gain an ideal moment to do a swift %*.} {@delmom{%1};};
+#action {You gain an upper hand in the combat allowing you to perform a rapid %*!} {@delmom{%1};};
+
+
+/*totem*/
+#action {You study the body of the beast and collect together what you believe are the essential pieces, but the assembled whole fails.} {ubec;}
