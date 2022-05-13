@@ -17,6 +17,25 @@
 #READ {$modulesdir/macro.tin}
 #READ {$modulesdir/highlight.tin}
 #READ {$modulesdir/party.tin}
+#READ {$modulesdir/log.tin}
+#READ {$modulesdir/gag.tin}
+#READ {$modulesdir/wilder.tin}
+
+#alias reload {
+#READ {$modulesdir/layout.tin};
+#READ {$modulesdir/login.tin};
+#READ {$modulesdir/config.tin};
+#READ {$modulesdir/echo.tin};
+#READ {$modulesdir/alias.tin};
+#READ {$modulesdir/action.tin};
+#READ {$modulesdir/macro.tin};
+#READ {$modulesdir/highlight.tin};
+#READ {$modulesdir/party.tin};
+#READ {$modulesdir/log.tin};
+#READ {$modulesdir/gag.tin};
+#READ {$modulesdir/wilder.tin};
+#showme reload done!;
+}
 
 #nop #READ {$modulesdir/map.tin}
 

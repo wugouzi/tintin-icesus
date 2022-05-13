@@ -1,0 +1,90 @@
+#+TITLE: Wilder
+
+
+Archery
+
+   You have been: completely clueless.
+Axe combat
+
+   You have been: alarming and haphazard.
+Binding
+
+   You have been: useless, clumsy and impractical.
+Chanting
+
+   You have been: futile.
+Close fighting
+
+
+* Mastery
+** altruism
+    The key to the survival of the wilders is that they understand the tribe is more important than
+    any individual. When each member acts only for the best interest of the whole, the tribe is
+    unstoppable. As this improves a wilder will be better at sacrificing himself and forgoing food
+    for the good of the tribe.
+    |self-protective|
+** archery
+    Standing back and shooting is a bit alien to wilders, but when their numbers are sufficient it
+    is a useful tactic. Most important is the ability to see and sense where and how opponents and
+    allies are going to move in battle, and to have an arrow in the right spot at the right time.
+    Complete mastery of archery gives a total battle picture that can be helpful for guiding a
+    battle.
+    | completely clueless|
+** axe combat
+    The primary weapon of the wilder is the axe. The years spent in the wastes with only scraps of
+    metal meant swords were a waste of resources. They have learned to deal mighty blow with the axe
+    and to take advantage of its unique abilities  to hook and pull an enemy. With skill in axe
+    combat, wilders can choose where to hit an opponent to maximize their damage. (e.g. aim at head)
+    | haphazard |
+    | unsafe    |
+** binding
+    A wilder's totem is the key to his physical powers, and without binding of essence there is no
+    totem. Binding can not be taught, it must be learned through study and use. A totem which poorly
+    binds a creatures spirit will be little more than an ornament.
+    | clumsy      |
+    | impractical |
+    | akward      |
+** chanting
+    The wise shamans use chanting to transfer their fruits of their wisdom to the rest of the tribe.
+    Rhetoric and persuasive speech are not effective means for communicating with the tribe.
+    |futile|
+    |ineffective|
+** close fighting
+    Wilders are masters of up close fighting. Circling and feinting are not used so much as head
+    butting, kicking, eye gouging, overrunning and grappling. The only reason to step an inch from
+    your opponent is to get a really good swing at him with your axe.
+    |oafish|
+** courage
+    Unlike the fighting styles of most men, the wilders do not seek to minimize pain and wounding to
+    themselves. Victory is all that matters, not pain, not humiliation, not death.
+    | bloodless     |
+    | faint hearted |
+    |               |
+** respect
+    Your respect is a measure of your belief in a power beyond yourself. Without respect you are no
+    more than yourself. With respect you can develop a relationship with the universe beyond
+    yourself.
+
+    totem tier
+    |irreligious|
+    |unbelieving|
+** sagacity
+    As brutal as a wilder's life is, it would be ill spent if not guided to a purpose. Those wilders
+    that study the purpose will develop their sagacity and share the wisdom and power from this with
+    the rest of the tribe.
+
+    reduce ep
+    |ignorant|
+* Miscellaneous
+** totem
+    | It is charged with a tiny amount of veneration.   |
+    | It is charged with a little amount of veneration. |
+    | It is charged with some veneration.               |
+    | It is charged with quite a lot veneration.        |
+    | It is charged with more than enough veneration.   |
+    | It is charged with a huge amount of veneration. |
+** chant
+    durability
+
+** marking
+    Wilder says: The marking of travel is made with a deer heart. It will make lit easier to travel long distances.

@@ -1,7 +1,7 @@
 #split 0 2
-#nop#split 0 2 0 -110
-#nop#map offset 1 121 -4 -1
-#nop#map flag vtmap on
+#nop #split 0 2 0 -110
+#nop #map offset 1 121 -4 -1
+#nop #map flag vtmap on
 
 #FUNCTION {colscale}
 {

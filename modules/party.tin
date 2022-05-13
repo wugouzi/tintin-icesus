@@ -1,3 +1,23 @@
+#var PMODE 0;
 #alias pmode {
+#if {$PMODE == 1} {#var PMODE 0};
+#else {
+#var PMODE 1;
+#show PARTY MODE!;
 #var LOOT 0;
-}
+}};
+
+#alias pc {party create ringo;}
+#alias pj {party join;#var LOOT 0;}
+
+/*
+#send dg;get ~"aerhearts~",~"aerious~",~"aerious~",~"aerious~",get all tattered
+paper,all limb,all misc,all relic,all symbol,all dust,all treasure,all shard,all boon,vial,platinum
+to @cashcontainer,gold to @cashcontainer,mithril to @cashcontainer,all heart to ~"aerhearts~",all
+material silk to @lootcontainer,all material fine steel to @lootcontainer,all gem to @lootcontainer
+,all sleeping bag to @lootcontainer,all iron shortsword to @lootcontainer,all iron longsword to
+@lootcontainer,all iron breastplate to @lootcontainer,all iron falchion to @lootcontainer,all iron
+knife to @lootcontainer,all iron dagger to @lootcontainer,all iron sabre to @lootcontainer,all iron
+knight shield to @lootcontainer,all iron rapier to @lootcontainer,all material steel to
+@lootcontainer%expand(@loottest)
+*/

@@ -1,0 +1,2912 @@
+#LOG: LOGGING OUTPUT TO './log/log.txt' FILESIZE: 0
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  94% EP:[#######] 100% PSP:[#######] 103%
+Chelan pushes one of the bricks and reveals a hidden cave leading south!
+Chelan [party]: or not
+The party goes south to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+in from caving in are rotting away, and it wouldn't take much to cause them
+to fall.
+
+The ground is covered with muddy water.
+        The obvious exits are north, south and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Reaching this place makes you feel more experienced as you have explored yet another part of the world.
+The party goes east to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+in from caving in are rotting away, and it wouldn't take much to cause them
+to fall.
+
+The ground is covered with muddy water.
+        The only obvious exit is west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Large goblin, bullying around trying to pick a fight
+Goblin swinging around with its long spear
+Shalafi Tendulkar, human plaguebringer, elder magus (fighting) <Rama>
+Chelan, beholder curate of Earth, lord of the undead (fighting) <Rama>
+Large goblin notices you and attacks!
+Goblin notices you and attacks!
+<party>: Shalafi >> HP:[#######] 100% SP:[###### ]  92% EP:[#######] 100%
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ####'
+Chelan's ethereal pounds Goblin.
+Chelan's ethereal crushes Goblin.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  91% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Seismic shockwave (116%): #####'
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ###'
+Chelan's ethereal firmly bashes Goblin.
+Chelan's ethereal crushes Goblin.
+Chelan's ethereal smashes Goblin.
+Goblin hits you causing small bruises.
+Large goblin misses.
+<party>: Chelan reports 'Seismic shockwave (116%): ####'
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ##'
+Chelan's ethereal powerfully bashes Large goblin.
+Chelan's ethereal pounds Large goblin.
+KEEP-ALIVE
+<party>: Chelan reports 'Seismic shockwave (116%): ##'
+<party>: Chelan's ethereal reports 'Bane of the living (135%): #'
+Chelan's ethereal firmly bashes Large goblin.
+Chelan's ethereal pounds Large goblin.
+Chelan's ethereal crushes Large goblin.
+Chelan's ethereal crushes Large goblin.
+Goblin strikes Chelan's ethereal.
+Goblin strikes Chelan's ethereal.
+Large goblin smites Chelan's ethereal.
+Large goblin smites Chelan's ethereal.
+Chelan stomps his foot hard to the ground and intones 'precor ventus'.
+Chelan stumbles over the complexity of his incantation.
+Chelan's ethereal waves its hands in a large arch and shouts 'Lhi R'ordu'.
+Large goblin and Goblin turn immensely pale and all of them start simultaneously gasping for air like they would be suffocating.
+Large goblin gets STUNNED from massive pain.
+Goblin gets STUNNED from massive pain.
+You gain 253 experience as your party share.
+You gain 0 bonus experience for being in a nice party.
+Goblin howls in agony as it dies.
+
+,-------------------------------------------------------------------------.
+| Goblin's death report (2801 exp)                                        |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Magical (71%)       ***********************************                |
+|  Physical (28%)      **************                                     |
+|  Total (100%)        ************************************************** |
+|                                                                         |
+| Duration of the kill: 8s.                                               |
+`-------------------------------------------------------------------------'
+Chelan's ethereal smashes Large goblin.
+You slice Large goblin.
+Large goblin gets WOUNDED from the massive damage. His torso starts to bleed!
+The wound on Large goblin bleeds.
+You feel like Large goblin was a worthy opponent indeed.
+You gain 402 experience as your party share.
+You gain 296 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Large goblin gives you a last glance before its eyes close forever.
+
+,-------------------------------------------------------------------------.
+| Large goblin's death report (4428 exp)                                  |
+|-------------------------------------------------------------------------|
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (6%)          ***                                                |
+| Chelan's ethereal                                                       |
+|  Magical (70%)       ***********************************                |
+|  Physical (29%)      **************                                     |
+|  Total (93%)         **********************************************     |
+|                                                                         |
+| Duration of the kill: 6s.                                               |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan digs a large mass-grave for all the corpses and shoves them in.
+Chelan gets 5 platinum coins, hill-sized pile of silver coins and small pile of gold coins.
+Chelan gets a red bloodstained heart of goblin and red bloodstained heart of large goblin to a huge sack.
+Chelan gets a white gloves, white boots, white pants, white scarf, white cap, white spear, white gloves, white boots, white pants, white shirt, white cap and light gray mace to a huge sack.
+Chelan drops a hill-sized pile of silver coins.
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+in from caving in are rotting away, and it wouldn't take much to cause them
+to fall.
+
+The ground is covered with muddy water.
+        The obvious exits are north, south and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+in from caving in are rotting away, and it wouldn't take much to cause them
+to fall.
+
+The ground is covered with muddy water.
+        The obvious exits are south and north.
+Chelan's nether sentinel, silently waiting for orders from its master
+Goblin swinging around with its long spear
+Shalafi Tendulkar, human plaguebringer, elder magus (fighting) <Rama>
+Chelan, beholder curate of Earth, lord of the undead (fighting) <Rama>
+Goblin notices you and attacks!
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  94% EP:[#######] 100% PSP:[#######] 103%
+Chelan's ethereal crushes Goblin.
+<party>: Chelan's ethereal reports 'Erosion (135%): ###'
+Chelan's ethereal powerfully bashes Goblin.
+  ..and skillfully hits his foe again crushing the kneecap.
+Striking fast, striking hard, the infused elemental energy emanating from Chelan's ethereal flares in memories, faint images in flickering in your mind's eye, causing Goblin to spasm ferociously!
+Chelan's ethereal pounds Goblin.
+Goblin gets STUNNED from massive pain.
+Chelan's ethereal masterfully strikes Goblin.
+Goblin cries out in pain!
+You gain 218 experience as your party share.
+You gain 0 bonus experience for being in a nice party.
+Goblin gives you a last glance before its eyes close forever.
+
+,-------------------------------------------------------------------------.
+| Goblin's death report (2637 exp)                                        |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Magical (39%)       *******************                                |
+|  Psionic (10%)       *****                                              |
+|  Physical (49%)      ************************                           |
+|  Total (100%)        ************************************************** |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a large pile of silver coins and small pile of gold coins.
+Chelan gets a red bloodstained heart of goblin to a huge sack.
+Chelan gets a white gloves, white boots, white pants, white gloves, white cap and white spear to a huge sack.
+Chelan drops a large pile of silver coins.
+The party goes south to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls. One of the supports is oddly covered with cobwebs and other debris.
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.Some water steadily flows in from the small southern sewer tunnel,
+filling the air with a horrible smell.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls. One of the supports is oddly covered with cobwebs and other debris.
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows through this room, filling the room with a vile stench. The
+walls are lined with wooden timbers, which support the mud packed walls. 
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall. A small abandoned dead-end tunnel is above the water to south.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The stench of the sewer is less here, as the water is moving more swiftly
+in this larger tunnel. The construction of the tunnel has also changed, the
+wooden timbers supporting the tunnels are gone, and the tunnel is now made
+of stone.  There are a variety of little cracks and fissures among the
+stone, where the water has started to erode the stone away.  Occasionally
+you can hear the squeak of a rat echoing throughout the tunnel. The main
+tunnel continues to east and west, and some water flows in from the smaller
+southern tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall. A small abandoned dead-end tunnel is above the water to south.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows through this room, filling the room with a vile stench. The
+walls are lined with wooden timbers, which support the mud packed walls. 
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls. One of the supports is oddly covered with cobwebs and other debris.
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.Some water steadily flows in from the small southern sewer tunnel,
+filling the air with a horrible smell.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+You feel fully healed.
+You feel fully rested.
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.The stone tunnel continues to east, and the southwestern tunnel
+seems to be made of mud supported by wooden timbers.
+
+The ground is covered with muddy water.
+        The obvious exits are east and southwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+lp
+History of party channel:
+(13:54) Shalafi [party]: 99.11.87
+(13:54) Chelan [party]: mm
+(13:54) Shalafi [party]: mmm soul swarm
+(13:54) Shalafi [party]: +++ or ++++ perhaps
+(13:55) Chelan [party]: a hole
+(13:55) Chelan [party]: too big :(
+(13:55) Shalafi [party]: too big
+(13:55) Shalafi [party]: ohh right
+(13:55) Chelan [party]: ?
+(13:55) Shalafi [party]: these mobs dont count to my kills total
+(13:55) Shalafi [party]: puny
+(13:55) Chelan [party]: :(
+(13:55) [party]: Shalafi shrugs its shoulders.
+(13:56) Chelan [party]: I think the brick is already pressed
+(13:56) Chelan [party]: or not
+
+The party goes southwest to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here.
+
+The ground is covered with muddy water.
+        The obvious exits are northeast and southwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes southwest to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here.
+
+The ground is covered with muddy water.
+        The obvious exits are south, northeast and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here. There was an exit to a northern
+maintenance tunnel but a pile of rocks has collapsed from the ceiling,
+blocking the tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Shalafi >> HP:[#######] 100% SP:[###### ]  97% EP:[#######] 100%
+The party goes west to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here. Wooden ladder leads up to the
+manhole.
+
+The ground is covered with muddy water.
+        The obvious exits are east and up.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes up to: This is a manhole going down to the sewers of Vaerlon. The smell coming
+from down is absolutely hideous, the idea of going down there feels
+repulsive. This manhole has been dug into the stone and dirt by the skilled
+dwarven miners, so the quality of the work is very good. Some light is
+coming from upstairs, but it's completely dark down there. A steel ladder
+goes up from this landing, and a wooden ladder leads down.
+
+A steel manhole cover leading up (closed).
+        The only obvious exit is down.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes down to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here. Wooden ladder leads up to the
+manhole.
+
+The ground is covered with muddy water.
+        The obvious exits are east and up.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here. There was an exit to a northern
+maintenance tunnel but a pile of rocks has collapsed from the ceiling,
+blocking the tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here.
+
+The ground is covered with muddy water.
+        The obvious exits are south, northeast and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: It is wide, roughly oval shaped room, some fifteen meters long in the
+north-south axis, and some eight meters in east-west direction. The room is
+dark, and a lot of collapsed rock and stone lies in piles around this room;
+looks like the ceiling has collapsed not so long ago. The floor is cup
+shaped, on the edges it is dry, but in the middle of the room there is body
+of water. In the middle of room is biggest pile of stone, it looks like a
+broken stone pillar.
+
+        The only obvious exit is north.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here.
+
+The ground is covered with muddy water.
+        The obvious exits are south, northeast and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes northeast to: You find yourself walking in a tunnel with a roof which arches above your
+head and curves down in a semi-circle to the floor. The floor is covered
+with rotting sewage. Some of it has formed small pools which give off
+unimaginable stench. There seem to be some kind of wooden supports that
+crisscross the walls and the roof here.
+
+The ground is covered with muddy water.
+        The obvious exits are northeast and southwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100% PSP:[#######] 103%
+The party goes northeast to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.The stone tunnel continues to east, and the southwestern tunnel
+seems to be made of mud supported by wooden timbers.
+
+The ground is covered with muddy water.
+        The obvious exits are east and southwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.Some water steadily flows in from the small southern sewer tunnel,
+filling the air with a horrible smell.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls. One of the supports is oddly covered with cobwebs and other debris.
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows through this room, filling the room with a vile stench. The
+walls are lined with wooden timbers, which support the mud packed walls. 
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall. A small abandoned dead-end tunnel is above the water to south.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The stench of the sewer is less here, as the water is moving more swiftly
+in this larger tunnel. The construction of the tunnel has also changed, the
+wooden timbers supporting the tunnels are gone, and the tunnel is now made
+of stone.  There are a variety of little cracks and fissures among the
+stone, where the water has started to erode the stone away.  Occasionally
+you can hear the squeak of a rat echoing throughout the tunnel. The main
+tunnel continues to east and west, and some water flows in from the smaller
+southern tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The stench of the sewer is less here, as the water is moving more swiftly
+in this larger tunnel. The construction of the tunnel has also changed, the
+wooden timbers supporting the tunnels are gone, and the tunnel is now made
+of stone.  There are a variety of little cracks and fissures among the
+stone, where the water has started to erode the stone away.  Occasionally
+you can hear the squeak of a rat echoing throughout the tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer tunnel is massive in size. You estimate its width to be around 10
+metres and the ceiling hangs a few meters above you. On both sides of the
+tunnels are walkways, allowing relatively clean and, most importantly, dry
+adventuring to southeast. Those going to northwest or west have to wade
+through the sewage. Between the walkways putrid water flows almost
+unnoticeably slow. Occasionally a few air-bubbles rise from the depths. The
+walls and the arched ceiling is infested with moss and lichen, which have
+transformed to a dubious colour and appearance. Breathing is quite arduous,
+since the air is musky and tangy. Echo of water dripping from the ceiling
+makes your nerves tense. Here the two main sewers merge as one, that flows
+slowly towards the lake to southeast. A ladder goes up to a manhole.
+
+        The obvious exits are southeast, west, northwest and up.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes northwest to: This is one of the primary passages, twenty meters across and contains
+meter-wide railless walkway-ledges on both sides. The air is, for some
+reason, reasonably good in this part of the tunnel. However, lots of noise
+echoes from the water flow, and a terrible rotten stench still engulfs this
+part of the tunnel. Water is flowing in from a small natural cave from
+northeast.
+
+The ground is covered with muddy water.
+        The obvious exits are southeast, northeast and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes northwest to: The stench of the sewer is less here, as the water is moving more swiftly
+in this larger tunnel. The construction of the tunnel has also changed, the
+wooden timbers supporting the tunnels are gone, and the tunnel is now made
+of stone.  There are a variety of little cracks and fissures among the
+stone, where the water has started to erode the stone away.  Occasionally
+you can hear the squeak of a rat echoing throughout the tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are southeast and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes northwest to: The stench of the sewer is less here, as the water is moving more swiftly
+in this larger tunnel. The construction of the tunnel has also changed, the
+wooden timbers supporting the tunnels are gone, and the tunnel is now made
+of stone. There are a variety of little cracks and fissures among the
+stone, where the water has started to erode the stone away. Occasionally
+you can hear the squeak of a rat echoing throughout the tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are southeast and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows through this room, filling the room with a vile stench. The
+walls are lined with wooden timbers, which support the mud packed walls. 
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer.
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall. Small corridor seems to start from here and continue to south.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east, west and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  95% EP:[#######] 100% PSP:[#######] 103%
+The party goes south to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+in from caving in are rotting away, and it wouldn't take much to cause them
+to fall.
+
+The ground is covered with muddy water.
+        The obvious exits are north, south and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+in from caving in are rotting away, and it wouldn't take much to cause them
+to fall.
+
+The ground is covered with muddy water.
+        The only obvious exit is west.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+in from caving in are rotting away, and it wouldn't take much to cause them
+to fall.
+
+The ground is covered with muddy water.
+        The obvious exits are north, south and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer.
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall. Small corridor seems to start from here and continue to south.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east, west and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The sewer flows through this room, filling the room with a vile stench. The
+walls are lined with wooden timbers, which support the mud packed walls.
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer. A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+A stinking little rat
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Shalafi >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100%
+The party goes west to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: You are in a round chamber with slightly angled floor towards the center of
+the chamber, where is a gaping black hole in the floor the putrid sewage
+water from the three tunnels flow into with a loud gurgling. To get to the
+other side of the chamber, there are walkways following the wall very
+closely, so one has to circle the chamber to access into the other tunnel
+entrances. The air is breathable here because of almost adequate
+ventilation provided by the three winding sewer corridors.
+
+The ground is covered with muddy water.
+        The obvious exits are north, east and southwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Red lizard, stalking for food
+Cave fisher, crawling with its eight legs
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+pas i think i need to explore here later, to get a map:D
+Mmiao [party]: i think i need to explore here later, to get a map:D
+
+Chelan starts concentrating on a spell.
+Chelan's use of powerful magic disturbs Red lizard!
+l
+You are in a round chamber with slightly angled floor towards the center of
+the chamber, where is a gaping black hole in the floor the putrid sewage
+water from the three tunnels flow into with a loud gurgling. To get to the
+other side of the chamber, there are walkways following the wall very
+closely, so one has to circle the chamber to access into the other tunnel
+entrances. The air is breathable here because of almost adequate
+ventilation provided by the three winding sewer corridors.
+It is pitch-black!
+
+The ground is covered with muddy water.
+        The obvious exits are north, east and southwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Red lizard, stalking for food
+Cave fisher, crawling with its eight legs
+Shalafi Tendulkar, human plaguebringer, elder magus (fighting) <Rama>
+Chelan, beholder curate of Earth, lord of the undead (fighting) <Rama>
+
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  96% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Seismic shockwave (116%): ####'
+Chelan's ethereal pounds Red lizard.
+Chelan's ethereal smashes Red lizard.
+eq
+		Your equipment:
+
+Wielded in right hand: silvery gray great axe named "tita_great"
+Wielded in left hand: light gray great axe
+
+Worn on head: red orange helmet
+Worn as amulet: feeble wolf totem
+Worn as cloak: white cloak
+Worn on torso, left arm and right arm: light gray armour
+Worn on left finger: ring of luck <intense green glow>
+Worn on belt: brown belt
+
+You have no worn clothes.
+You have no miscellaneous item.
+
+You have pitiful overall protection against physical damage.
+
+Dark energy starts to swirl around Shalafi's hands.
+<party>: Shalafi >> HP:[#######] 100% SP:[###### ]  98% EP:[#######] 100%
+<party>: Shalafi reports 'Haunter of the dark (179%): ###'
+Chelan's ethereal powerfully bashes Red lizard.
+Red lizard moans in anguish.
+Chelan's ethereal pounds Red lizard.
+Red lizard bites Shalafi.
+<party>: Chelan reports 'Seismic shockwave (116%): ##'
+<party>: Shalafi >> HP:[###### ]  99% SP:[###### ]  98% EP:[#######] 100%
+<party>: Shalafi reports 'Haunter of the dark (181%): #'
+Chelan's ethereal powerfully bashes Red lizard.
+Chelan's ethereal crushes Red lizard.
+Chelan's ethereal smashes Red lizard.
+Chelan [party]: yea I'm not mapping :D
+<party>: Chelan reports 'Seismic shockwave (116%): #'
+Shalafi moves its hands in front of it creating a full circle and screams with an ear-shattering voice 'MALA FIDI!'. A swarm of ethereal bats appear in a dark explosion between Shalafi's hands and start flying everywhere!
+Red lizard hits you causing small scratches.
+Chelan's ethereal powerfully bashes Cave fisher.
+  ..and skillfully hits his foe again crushing the kneecap.
+Cave fisher writhes in agony.
+Chelan's ethereal crushes Cave fisher.
+Ethereal bats fly around Shalafi's mindlessly and flock at its enemies, biting and tearing them apart piece by piece.
+Cave fisher gets STUNNED from massive pain.
+Dark energy starts to swirl around Shalafi's hands.
+Chelan stomps his foot hard to the ground and intones 'precor ventus'.
+A huge earthquake shakes the ground as the spell is finished!
+... but somehow you remain unharmed!
+Red lizard gets STUNNED from massive pain.
+You gain 309 experience as your party share.
+You gain 86 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased barely at all.
+Cave fisher howls in agony as it dies.
+
+,-------------------------------------------------------------------------.
+| Cave fisher's death report (3933 exp)                                   |
+|-------------------------------------------------------------------------|
+| Chelan                                                                  |
+|  Physical (100%)     ************************************************** |
+|  Total (0%)          *                                                  |
+| Chelan's ethereal                                                       |
+|  Magical (85%)       ******************************************         |
+|  Physical (14%)      *******                                            |
+|  Total (56%)         ****************************                       |
+| Shalafi                                                                 |
+|  Magical (100%)      ************************************************** |
+|  Total (43%)         *********************                              |
+`-------------------------------------------------------------------------'
+<party>: Shalafi >> HP:[###### ]  99% SP:[###### ]  97% EP:[###### ]  97%
+Shalafi's spellblade reacts to its spellcasting and it seems to continue casting at an amazing speed.
+Shalafi slashes through the air with its hand! From the palm, a wave of magical force gets unleashed, the substance of which gets quickly pulled into a bunch of missiles, which then independently streak outwards through the air!
+A fist-sized force missile streaks through the air and hits Red lizard in the tail! It explodes into a tiny burst of force on contact.
+Red lizard gets WOUNDED from the massive damage. Its tail starts to bleed!
+A fist-sized force missile streaks through the air and hits Red lizard in the left foreleg! It explodes into a tiny burst of force on contact.
+You feel like Red lizard was a worthy opponent indeed.
+You gain 620 experience as your party share.
+You gain 530 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Red lizard howls in agony as it dies.
+
+,-------------------------------------------------------------------------.
+| Red lizard's death report (6997 exp)                                    |
+|-------------------------------------------------------------------------|
+| Chelan                                                                  |
+|  Physical (100%)     ************************************************** |
+|  Total (16%)         ********                                           |
+| Chelan's ethereal                                                       |
+|  Magical (62%)       *******************************                    |
+|  Physical (37%)      ******************                                 |
+|  Total (48%)         ************************                           |
+| Shalafi                                                                 |
+|  Magical (68%)       **********************************                 |
+|  Physical (31%)      ***************                                    |
+|  Total (34%)         *****************                                  |
+|                                                                         |
+| Duration of the kill: 8s.                                               |
+`-------------------------------------------------------------------------'
+The errant missile streaks aimlessly through the air and hits nothing before vanishing.
+The errant missile streaks aimlessly through the air and hits nothing before vanishing.
+The errant missile streaks aimlessly through the air and hits nothing before vanishing.
+Battle over.
+Chelan [party]: just trying to remember
+The ethereal bat swarm scatters and vanishes in a dark explosion.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  93% EP:[#######] 100% PSP:[#######] 103%
+<party>: Shalafi >> HP:[###### ]  98% SP:[###### ]  95% EP:[###### ]  97%
+Chelan digs a large mass-grave for all the corpses and shoves them in.
+Chelan gets a platinum coin, large pile of silver coins and small pile of gold coins.
+Chelan gets a red bloodstained heart of cave fisher and red bloodstained heart of red lizard to a huge sack.
+Chelan drops a large pile of silver coins.
+pas :DD
+Mmiao [party]: :DD
+
+The party goes southwest to: You find yourself walking in a tunnel with a roof which curves above your
+head and goes down in a semi-circle to the floor. The floor is covered with
+rotting sewage, some of it has formed into small pools which give off
+unimaginable stench. There seems to be some kind of wooden supports that
+criss cross the walls and the roof here.
+
+        The obvious exits are northeast and southwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Carrion crawler, searching the trash for corpses
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan attacks Carrion crawler.
+Carrion crawler dodges.
+<party>: Chelan's ethereal reports 'Soulburn (135%): ######'
+Chelan's ethereal powerfully bashes Carrion crawler.
+Chelan's ethereal pounds Carrion crawler.
+Carrion crawler beats Shalafi.
+You furiously kick your forehooves into Carrion crawler's body, making it stagger about in pain.
+score -r
+You are known in the following communities:
+ You are popular in The City of Vaerlon.
+ You are neither liked nor disliked in Kingdom of Valkor.
+<party>: Chelan's ethereal reports 'Soulburn (135%): #####'
+Carrion crawler dodges.
+Chelan's ethereal pounds Carrion crawler.
+Chelan's ethereal smashes Carrion crawler.
+You feebly kick Carrion crawler in the body with your backhooves creating slight bruises.
+<party>: Chelan's ethereal reports 'Soulburn (135%): ###'
+Chelan's ethereal misses.
+Chelan's ethereal smashes Carrion crawler.
+Chelan's ethereal crushes Carrion crawler.
+Carrion crawler strikes Chelan's ethereal.
+Chelan [party]: :DD
+<party>: Chelan's ethereal reports 'Soulburn (135%): #'
+Chelan's ethereal firmly bashes Carrion crawler.
+Carrion crawler hits you causing rather negligible wounds.
+You miss.
+<party>: Mmiao >> HP:[###### ]  96% SP:[#######] 100% EP:[###### ]  98%
+Chelan's ethereal chants 'Radr^z khanas' with a steady voice.
+Carrion crawler starts screaming horribly in pain as the spell attacks the bond between its soul and mortal body, weakening the bond and trying to force the soul out of the body.
+Carrion crawler gets STUNNED from massive pain.
+Chelan's ethereal powerfully bashes Carrion crawler.
+You feel like Carrion crawler was a worthy opponent indeed.
+You gain 670 experience as your party share.
+You gain 599 bonus experience for being in a nice party.
+Carrion crawler gives you a last glance before its eyes close forever.
+
+,-------------------------------------------------------------------------.
+| Carrion crawler's death report (7505 exp)                               |
+|-------------------------------------------------------------------------|
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (7%)          ***                                                |
+| Chelan's ethereal                                                       |
+|  Magical (60%)       ******************************                     |
+|  Physical (39%)      *******************                                |
+|  Total (92%)         **********************************************     |
+|                                                                         |
+| Duration of the kill: 8s.                                               |
+`-------------------------------------------------------------------------'
+Battle over.
+score -r
+You are known in the following communities:
+ You are popular in The City of Vaerlon.
+ You are neither liked nor disliked in Kingdom of Valkor.
+
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets 4 platinum coins, large pile of silver coins and pile of gold coins.
+Chelan gets a red bloodstained heart of carrion crawler to a huge sack.
+Chelan drops a large pile of silver coins.
+The party goes southwest to: The water almost fills this small tunnel. The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies.
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer. Water drips from the ceiling of the
+tunnel to the sewer. The stench of the tunnel is overwhelming, and it is
+very hard to breathe.
+
+The ground is covered with muddy water.
+        The only obvious exit is northeast.
+Chelan's nether sentinel, silently waiting for orders from its master
+An extremely slimy, massive slug
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  89% EP:[#######] 100% PSP:[#######] 103%
+score -r
+You are known in the following communities:
+ You are popular in The City of Vaerlon.
+ You are neither liked nor disliked in Kingdom of Valkor.
+
+Chelan attacks Slug.
+<party>: Shalafi >> HP:[###### ]  99% SP:[#######] 100% EP:[###### ]  99%
+Slug dodges.
+pas You are popular in The City of Vaerlon.
+Mmiao [party]: You are popular in The City of Vaerlon.
+
+Slug dodges.
+Chelan's ethereal crushes Slug.
+Slug misses.
+Chelan's ethereal firmly bashes Slug.
+Slug gets STUNNED from massive pain.
+Chelan's ethereal crushes Slug.
+Slug looks like it is trying to flee from battle!
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ####'
+Chelan's ethereal firmly bashes Slug.
+You gain 60 experience as your party share.
+You gain 0 bonus experience for being in a nice party.
+Slug falls on its knees and collapses to the ground ... dead.
+,-------------------------------------------------------------------------.
+| Slug's death report (726 exp)                                           |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Magical (63%)       *******************************                    |
+|  Physical (36%)      ******************                                 |
+|  Total (100%)        ************************************************** |
+`-------------------------------------------------------------------------'
+Battle over.
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ##'
+<party>: Chelan's ethereal reports 'Bane of the living (135%): #'
+Chelan [party]: nice
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  97% EP:[#######] 100% PSP:[#######] 103%
+You feel fully rested.
+finger mmiao
+Mmiao is a level 20 centaur.
+Creation time: Wed Apr 27 11:27:04 2022 (1w 3d 2h 31m 59s ago)
+It has been on for 24m and has been idle for 0s.
+It is 1 day 12 hours 46 minutes 22 seconds old.
+Best kills: large brown bear, eating a fish, 81156 exp (party of 2)
+            A troll, guarding the stairway, 7745 exp
+It has no unread mail.
+It has no plan.
+
+The party goes northeast to: You find yourself walking in a tunnel with a roof which curves above your
+head and goes down in a semi-circle to the floor. The floor is covered with
+rotting sewage, some of it has formed into small pools which give off
+unimaginable stench. There seems to be some kind of wooden supports that
+criss cross the walls and the roof here.
+
+        The obvious exits are northeast and southwest.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Mmiao >> HP:[###### ]  99% SP:[#######] 100% EP:[#######] 100%
+The party goes northeast to: You are in a round chamber with slightly angled floor towards the center of
+the chamber, where is a gaping black hole in the floor the putrid sewage
+water from the three tunnels flow into with a loud gurgling. To get to the
+other side of the chamber, there are walkways following the wall very
+closely, so one has to circle the chamber to access into the other tunnel
+entrances. The air is breathable here because of almost adequate
+ventilation provided by the three winding sewer corridors.
+
+The ground is covered with muddy water.
+        The obvious exits are north, east and southwest.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel to the sewer.  The stench of the tunnel is overwhelming, and it is
+very hard to breathe.
+
+        The obvious exits are south and north.
+Chelan's nether sentinel, silently waiting for orders from its master
+A huge centipede crawling on the floor
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+whois mmiao
+Mmiao is a level 20 Centaur and a citizen of Icesus.
+It does not worship any element.
+It is a member of the Wilders of Aegic.
+It has a title 'centaur from Valkor'.
+It is in a party of 4 members.
+It is not idle.
+It has killed total of 496 creatures and 0 different prestigious creatures.
+It has completed 3 (official, not guild) quests.
+l
+The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel to the sewer.  The stench of the tunnel is overwhelming, and it is
+very hard to breathe.
+It is pitch-black!
+
+        The obvious exits are south and north.
+Chelan's nether sentinel, silently waiting for orders from its master
+A huge centipede crawling on the floor
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+Chelan attacks Centipede.
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ###'
+Chelan's ethereal crushes Centipede.
+Striking fast, striking hard, the infused elemental energy emanating from Chelan's ethereal flares in memories, faint images in flickering in your mind's eye, causing Centipede to spasm ferociously!
+eq
+		Your equipment:
+
+Wielded in right hand: silvery gray great axe named "tita_great"
+Wielded in left hand: light gray great axe
+
+Worn on head: red orange helmet
+Worn as amulet: feeble wolf totem
+Worn as cloak: white cloak
+Worn on torso, left arm and right arm: light gray armour
+Worn on left finger: ring of luck <intense green glow>
+Worn on belt: brown belt
+
+You have no worn clothes.
+You have no miscellaneous item.
+
+You have pitiful overall protection against physical damage.
+
+Chelan's ethereal firmly bashes Centipede.
+Chelan's ethereal smashes Centipede.
+Chelan's ethereal waves its hands in a large arch and shouts 'Lhi R'ordu'.
+Centipede turns immensely pale and starts gasping for air like one who would be suffocating.
+Centipede cries out in pain!
+Centipede does not seem to resist the attack.
+Centipede gets STUNNED from massive pain.
+You gain 279 experience as your party share.
+You gain 0 bonus experience for being in a nice party.
+Centipede gives you a last glance before its eyes close forever.
+
+,-------------------------------------------------------------------------.
+| Centipede's death report (3076 exp)                                     |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Magical (79%)       ***************************************            |
+|  Psionic (6%)        ***                                                |
+|  Physical (14%)      *******                                            |
+|  Total (100%)        ************************************************** |
+`-------------------------------------------------------------------------'
+Battle over.
+The party goes north to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel.  The stench of the tunnel is overwhelming, and it is very hard to
+breathe.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Cave fisher, crawling with its eight legs
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan attacks Cave fisher.
+Chelan's ethereal smashes Cave fisher.
+Chelan's ethereal firmly bashes Cave fisher.
+Chelan's ethereal smashes Cave fisher.
+Cave fisher starts visibly shaking and is obviously afraid of Shalafi's overpowering presence.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  92% EP:[#######] 100% PSP:[#######] 103%
+Chelan's ethereal pounds Cave fisher.
+Chelan's ethereal crushes Cave fisher.
+Chelan's ethereal crushes Cave fisher.
+Cave fisher grabs Chelan's ethereal.
+Chelan's ethereal RAMS Cave fisher powerfully in the head with its head. You hear a loud *CRACK* when the head breaks bones and causes Cave fisher's  face to become covered in blood.
+Cave fisher reels from the pain, unable to fight for a few seconds.
+Chelan's ethereal firmly bashes Cave fisher.
+Cave fisher gets STUNNED from massive pain.
+Chelan's ethereal crushes Cave fisher.
+Chelan's ethereal pounds Cave fisher.
+You rend Cave fisher.
+Chelan's ethereal skillfully clubs Cave fisher.
+Cave fisher writhes in agony.
+You gain 299 experience as your party share.
+You gain 83 bonus experience for being in a nice party.
+Cave fisher falls to the ground, crawls towards you, and then dies.
+
+,-------------------------------------------------------------------------.
+| Cave fisher's death report (3943 exp)                                   |
+|-------------------------------------------------------------------------|
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (3%)          *                                                  |
+| Chelan's ethereal                                                       |
+|  Magical (61%)       ******************************                     |
+|  Physical (38%)      *******************                                |
+|  Total (96%)         ************************************************   |
+|                                                                         |
+| Duration of the kill: 10s.                                              |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a small pile of platinum coins, large pile of silver coins and small pile of gold coins.
+Chelan gets a red bloodstained heart of cave fisher to a huge sack.
+Chelan drops a large pile of silver coins.
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Shalafi >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100%
+The party goes northwest to: This dark tunnel suddenly comes up to a dead end. The roof has collapsed
+somehow and the floor is piled with all kind of junk, rotten and broken
+wood logs, and small skeletons of the dead rodents. The air is damp and
+humid, and the stench of mold is piercing and very disgusting. But from
+where you came from, you can hear water dripping loudly with an echoing
+sound to the tunnel floor.
+
+The ground is covered with muddy water.
+        The only obvious exit is southeast.
+Chelan's nether sentinel, silently waiting for orders from its master
+A small slimy kobold
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100% PSP:[#######] 103%
+Chelan attacks Kobold.
+Chelan's ethereal smashes Kobold.
+Kobold starts visibly shaking and is obviously afraid of Shalafi's overpowering presence.
+Chelan's ethereal powerfully bashes Kobold.
+  ..and skillfully hits his foe again crushing the kneecap.
+Kobold gets STUNNED from massive pain.
+Chelan's ethereal pounds Kobold.
+You gain 101 experience as your party share.
+You gain 0 bonus experience for being in a nice party.
+Kobold drops dead before you.
+,-------------------------------------------------------------------------.
+| Kobold's death report (1224 exp)                                        |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Magical (76%)       **************************************             |
+|  Physical (23%)      ***********                                        |
+|  Total (100%)        ************************************************** |
+`-------------------------------------------------------------------------'
+Battle over.
+l
+This dark tunnel suddenly comes up to a dead end. The roof has collapsed
+somehow and the floor is piled with all kind of junk, rotten and broken
+wood logs, and small skeletons of the dead rodents. The air is damp and
+humid, and the stench of mold is piercing and very disgusting. But from
+where you came from, you can hear water dripping loudly with an echoing
+sound to the tunnel floor.
+It is pitch-black!
+
+The ground is covered with muddy water.
+        The only obvious exit is southeast.
+Dimly shining corpse of kobold
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+You feel fully healed.
+Chelan's ethereal stops glowing soft white light.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets 3 platinum coins, large pile of silver coins and small pile of gold coins.
+Chelan gets a red bloodstained heart of kobold to a huge sack.
+Chelan gets a light gray dagger to a huge sack.
+Chelan drops a large pile of silver coins.
+Chelan searches the junk but finds nothing of interest.
+KEEP-ALIVE
+The party goes southeast to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  94% EP:[#######] 100% PSP:[#######] 103%
+The party goes east to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Shalafi states that it is back.
+The party goes east to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel.  The stench of the tunnel is overwhelming, and it is very hard to
+breathe.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Shalafi happily hums an old tune it remembers.
+The party goes north to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel to the sewer.  The stench of the tunnel is overwhelming, and it is
+very hard to breathe.
+
+        The obvious exits are south and north.
+Chelan's nether sentinel, silently waiting for orders from its master
+Carrion crawler, searching the trash for corpses
+A small slimy kobold
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan starts concentrating on a spell.
+Carrion crawler notices Chelan's spell and attacks!
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  91% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Seismic shockwave (116%): ###'
+<party>: Shalafi >> HP:[#######] 100% SP:[###### ]  98% EP:[#######] 100%
+Shalafi's spellblade reacts to its spellcasting and it seems to continue casting at an amazing speed.
+Shalafi moves its hands in front of it creating a full circle and screams with an ear-shattering voice 'MALA FIDI!'. A swarm of ethereal bats appear in a dark explosion between Shalafi's hands and start flying everywhere!
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ####'
+Chelan's ethereal pounds Kobold.
+Ethereal bats fly around Shalafi's mindlessly and flock at its enemies, biting and tearing them apart piece by piece.
+Carrion crawler writhes in agony.
+Kobold gets STUNNED from massive pain.
+You gain 48 experience as your party share.
+You gain 0 bonus experience for being in a nice party.
+Kobold howls in agony as it dies.
+
+,-------------------------------------------------------------------------.
+| Kobold's death report (590 exp)                                         |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Physical (100%)     ************************************************** |
+|  Total (39%)         *******************                                |
+| Shalafi                                                                 |
+|  Magical (100%)      ************************************************** |
+|  Total (60%)         ******************************                     |
+`-------------------------------------------------------------------------'
+Dark energy starts to swirl around Shalafi's hands.
+<party>: Chelan reports 'Seismic shockwave (116%): ##'
+<party>: Shalafi >> HP:[#######] 100% SP:[###### ]  97% EP:[###### ]  97%
+<party>: Shalafi reports 'Force missiles (181%): #'
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ###'
+Carrion crawler beats Chelan's ethereal.
+You try to headbutt Carrion crawler but you lose your balance and almost stumble.
+Chelan's ethereal powerfully bashes Carrion crawler.
+Carrion crawler dodges.
+Ethereal bats fly around Shalafi's mindlessly and flock at its enemies, biting and tearing them apart piece by piece.
+Carrion crawler writhes in agony.
+Carrion crawler does not seem to resist the attack.
+Carrion crawler gets STUNNED from massive pain.
+Ethereal bats flap in a circle in the air with ever increasing speed. In the focal point in the middle of the bats opens a minituate rift to nether plane that spits out a focused burst of nether fire at Carrion crawler!
+Carrion crawler cries out in pain!
+You feel like Carrion crawler was a worthy opponent indeed.
+You gain 597 experience as your party share.
+You gain 496 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased barely at all.
+Carrion crawler howls in agony as it dies.
+
+,-------------------------------------------------------------------------.
+| Carrion crawler's death report (7140 exp)                               |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Magical (96%)       ************************************************   |
+|  Physical (3%)       *                                                  |
+|  Total (23%)         ***********                                        |
+| Shalafi                                                                 |
+|  Magical (100%)      ************************************************** |
+|  Total (76%)         **************************************             |
+`-------------------------------------------------------------------------'
+Chelan digs a large mass-grave for all the corpses and shoves them in.
+Chelan gets a hill-sized pile of silver coins and small pile of gold coins.
+Chelan gets a red bloodstained heart of kobold and red bloodstained heart of carrion crawler to a huge sack.
+Chelan gets a gray dagger to a huge sack.
+Chelan drops a hill-sized pile of silver coins.
+<party>: Shalafi >> HP:[#######] 100% SP:[###### ]  96% EP:[###### ]  97%
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ##'
+Battle over.
+The party goes north to: Apparently this proves to be a dead end, and some garbage floats here with
+the water, and the smell, oh the smell is just lovely. Struggling against
+the food which tries to come out again from your stomach, you see that the
+walls are made of stone and the water drips from the ceiling of the tunnel
+to the sewer. The stench of the tunnel is overwhelming, and it is very hard
+to breathe. There seems to be an empty torch holder on the wall, seems like
+that someone has been here since this was built.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+You feel fully rested.
+Chelan goes 'Ah'.
+Chelan looks at "loot".
+ith
+the water, and the smell, oh the smell is just lovely. Struggling against
+the food which tries to come out again from your stomach, you see that the
+walls are made of stone and the water drips from the ceiling of the tunnel
+to the sewer. The stench of the tunnel is overwhelming, and it is very hard
+to breathe. There seems to be an empty torch holder on the wall, seems like
+that someone has been here since this was built.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+l
+m] 100% SP:[###### ]  99% EP:[###### ]  99%
+Apparently this proves to be a dead end, and some garbage floats here with
+the water, and the smell, oh the smell is just lovely. Struggling against
+the food which tries to come out again from your stomach, you see that the
+walls are made of stone and the water drips from the ceiling of the tunnel
+to the sewer. The stench of the tunnel is overwhelming, and it is very hard
+to breathe. There seems to be an empty torch holder on the wall, seems like
+that someone has been here since this was built.
+Even a derro would have trouble seeing here.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+l loot
+Look at what?
+
+<party>: Chelan >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100% PSP:[#######] 103%
+Chelan [party]: anyone have a torch...? :D
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  94% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100% PSP:[#######] 103%
+Chelan [party]: mmiao, got a torch?
+Chelan looks at "loot".
+pas yes i hvae
+Mmiao [party]: yes i hvae
+give torch to chelan
+You give the wood brown torch to Chelan.
+
+Chelan [party]: try to put it in the torch holder
+Chelan [party]: ok
+l
+Apparently this proves to be a dead end, and some garbage floats here with
+the water, and the smell, oh the smell is just lovely. Struggling against
+the food which tries to come out again from your stomach, you see that the
+walls are made of stone and the water drips from the ceiling of the tunnel
+to the sewer. The stench of the tunnel is overwhelming, and it is very hard
+to breathe. There seems to be an empty torch holder on the wall, seems like
+that someone has been here since this was built.
+Even a derro would have trouble seeing here.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+A shadow runs over you, but when you turn you can't see anything.
+Chelan [party]: hmm wonder what the syntax is
+Chelan looks at Torch.
+<chat>: Something spams annoyingly.
+Chelan inserts a torch to the empty holder. Instantly the wall starts to rise in front of you, and with horrible noise it rises up, revealing a passageway.
+<chat>: Something bursts out in tears.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  94% EP:[#######] 100% PSP:[#######] 103%
+Chelan [party]: ah
+l
+A passageway continues to north from here, and some garbage floats here
+with the water, and the smell, oh the smell is just lovely. Struggling
+against the food which tries to come out again from your stomach, you see
+<party>: Shalafi >> HP:[#######hat the walls are made of stone and the water drips from the ceiling of
+the tunnel to the sewer. The stench of the tunnel is overwhelming, and it
+is very hard to breathe. There seems to be a torch in the holder on the
+wall, bringing light to the room.
+Even a derro would have trouble seeing here.
+
+        The obvious exits are south and north.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: You are standing in a tunnel, carved from the sewers apparently for a
+hideout of some kind. Still, the awful stench follows you from the main
+sewer system, almost stunning you. Water drips from the ceiling of the
+tunnel, making an annoying noise. Someone has laid numerous wooden supports
+to here for supporting the roof and preventing it from collapsing.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+A gigantic brown furry rat
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Terces <chat>: </spam>
+Chelan attacks Rat.
+<party>: Chelan's ethereal reports 'Erosion (135%): #####'
+Chelan's ethereal crushes Rat.
+<party>: Chelan's ethereal reports 'Erosion (135%): ####'
+Chelan's ethereal misses.
+Chelan's ethereal pounds Rat.
+mm
+What?
+mmm
+<party>: Chelan's ethereal reports 'Erosion (135%): ###'
+Chelan's ethereal powerfully bashes Rat.
+Chelan's ethereal misses.
+Chelan's ethereal crushes Rat.
+Chelan's ethereal pounds Rat.
+Shalafi dodges.
+You go 'Mmmmm..'.
+
+<party>: Chelan's ethereal reports 'Erosion (135%): ##'
+Chelan's ethereal powerfully bashes Rat.
+Rat moans in anguish.
+Rat gets STUNNED from massive pain.
+Rat looks like she is trying to flee from battle!
+Chelan's ethereal crushes Rat.
+You gain 167 experience as your party share.
+You gain 0 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Rat staggers and falls to the ground ... dead.
+,-------------------------------------------------------------------------.
+| Rat's death report (1850 exp)                                           |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Magical (60%)       ******************************                     |
+|  Physical (39%)      *******************                                |
+|  Total (100%)        ************************************************** |
+|                                                                         |
+| Duration of the kill: 6s.                                               |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a red bloodstained heart of rat to a huge sack.
+l
+<party>: Chelan's ethereal reports 'Erosion (135%): #'
+You are standing in a tunnel, carved from the sewers apparently for a
+hideout of some kind. Still, the awful stench follows you from the main
+sewer system, almost stunning you. Water drips from the ceiling of the
+tunnel, making an annoying noise. Someone has laid numerous wooden supports
+to here for supporting the roof and preventing it from collapsing.
+It is pitch-black!
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+The party goes west to: You are standing in a east-west tunnel, leading to who knows where. To the
+east is the entrance room to the tunnel, and from there the awful stench
+eminates, reaching this place, making your stomach to turn upside down.
+Water drips from the ceiling of the tunnel, making an annoying noise. Also
+numerous wooden supports are laid here to keep the roof up and preventing
+it from collapsing.
+
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+A slimy red-scaled snake
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan attacks Snake.
+Chelan's ethereal crushes Snake.
+Chelan's ethereal smashes Snake.
+<party>: Chelan's ethereal reports 'Earth coffin (135%): ####'
+Chelan's ethereal firmly bashes Snake.
+Chelan's ethereal powerfully bashes Snake.
+Chelan's ethereal crushes Snake.
+Snake hits you BURNING the flesh with the powerful poison.
+<party>: Mmiao >> HP:[###### ]  94% SP:[#######] 100% EP:[###### ]  99%
+<party>: Chelan's ethereal reports 'Earth coffin (135%): ##'
+Chelan's ethereal misses.
+Chelan's ethereal pounds Snake.
+Chelan [party]: ah, snakes. that guy wanted teeth
+<party>: Chelan's ethereal reports 'Earth coffin (135%): #'
+Chelan's ethereal skillfully clubs Snake.
+Chelan's ethereal crushes Snake.
+Snake hits you BURNING the flesh with the powerful poison.
+The ring of luck shines briefly and you manage to avoid the damage completely!
+<party>: Mmiao >> HP:[###### ]  89% SP:[#######] 100% EP:[###### ]  99%
+Chelan's ethereal chants 'Grezaaa's rewasz' and quickly opens and closes its hand.
+The earth appears to answer to Chelan's ethereal's call and the ground trembles as vast amounts of stone and earth rise from the ground and form a dome-like heap around Snake. Accompanied with thundering rumble the heap collapses inwards with immense force, burying Snake under hundreds of pounds of solid rock. After a short while the stones rumble again and melt back to the ground where they came from, revealing mangled Snake.
+Chelan's ethereal crushes Snake.
+Snake dodges.
+You slice Snake.
+With lightning speed, you let out a powerful kick, hitting Snake in the body leaving the pattern of your forehooves on the skin.
+Chelan's ethereal firmly bashes Snake.
+Chelan's ethereal crushes Snake.
+Chelan drops a white Severed head of Mouse.
+<party>: Chelan's ethereal reports 'Bane of the living (135%): ####'
+Chelan's ethereal firmly bashes Snake.
+Snake gets STUNNED from massive pain.
+Striking fast, striking hard, the infused elemental energy emanating from Chelan's ethereal flares in memories, faint images in flickering in your mind's eye, causing Snake to spasm ferociously!
+Chelan's ethereal pounds Snake.
+You feel like Snake was a worthy opponent indeed.
+You gain 791 experience as your party share.
+You gain 723 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Snake falls to the ground, crawls towards you, and then dies.
+
+,-------------------------------------------------------------------------.
+| Snake's death report (8480 exp)                                         |
+|-------------------------------------------------------------------------|
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (5%)          **                                                 |
+| Chelan's ethereal                                                       |
+|  Magical (57%)       ****************************                       |
+|  Psionic (4%)        **                                                 |
+|  Physical (38%)      *******************                                |
+|  Total (94%)         ***********************************************    |
+|                                                                         |
+| Duration of the kill: 12s.                                              |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a red bloodstained heart of snake to a huge sack.
+Chelan gets few dirty snake teeth and white Severed head of Mouse to a huge sack.
+The party goes west to: You are standing at the corner of the tunnel, leading to north and east. To
+the east the tunnel continues towards the beginning of the tunnel, and to
+north there seems to be a dead end. A terrible stink floats in the air,
+making you feel a bit nauseous. Water drips from the ceiling of the tunnel,
+making an annoying noise. Also numerous wooden supports are laid here to
+keep the roof up and preventing it from collapsing.
+
+        The obvious exits are north and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: You are standing at a dead end. The only visible exit leads south. The air
+is foul and a terrible stink floats in the air, making you feel a bit
+nauseous. Water drips from the ceiling of the tunnel, making an annoying
+noise. Also numerous wooden supports are laid here to keep the roof up and
+preventing it from collapsing. Some broken support wood lie near the
+northern wall.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+A slimy red-scaled snake
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan attacks Snake.
+<party>: Chelan >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100% PSP:[#######] 103%
+Chelan's ethereal smashes Snake.
+Chelan looks at "loot".
+Chelan's ethereal skillfully clubs Snake.
+Chelan's ethereal smashes Snake.
+Snake hits you causing a very nasty infection.
+<party>: Mmiao >> HP:[#####  ]  85% SP:[#######] 100% EP:[###### ]  99%
+Chelan's ethereal pounds Snake.
+Chelan's ethereal smashes Snake.
+Chelan's ethereal smashes Snake.
+Chelan's ethereal firmly bashes Snake.
+Suddenly Snake lets out a blood-chilling yelp as the pure essence of the netherplane strikes it and drains out its precious lifeforce into chelan's ethereal.
+Chelan's ethereal runs into Snake's head HARD with its head first, and you hear a loud *CRACK* upon impact.
+Chelan's ethereal firmly bashes Snake.
+Snake dodges.
+Snake determinedly punctures Chelan's ethereal.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  94% EP:[#######] 100% PSP:[#######] 103%
+Snake dodges.
+You strike Snake.
+You furiously kick your forehooves into Snake's body, making it stagger about in pain.
+Snake dodges.
+Snake dodges.
+Snake ferociously bites Chelan's ethereal.
+Chelan's ethereal powerfully bashes Snake.
+  ..and skillfully hits his foe again crushing the kneecap.
+Snake gets STUNNED from massive pain.
+Striking fast, striking hard, the infused elemental energy emanating from Chelan's ethereal flares in memories, faint images in flickering in your mind's eye, causing Snake to spasm ferociously!
+Snake looks like it is trying to flee from battle!
+Chelan's ethereal smashes Snake.
+You start shuddering as you feel the nether taking stronger grip from you but quickly the feeling passes. Suddenly Snake lets out a blood-chilling yelp as the pure essence of the netherplane strikes it and drains out its lifeforce. You feel the lifeforce flowing through you into the netherplane and part of it seems to revitalize you.
+<party>: Chelan's ethereal reports 'Soulburn (135%): ######'
+Chelan's ethereal skillfully clubs Snake.
+Snake moans in anguish.
+Snake does not seem to resist the attack.
+You feel like Snake was a worthy opponent indeed.
+You gain 744 experience as your party share.
+You gain 618 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Snake gives you a last glance before its eyes close forever.
+
+,-------------------------------------------------------------------------.
+| Snake's death report (8554 exp)                                         |
+|-------------------------------------------------------------------------|
+| Mmiao                                                                   |
+|  Magical (45%)       **********************                             |
+|  Physical (54%)      ***************************                        |
+|  Total (12%)         ******                                             |
+| Chelan's ethereal                                                       |
+|  Magical (68%)       **********************************                 |
+|  Psionic (3%)        *                                                  |
+|  Physical (28%)      **************                                     |
+|  Total (87%)         *******************************************        |
+|                                                                         |
+| Duration of the kill: 14s.                                              |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a red bloodstained heart of snake to a huge sack.
+Chelan gets few dirty snake teeth to a huge sack.
+<party>: Chelan's ethereal reports 'Soulburn (135%): #####'
+<party>: Chelan's ethereal reports 'Soulburn (135%): ####'
+<party>: Chelan's ethereal reports 'Soulburn (135%): ##'
+The party goes south to: You are standing at the corner of the tunnel, leading to north and east. To
+the east the tunnel continues towards the beginning of the tunnel, and to
+north there seems to be a dead end. A terrible stink floats in the air,
+making you feel a bit nauseous. Water drips from the ceiling of the tunnel,
+making an annoying noise. Also numerous wooden supports are laid here to
+keep the roof up and preventing it from collapsing.
+
+        The obvious exits are north and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+skills
+
+You have trained the following skills:
+,-----------------------------------------------------------------------------------.
+| Name                            |Skill %| Name                            |Skill %|
+|---------------------------------+-------+---------------------------------+-------|
+| Aiming                          |   30  | Headbutt                        |   30  |
+| Axes                            |   50  | Kick                            |101/ 91|
+| Berserk                         |   30  | Light armours                   |   22  |
+| Bind essence                    |   50  | Melee                           |   60  |
+| Camping                         |   23  | Offensive                       |   30  |
+| Carving                         |   25  | Situation awareness             |    1  |
+| Chop                            |   10  | Slash                           |   10  |
+| Cleave                          |   10  | Slashing weapons                |   55  |
+| Concentrated attack             |   44  | Storm                           |   35  |
+| Concentrated defence            |   30  | Swimming                        |   30  |
+| Consider                        |   21  | Throwing                        | 16/ 15|
+| Cooking                         |    5  | Unarmed fighting                |   11  |
+| Crush                           |   10  | Veneration                      |   50  |
+| Dodge                           |   30  | Weapon parry                    |   17  |
+| Double kick                     |    1  | Wilder yell                     |    1  |
+--More--(82%)
+<party>: Shalafi >> HP:[#######] 100% SP:[###### ]  99% EP:[###### ]  98%
+
+The party goes east to: You are standing in a east-west tunnel, leading to who knows where. To the
+east is the entrance room to the tunnel, and from there the awful stench
+eminates, reaching this place, making your stomach to turn upside down.
+Water drips from the ceiling of the tunnel, making an annoying noise. Also
+numerous wooden supports are laid here to keep the roof up and preventing
+it from collapsing.
+
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+| First aid                       |   20  |                                 |       |
+|---------------------------------+-------------------------------------------------'
+| Number of known skills:  31     |
+`---------------------------------'
+
+The party goes east to: You are standing in a tunnel, carved from the sewers apparently for a
+hideout of some kind. Still, the awful stench follows you from the main
+sewer system, almost stunning you. Water drips from the ceiling of the
+tunnel, making an annoying noise. Someone has laid numerous wooden supports
+to here for supporting the roof and preventing it from collapsing.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: You are standing in the tunnel continuing to north and east. Perhaps
+leading into a hideout of some kind. Still, the awful stench floats in from
+the south from the main sewer system, almost stunning you. Water drips from
+the ceiling of the tunnel, making an annoying noise. Someone has laid
+numerous wooden supports to here for supporting the roof and preventing it
+from collapsing.
+
+        The obvious exits are south, north and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+A huge centipede crawls on the floor
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+ms
+        mastery : level               
+       altruism : self-protective (0)
+        archery : completely clueless (0)
+     axe combat : haphazard (3)
+        binding : clumsy (3)
+       chanting : futile (3)
+ close fighting : oafish (0)
+        courage : bloodless (5)
+        respect : irreligious (4)
+       sagacity : ignorant (0)
+
+Chelan attacks Centipede.
+<party>: Shalafi >> HP:[#######] 100% SP:[#######] 100% EP:[#######] 100%
+Chelan's ethereal crushes Centipede.
+Chelan's ethereal firmly bashes Centipede.
+Chelan's ethereal crushes Centipede.
+Centipede hits you causing a very nasty infection.
+<party>: Mmiao >> HP:[#####  ]  82% SP:[#######] 100% EP:[#######] 100%
+<party>: Chelan's ethereal reports 'Touch of the nether (135%): ##'
+Chelan's ethereal firmly bashes Centipede.
+Centipede dodges.
+
+The centipede reaches out and tries to bite Chelan's ethereal's hand!.
+Chelan's ethereal claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Centipede totally, drawing life-force away from it and making it shiver in pain.
+Centipede cries out in pain!
+Centipede gets STUNNED from massive pain.
+Chelan's ethereal powerfully bashes Centipede.
+Centipede moans in anguish.
+Chelan's ethereal pounds Centipede.
+You gain 378 experience as your party share.
+You gain 99 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Centipede staggers and falls to the ground ... dead.
+,-------------------------------------------------------------------------.
+| Centipede's death report (4180 exp)                                     |
+|-------------------------------------------------------------------------|
+| Chelan's ethereal                                                       |
+|  Asphyxiation (36%)  ******************                                 |
+|  Magical (46%)       ***********************                            |
+|  Physical (16%)      ********                                           |
+|  Total (100%)        ************************************************** |
+|                                                                         |
+| Duration of the kill: 6s.                                               |
+`-------------------------------------------------------------------------'
+Battle over.
+The party goes north to: The tunnel separates here to east and northwest, as the exit to the main
+sewer system leaves to even further south. The air here is moist and
+stuffy, and the terrible smell floats everywhere, coming from the sewer.
+Someone has laid numerous wooden supports to here for supporting the roof
+and preventing it from collapsing.
+
+        The obvious exits are south, east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+A slimy red-scaled snake
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan attacks Snake.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  92% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): #'
+Chelan's ethereal crushes Snake.
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Snake totally, drawing life-force away from it and making it shiver in pain.
+Snake writhes in agony.
+Chelan's ethereal skillfully clubs Snake.
+Snake gets WOUNDED from the massive damage. Its head starts to bleed!
+Chelan's ethereal crushes Snake.
+Snake hits you BURNING the flesh with the powerful poison.
+The wound on Snake bleeds.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  89% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): #'
+<party>: Mmiao >> HP:[#####  ]  77% SP:[#######] 100% EP:[###### ]  99%
+Chelan's ethereal misses.
+Chelan's ethereal pounds Snake.
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Snake totally, drawing life-force away from it and making it shiver in pain.
+Snake cries out in pain!
+Snake gets STUNNED from massive pain.
+Chelan's ethereal powerfully bashes Snake.
+  ..and skillfully hits his foe again crushing the kneecap.
+You feel like Snake was a worthy opponent indeed.
+You gain 614 experience as your party share.
+You gain 530 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Snake staggers and falls to the ground ... dead.
+,-------------------------------------------------------------------------.
+| Snake's death report (6743 exp)                                         |
+|-------------------------------------------------------------------------|
+| Chelan                                                                  |
+|  Asphyxiation (100%) ************************************************** |
+|  Total (50%)         *************************                          |
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (5%)          **                                                 |
+| Chelan's ethereal                                                       |
+|  Magical (72%)       ************************************               |
+|  Physical (27%)      *************                                      |
+|  Total (43%)         *********************                              |
+|                                                                         |
+| Duration of the kill: 6s.                                               |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan starts concentrating on a spell.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a red bloodstained heart of snake to a huge sack.
+Chelan gets few dirty snake teeth to a huge sack.
+<party>: Chelan >> HP:[#######] 100% SP:[#####  ]  85% EP:[#######] 100% PSP:[#######] 103%
+KEEP-ALIVE
+The party goes east to: This is a crossing in the tunnel system, and the exits are to north, west
+and south. The main sewer system is somewhere in the south, and the air is
+here moist and stuffy, and the terrible smell floats everywhere, coming
+from the sewer. Someone has laid numerous wooden supports to here for
+supporting the roof and preventing it from collapsing.
+
+        The obvious exits are north, south and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The tunnel separates here to east and northwest, as the exit to the main
+sewer system leaves to even further south. The air here is moist and
+stuffy, and the terrible smell floats everywhere, coming from the sewer.
+Someone has laid numerous wooden supports to here for supporting the roof
+and preventing it from collapsing.
+
+        The obvious exits are south, east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes northwest to: You are standing at a dead end, only visible exit leading to southeast The
+air is foul and a terrible stink floats in the air, making you feel a bit
+nauseous. Water drips from the ceiling of the tunnel, making an annoying
+noise. Also numerous wooden supports are laid here to keep the roof up and
+preventing it from collapsing. There is a hole on the western wall.
+
+        The only obvious exit is southeast.
+Chelan's nether sentinel, silently waiting for orders from its master
+A slimy and large python
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 100% SP:[#####  ]  80% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  89% EP:[#######] 100% PSP:[#######] 103%
+You feel fully rested.
+Shalafi [party report]: poe leaving soon
+<party>: Mmiao >> HP:[#####  ]  81% SP:[#######] 100% EP:[#######] 100%
+Chelan attacks Python.
+Chelan starts concentrating on a spell.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  87% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): ##'
+Chelan's ethereal crushes Python.
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Python totally, drawing life-force away from it and making it shiver in pain.
+Python writhes in agony.
+Python does not seem to resist the attack.
+<party>: Chelan's ethereal reports 'Touch of the nether (135%): #'
+Python dodges.
+Chelan's ethereal smashes Python.
+Python hits you causing strong POISON to BURN through the tissue.
+<party>: Chelan >> HP:[#######] 100% SP:[#####  ]  83% EP:[#######] 100% PSP:[#######] 103%
+<party>: Mmiao >> HP:[#####  ]  74% SP:[#######] 100% EP:[###### ]  99%
+Chelan's ethereal claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Python totally, drawing life-force away from it and making it shiver in pain.
+Python writhes in agony.
+Chelan's ethereal masterfully strikes Python.
+Python gets WOUNDED from the massive damage. Its body starts to bleed!
+Python does not seem to resist the attack.
+Chelan's ethereal crushes Python.
+
+The python crushes Shalafi's neck with incredible strength, and you hear its neck bones CRACKing.
+The wound on Python bleeds.
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Python totally, drawing life-force away from it and making it shiver in pain.
+Python writhes in agony.
+<party>: Shalafi >> HP:[###### ]  95% SP:[###### ]  99% EP:[###### ]  99%
+Chelan's ethereal firmly bashes Python.
+Chelan's ethereal smashes Python.
+Python looks like it is trying to flee from battle!
+Chelan's ethereal pounds Python.
+Chelan starts concentrating on a spell.
+<party>: Chelan >> HP:[#######] 100% SP:[#####  ]  79% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): #'
+Chelan's ethereal crushes Python.
+You miss.
+Shadows enveloping Shalafi disperse.
+Shalafi's overpowering presence fades away.
+Python leaves to the southeast.
+Battle over.
+The party goes southeast to: The tunnel separates here to east and northwest, as the exit to the main
+sewer system leaves to even further south. The air here is moist and
+stuffy, and the terrible smell floats everywhere, coming from the sewer.
+Someone has laid numerous wooden supports to here for supporting the roof
+and preventing it from collapsing.
+
+        The obvious exits are south, east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+A slimy and large python (wounded)
+Shalafi Tendulkar, human plaguebringer, elder magus (fighting) <Rama>
+Chelan, beholder curate of Earth, lord of the undead (fighting) <Rama>
+Python growls and attacks Mmiao!
+The wound on Python bleeds.
+Python dodges.
+You feebly kick Python in the body with your backhooves creating slight bruises.
+Your kick disorients Python!
+Python gets STUNNED from massive pain.
+Python looks better as its head stops spinning.
+<party>: Chelan's ethereal reports 'Erosion (135%): ####'
+Chelan's ethereal masterfully strikes Python.
+Python cries out in pain!
+Python gets STUNNED from massive pain.
+You feel like Python was a worthy opponent indeed.
+You gain 1753 experience as your party share.
+You gain 1577 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Python howls in agony as it dies.
+
+,-------------------------------------------------------------------------.
+| Python's death report (15791 exp)                                       |
+|-------------------------------------------------------------------------|
+| Chelan                                                                  |
+|  Asphyxiation (100%) ************************************************** |
+|  Total (27%)         *************                                      |
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (10%)         *****                                              |
+| Chelan's ethereal                                                       |
+|  Asphyxiation (21%)  **********                                         |
+|  Magical (61%)       ******************************                     |
+|  Physical (17%)      ********                                           |
+|  Total (61%)         ******************************                     |
+|                                                                         |
+| Duration of the kill: 14s.                                              |
+`-------------------------------------------------------------------------'
+Battle over.
+<party>: Chelan's ethereal reports 'Erosion (135%): ###'
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a red bloodstained heart of python to a huge sack.
+The party goes northwest to: You are standing at a dead end, only visible exit leading to southeast The
+air is foul and a terrible stink floats in the air, making you feel a bit
+nauseous. Water drips from the ceiling of the tunnel, making an annoying
+noise. Also numerous wooden supports are laid here to keep the roof up and
+preventing it from collapsing. There is a hole on the western wall.
+
+        The only obvious exit is southeast.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan looks at "loot".
+<party>: Shalafi >> HP:[###### ]  97% SP:[#######] 100% EP:[#######] 100%
+Chelan [party]: something needs to be inserted here
+Chelan's ethereal looks weaker.
+<party>: Chelan >> HP:[#######] 100% SP:[###### ]  89% EP:[#######] 100% PSP:[#######] 103%
+Chelan starts concentrating on a spell.
+<party>: Chelan >> HP:[#######] 100% SP:[#####  ]  81% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Power of earth (116%): ##'
+<party>: Chelan reports 'Power of earth (116%): #'
+Chelan points his eyestalk at you and you feel a surge of power penetrating you.
+Chelan channels power through his hand and Chelan looks a LOT stronger!
+Chelan channels power through his hand and Chelan's ethereal bulges with power!
+Chelan channels power through his hand and Shalafi bulges with power!
+Chelan starts concentrating on a spell.
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  68% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Essence of the nether (116%): ###'
+<party>: Shalafi >> HP:[#######] 102% SP:[#######] 100% EP:[#######] 100%
+<party>: Mmiao >> HP:[#####  ]  78% SP:[#######] 100% EP:[###### ]  98%
+<party>: Chelan reports 'Essence of the nether (116%): #'
+Chelan demandingly chants 'Zkuetotk tzueichsg'.
+You are suddenly enveloped into coldness of netherplane that feels like it would suck out your lifeforce straight from your bones but surprisingly you aren't harmed at all.
+Shalafi starts emitting an extremely cold aura of netherplane that makes you shudder a lot but surprisingly it seems totally unharmed.
+Coldness of netherplane radiating from Chelan's ethereal suddenly disperses.
+Chelan's ethereal starts emitting an extremely cold aura of netherplane that makes you shudder a lot but surprisingly it seems totally unharmed.
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  60% EP:[#######] 100% PSP:[#######] 103%
+l
+The party goes southeast to: The tunnel separates here to east and northwest, as the exit to the main
+sewer system leaves to even further south. The air here is moist and
+stuffy, and the terrible smell floats everywhere, coming from the sewer.
+Someone has laid numerous wooden supports to here for supporting the roof
+and preventing it from collapsing.
+
+        The obvious exits are south, east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The tunnel separates here to east and northwest, as the exit to the main
+sewer system leaves to even further south. The air here is moist and
+stuffy, and the terrible smell floats everywhere, coming from the sewer.
+Someone has laid numerous wooden supports to here for supporting the roof
+and preventing it from collapsing.
+It is pitch-black!
+
+        The obvious exits are south, east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+The party goes east to: This is a crossing in the tunnel system, and the exits are to north, west
+and south. The main sewer system is somewhere in the south, and the air is
+here moist and stuffy, and the terrible smell floats everywhere, coming
+from the sewer. Someone has laid numerous wooden supports to here for
+supporting the roof and preventing it from collapsing.
+
+        The obvious exits are north, south and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: The tunnel bends slowly to north here, and the air is getting dustier with
+every step you take. The horrible stench continues to follow you from the
+main sewer system, almost stunning you. Water drips from the ceiling of the
+tunnel, making an annoying noise. Someone has laid numerous wooden supports
+to here for supporting the roof and preventing it from collapsing.
+
+        The obvious exits are north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+A disgusting green-scaled lizard
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan attacks Lizard.
+Chelan's ethereal pounds Lizard.
+Chelan's ethereal firmly bashes Lizard.
+Chelan's ethereal pounds Lizard.
+Lizard dodges.
+Chelan's ethereal parries.
+Chelan's ethereal misses.
+Chelan's ethereal smashes Lizard.
+<party>: Chelan's ethereal reports 'Seismic shockwave (135%): ###'
+Chelan's ethereal firmly bashes Lizard.
+Chelan's ethereal crushes Lizard.
+Chelan's ethereal crushes Lizard.
+Lizard tears Chelan's ethereal.
+<party>: Chelan's ethereal reports 'Seismic shockwave (135%): ##'
+Chelan's ethereal crushes Lizard.
+Lizard rips Chelan's ethereal.
+You slice Lizard.
+Chelan's ethereal stomps its foot hard to the ground and intones 'precor ventus'.
+A huge earthquake shakes the ground as the spell is finished!
+... but somehow you remain unharmed!
+Lizard moans in anguish.
+Lizard crashes heavily to the ground!
+Lizard loses her balance and falls prone!
+Chelan's ethereal pounds Lizard.
+Chelan's ethereal crushes Lizard.
+Lizard manages to regain its balance and assumes a normal posture.
+Chelan's ethereal skillfully clubs Lizard.
+Lizard cries out in pain!
+Lizard gets STUNNED from massive pain.
+Chelan's ethereal firmly bashes Lizard.
+  ..and skillfully hits his foe again crushing the kneecap.
+Lizard looks like she is trying to flee from battle!
+Chelan's ethereal smashes Lizard.
+Chelan's ethereal pounds Lizard.
+<party>: Shalafi >> HP:[#######] 102% SP:[###### ]  99% EP:[#######] 100%
+Chelan's ethereal masterfully strikes Lizard.
+Lizard cries out in pain!
+Lizard does not seem to resist the attack.
+You feel like Lizard was a worthy opponent indeed.
+You gain 937 experience as your party share.
+You gain 788 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased very slightly.
+Lizard howls in agony as it dies.
+
+,-------------------------------------------------------------------------.
+| Lizard's death report (9219 exp)                                        |
+|-------------------------------------------------------------------------|
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (2%)          *                                                  |
+| Chelan's ethereal                                                       |
+|  Magical (63%)       *******************************                    |
+|  Physical (36%)      ******************                                 |
+|  Total (97%)         ************************************************   |
+|                                                                         |
+| Duration of the kill: 14s.                                              |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan digs a grave for the corpse and buries it carefully.
+Chelan gets a red bloodstained heart of lizard to a huge sack.
+<party>: Mmiao >> HP:[###### ]  86% SP:[#######] 100% EP:[#######] 100%
+l
+The tunnel bends slowly to north here, and the air is getting dustier with
+every step you take. The horrible stench continues to follow you from the
+main sewer system, almost stunning you. Water drips from the ceiling of the
+tunnel, making an annoying noise. Someone has laid numerous wooden supports
+to here for supporting the roof and preventing it from collapsing.
+It is pitch-black!
+
+        The obvious exits are north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  68% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  63% EP:[#######] 100% PSP:[#######] 103%
+The ring of luck shines briefly and you find some coins lying on the ground!
+<party>: Mmiao >> HP:[###### ]  89% SP:[#######] 100% EP:[#######] 100%
+Autosave.
+Chelan [party]: btw Mmiao what are your battle assigns? you seem to hit very rarely compared to my minion
+Chelan [party]: "battle"
+<party>: Chelan >> HP:[#######] 104% SP:[#####  ]  73% EP:[#######] 100% PSP:[#######] 103%
+battle
+,-------------------------------.
+| Your current battle settings: |
+| ------------------------------ ---------------------------------------------.
+| Combat style: normal                                                        |
+| Weapon priorities: right hand, left hand, front hooves and back hooves      |
+|                                                                             |
+| Offence  60% (max  82%) [####################                         ]     |
+| Defence  44% (max  78%) [##############                               ]     |
+| Casting   0% (max  71%) [                                             ]     |
+| Unused    0% (tot 104%) [                                             ]     |
+`-----------------------------------------------------------------------------'
+
+Chelan [party]: or are you on defence to survive? :D
+pas 60 offence and 44 defence
+Mmiao [party]: 60 offence and 44 defence
+
+<party>: Mmiao >> HP:[###### ]  93% SP:[#######] 100% EP:[#######] 100%
+Chelan [party]: mm ok
+pas should i increase offence?
+Mmiao [party]: should i increase offence?
+
+You hear something making splashing sounds.
+<party>: Chelan >> HP:[#######] 104% SP:[#####  ]  83% EP:[#######] 100% PSP:[#######] 103%
+Chelan [party]: usually people go full offence as far as I know
+<party>: Chelan >> HP:[#######] 104% SP:[#####  ]  78% EP:[#######] 100% PSP:[#######] 103%
+pas :D
+Mmiao [party]: :D
+
+Chelan [party]: but maybe it's better now to stay alive
+pas ah
+Mmiao [party]: ah
+
+Chelan [party]: your call
+The party goes north to: This is a crossing in the tunnel system, and the exits are to north, west
+and south. The main sewer system is somewhere in the south, and the air is
+here moist and stuffy, and the terrible smell floats everywhere, coming
+from the sewer. Someone has laid numerous wooden supports to here for
+supporting the roof and preventing it from collapsing.
+
+        The obvious exits are north, south and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: You are standing at a dead end, only visible exit leading to south. The air
+is foul and a terrible stink floats in the air, making you feel a bit
+nauseous. Water drips from the ceiling of the tunnel, making an annoying
+noise. Also numerous wooden supports are laid here to keep the roof up and
+preventing it from collapsing.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+A slimy and large python
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Mmiao >> HP:[###### ]  97% SP:[#######] 100% EP:[#######] 100%
+Chelan attacks Python.
+pas mb in party i can use full offence
+Mmiao [party]: mb in party i can use full offence
+
+Chelan's ethereal crushes Python.
+Chelan's ethereal misses.
+Chelan's ethereal crushes Python.
+Chelan's ethereal parries.
+Chelan starts concentrating on a spell.
+<party>: Chelan >> HP:[#######] 104% SP:[#####  ]  76% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): #'
+Python dodges.
+Chelan's ethereal misses.
+You open a huge gash in Python's body with your great axe.
+battle
+,-------------------------------.
+| Your current battle settings: |
+| ------------------------------ ---------------------------------------------.
+| Combat style: normal                                                        |
+| Weapon priorities: right hand, left hand, front hooves and back hooves      |
+|                                                                             |
+| Offence  60% (max  82%) [####################                         ]     |
+| Defence  44% (max  78%) [##############                               ]     |
+| Casting   0% (max  71%) [                                             ]     |
+| Unused    0% (tot 104%) [                                             ]     |
+`-----------------------------------------------------------------------------'
+
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Python totally, drawing life-force away from it and making it shiver in pain.
+Python does not seem to resist the attack.
+Chelan's ethereal firmly bashes Python.
+  ..and skillfully hits his foe again crushing the kneecap.
+Python moans in anguish.
+Striking fast, striking hard, the infused elemental energy emanating from Chelan's ethereal flares in memories, faint images in flickering in your mind's eye, causing Python to spasm ferociously!
+Chelan's ethereal smashes Python.
+Chelan's ethereal smashes Python.
+Chelan's ethereal smashes Python.
+Chelan's ethereal parries.
+Chelan starts concentrating on a spell.
+<party>: Chelan >> HP:[#######] 104% SP:[#####  ]  72% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): #'
+Chelan's ethereal smashes Python.
+Python hits you CONTAMINATING blood, causing blood vessels to EXPLODE.
+You miss.
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Python totally, drawing life-force away from it and making it shiver in pain.
+Python cries out in pain!
+<party>: Mmiao >> HP:[#####  ]  82% SP:[#######] 100% EP:[###### ]  96%
+<party>: Chelan's ethereal reports 'Seismic shockwave (135%): ####'
+Chelan's ethereal powerfully bashes Python.
+  ..and skillfully hits his foe again crushing the kneecap.
+Chelan's ethereal crushes Python.
+Chelan's ethereal firmly bashes Python.
+Striking fast, striking hard, the infused elemental energy emanating from Chelan's ethereal flares in memories, faint images in flickering in your mind's eye, causing Python to spasm ferociously!
+Chelan starts concentrating on a spell.
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  69% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): ##'
+<party>: Chelan's ethereal reports 'Seismic shockwave (135%): ###'
+Python dodges.
+Chelan's ethereal smashes Python.
+Python hits you CONTAMINATING blood, causing blood vessels to EXPLODE.
+<party>: Chelan reports 'Touch of the nether (116%): #'
+<party>: Mmiao >> HP:[#####  ]  72% SP:[#######] 100% EP:[###### ]  96%
+<party>: Chelan's ethereal reports 'Seismic shockwave (135%): #'
+Chelan's ethereal firmly bashes Python.
+Python dodges.
+Chelan's ethereal crushes Python.
+Python ferociously bites Chelan's ethereal.
+pbattle -a 82,22,0
+What?
+
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Python totally, drawing life-force away from it and making it shiver in pain.
+Chelan's ethereal stomps its foot hard to the ground and intones 'precor ventus'.
+A huge earthquake shakes the ground as the spell is finished!
+... but somehow you remain unharmed!
+Chelan's ethereal firmly bashes Python.
+Chelan's ethereal powerfully bashes Python.
+Python gets STUNNED from massive pain.
+Chelan's ethereal smashes Python.
+You slice Python.
+battle -a 82,22,0
+You have only 0 points assigned to casting.
+ Offence  82% [|###########################                  |]
+ Defence  22% [|#######                                      |]
+ Casting   0% [|                                             |]
+ Unused    0% [|                                             |]
+
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  65% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): ##'
+Chelan's ethereal crushes Python.
+Chelan's ethereal crushes Python.
+Chelan's ethereal crushes Python.
+Chelan claps powerfully and chants 'Nodaaz greatas reaz' with a steady voice.
+The powers of the nether envelop Python totally, drawing life-force away from it and making it shiver in pain.
+Python cries out in pain!
+You feel like Python was a worthy opponent indeed.
+You gain 2239 experience as your party share.
+You gain 1989 bonus experience for being in a nice party.
+Your reputation in The City of Vaerlon increased slightly.
+Python falls on its knees and collapses to the ground ... dead.
+,-------------------------------------------------------------------------.
+| Python's death report (21568 exp)                                       |
+|-------------------------------------------------------------------------|
+| Chelan                                                                  |
+|  Asphyxiation (100%) ************************************************** |
+|  Total (36%)         ******************                                 |
+| Mmiao                                                                   |
+|  Physical (100%)     ************************************************** |
+|  Total (3%)          *                                                  |
+| Chelan's ethereal                                                       |
+|  Magical (47%)       ***********************                            |
+|  Psionic (7%)        ***                                                |
+|  Physical (45%)      **********************                             |
+|  Total (60%)         ******************************                     |
+|                                                                         |
+| Duration of the kill: 20s.                                              |
+`-------------------------------------------------------------------------'
+Battle over.
+Chelan starts concentrating on a spell.
+Chelan digs a grave for the corpse and buries it carefully.
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  61% EP:[#######] 100% PSP:[#######] 103%
+<party>: Chelan reports 'Touch of the nether (116%): ##'
+Chelan gets a red bloodstained heart of python to a huge sack.
+The party goes south to: This is a crossing in the tunnel system, and the exits are to north, west
+and south. The main sewer system is somewhere in the south, and the air is
+here moist and stuffy, and the terrible smell floats everywhere, coming
+from the sewer. Someone has laid numerous wooden supports to here for
+supporting the roof and preventing it from collapsing.
+
+        The obvious exits are north, south and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: You are standing at a dead end, only visible exit leading to south. The air
+is foul and a terrible stink floats in the air, making you feel a bit
+nauseous. Water drips from the ceiling of the tunnel, making an annoying
+noise. Also numerous wooden supports are laid here to keep the roof up and
+preventing it from collapsing.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  70% EP:[#######] 100% PSP:[#######] 103%
+<party>: Shalafi >> HP:[#######] 102% SP:[###### ]  99% EP:[###### ]  98%
+<party>: Chelan >> HP:[#######] 104% SP:[####   ]  65% EP:[#######] 100% PSP:[#######] 103%
+KEEP-ALIVE
+The party goes south to: This is a crossing in the tunnel system, and the exits are to north, west
+and south. The main sewer system is somewhere in the south, and the air is
+here moist and stuffy, and the terrible smell floats everywhere, coming
+from the sewer. Someone has laid numerous wooden supports to here for
+supporting the roof and preventing it from collapsing.
+
+        The obvious exits are north, south and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: The tunnel separates here to east and northwest, as the exit to the main
+sewer system leaves to even further south. The air here is moist and
+stuffy, and the terrible smell floats everywhere, coming from the sewer.
+Someone has laid numerous wooden supports to here for supporting the roof
+and preventing it from collapsing.
+
+        The obvious exits are south, east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes northwest to: You are standing at a dead end, only visible exit leading to southeast The
+air is foul and a terrible stink floats in the air, making you feel a bit
+nauseous. Water drips from the ceiling of the tunnel, making an annoying
+noise. Also numerous wooden supports are laid here to keep the roof up and
+preventing it from collapsing. There is a hole on the western wall.
+
+        The only obvious exit is southeast.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Shalafi >> HP:[#######] 102% SP:[#######] 100% EP:[#######] 100%
+The party goes southeast to: The tunnel separates here to east and northwest, as the exit to the main
+sewer system leaves to even further south. The air here is moist and
+stuffy, and the terrible smell floats everywhere, coming from the sewer.
+Someone has laid numerous wooden supports to here for supporting the roof
+and preventing it from collapsing.
+
+        The obvious exits are south, east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: You are standing in the tunnel continuing to north and east. Perhaps
+leading into a hideout of some kind. Still, the awful stench floats in from
+the south from the main sewer system, almost stunning you. Water drips from
+the ceiling of the tunnel, making an annoying noise. Someone has laid
+numerous wooden supports to here for supporting the roof and preventing it
+from collapsing.
+
+        The obvious exits are south, north and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: You are standing in a tunnel, carved from the sewers apparently for a
+hideout of some kind. Still, the awful stench follows you from the main
+sewer system, almost stunning you. Water drips from the ceiling of the
+tunnel, making an annoying noise. Someone has laid numerous wooden supports
+to here for supporting the roof and preventing it from collapsing.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+pas whats the mechanism for defence btw
+Mmiao [party]: whats the mechanism for defence btw
+
+You feel fully rested.
+<party>: Chelan >> HP:[#######] 104% SP:[#####  ]  75% EP:[#######] 100% PSP:[#######] 103%
+<party>: Mmiao >> HP:[#####  ]  76% SP:[#######] 100% EP:[#######] 100%
+Chelan [party]: no idea :D
+pas :D
+Mmiao [party]: :D
+
+Chelan [party]: maybe Shalafi knows
+The party goes west to: You are standing in a east-west tunnel, leading to who knows where. To the
+east is the entrance room to the tunnel, and from there the awful stench
+eminates, reaching this place, making your stomach to turn upside down.
+Water drips from the ceiling of the tunnel, making an annoying noise. Also
+numerous wooden supports are laid here to keep the roof up and preventing
+it from collapsing.
+
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: You are standing at the corner of the tunnel, leading to north and east. To
+the east the tunnel continues towards the beginning of the tunnel, and to
+north there seems to be a dead end. A terrible stink floats in the air,
+making you feel a bit nauseous. Water drips from the ceiling of the tunnel,
+making an annoying noise. Also numerous wooden supports are laid here to
+keep the roof up and preventing it from collapsing.
+
+        The obvious exits are north and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes north to: You are standing at a dead end. The only visible exit leads south. The air
+is foul and a terrible stink floats in the air, making you feel a bit
+nauseous. Water drips from the ceiling of the tunnel, making an annoying
+noise. Also numerous wooden supports are laid here to keep the roof up and
+preventing it from collapsing. Some broken support wood lie near the
+northern wall.
+
+        The only obvious exit is south.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: You are standing at the corner of the tunnel, leading to north and east. To
+the east the tunnel continues towards the beginning of the tunnel, and to
+north there seems to be a dead end. A terrible stink floats in the air,
+making you feel a bit nauseous. Water drips from the ceiling of the tunnel,
+making an annoying noise. Also numerous wooden supports are laid here to
+keep the roof up and preventing it from collapsing.
+
+        The obvious exits are north and east.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: You are standing in a east-west tunnel, leading to who knows where. To the
+east is the entrance room to the tunnel, and from there the awful stench
+eminates, reaching this place, making your stomach to turn upside down.
+Water drips from the ceiling of the tunnel, making an annoying noise. Also
+numerous wooden supports are laid here to keep the roof up and preventing
+it from collapsing.
+
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: You are standing in a tunnel, carved from the sewers apparently for a
+hideout of some kind. Still, the awful stench follows you from the main
+sewer system, almost stunning you. Water drips from the ceiling of the
+tunnel, making an annoying noise. Someone has laid numerous wooden supports
+to here for supporting the roof and preventing it from collapsing.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: A passageway continues to north from here, and some garbage floats here
+with the water, and the smell, oh the smell is just lovely. Struggling
+against the food which tries to come out again from your stomach, you see
+that the walls are made of stone and the water drips from the ceiling of
+the tunnel to the sewer. The stench of the tunnel is overwhelming, and it
+is very hard to breathe. There seems to be a torch in the holder on the
+wall, bringing light to the room.
+
+        The obvious exits are south and north.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel to the sewer.  The stench of the tunnel is overwhelming, and it is
+very hard to breathe.
+
+        The obvious exits are south and north.
+A hill-sized pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel.  The stench of the tunnel is overwhelming, and it is very hard to
+breathe.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 104% SP:[###### ]  86% EP:[#######] 100% PSP:[#######] 103%
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes west to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+i
+You are carrying 50.2kg (36%) of 136.8kg and 39.2l (52%) of 74.0l.
+Money: 54 platinum, 1079 silver and 284 gold [Cash: 9,319 Total: 109,660]
+ 3 x Wood brown torch
+ Blue vial
+ Brown huge sack
+ Feeble wolf totem
+ Light brown bag named "money"
+ Light gray Rusty old key with a label saying 'MINES'
+ Light gray key, resembling a large mushroom
+ White almost empty somewhat large flask of water
+ White full medium sized pint of Triple Dragon Ale
+Keep:
+ A small brass lantern (lit)
+ Red flint and steel
+ Red orange throwing dagger
+ Shovel
+ White almost full medium sized sack of oil
+ White sleeping bag made of soft fur
+
+The party goes northwest to: This dark tunnel suddenly comes up to a dead end. The roof has collapsed
+somehow and the floor is piled with all kind of junk, rotten and broken
+wood logs, and small skeletons of the dead rodents. The air is damp and
+humid, and the stench of mold is piercing and very disgusting. But from
+where you came from, you can hear water dripping loudly with an echoing
+sound to the tunnel floor.
+
+The ground is covered with muddy water.
+        The only obvious exit is southeast.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+<party>: Chelan >> HP:[#######] 104% SP:[#####  ]  81% EP:[#######] 100% PSP:[#######] 103%
+<party>: Mmiao >> HP:[#####  ]  80% SP:[#######] 100% EP:[#######] 100%
+l minion
+The ethereals are mysterious beings that can be spotted occasionally
+walking along the passages of the Nether Plane. The ethereal is completely
+draped in a grey robe with its hood pulled up, hiding every feature of its
+body. Even so, you can feel it looking at you from under the hood. No one
+knows who they are or why they are in the Nether Plane. Some say they are
+the real rulers of this Plane, others say that the Gods put them here to
+protect mortals from some unknown great evil which is hidden in the Nether
+Plane. The Ethereal stands silent, looking at you, and its unseen gaze
+fills you with the same unease as the sense of being constantly watched
+which is always present in that plane.
+
+It is an ethereal (undead) and somewhat large of size.
+Chelan's ethereal is in excellent shape! (100%)
+
+Wielded in right hand and left hand: staff of the ethereal guardian, formed of nether energies
+It radiates raw power of earth.
+It is surrounded by an aura of coldness of the netherplane.
+The party goes southeast to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: This room is filled with rubble and debris.  The air is stale and rank. 
+Toppled wooden timbers lie across the floor. The floor is full of muddy
+silt, and water leaks into this area from the various tunnels. Occasionally
+a rat runs across the floor.  The remaining timbers that hold the ceiling
+from caving in are rotting away, and it wouldn't take much to cause them to
+fall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel.  The stench of the tunnel is overwhelming, and it is very hard to
+breathe.
+
+        The obvious exits are south, north and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes south to: The water almost fills this small tunnel.  The water flows slowly through
+this area, with patches of sewage gathering together in the small eddies. 
+Barely above the top of the water you can see the tops of wooden timbers
+holding up the ceiling of the sewer.  Water drips from the ceiling of the
+tunnel to the sewer.  The stench of the tunnel is overwhelming, and it is
+very hard to breathe.
+
+        The obvious exits are south and north.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+l minion
+The ethereals are mysterious beings that can be spotted occasionally
+walking along the passages of the Nether Plane. The ethereal is completely
+draped in a grey robe with its hood pulled up, hiding every feature of its
+body. Even so, you can feel it looking at you from under the hood. No one
+knows who they are or why they are in the Nether Plane. Some say they are
+the real rulers of this Plane, others say that the Gods put them here to
+protect mortals from some unknown great evil which is hidden in the Nether
+Plane. The Ethereal stands silent, looking at you, and its unseen gaze
+fills you with the same unease as the sense of being constantly watched
+which is always present in that plane.
+
+It is an ethereal (undead) and somewhat large of size.
+Chelan's ethereal is in excellent shape! (100%)
+
+Wielded in right hand and left hand: staff of the ethereal guardian, formed of nether energies
+It radiates raw power of earth.
+It is surrounded by an aura of coldness of the netherplane.
+
+The party goes south to: You are in a round chamber with slightly angled floor towards the center of
+the chamber, where is a gaping black hole in the floor the putrid sewage
+water from the three tunnels flow into with a loud gurgling. To get to the
+other side of the chamber, there are walkways following the wall very
+closely, so one has to circle the chamber to access into the other tunnel
+entrances. The air is breathable here because of almost adequate
+ventilation provided by the three winding sewer corridors.
+
+The ground is covered with muddy water.
+        The obvious exits are north, east and southwest.
+A large pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows through this room, filling the room with a vile stench. The
+walls are lined with wooden timbers, which support the mud packed walls.
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer. A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+A stinking little rat
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer.
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall. Small corridor seems to start from here and continue to south.
+
+The ground is covered with muddy water.
+        The obvious exits are south, east, west and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows through this room, filling the room with a vile stench. The
+walls are lined with wooden timbers, which support the mud packed walls. 
+Pieces of trash have collected at corners throughout the tunnel in small
+piles, slowly getting eaten away by the steady current of the sewer.  A few
+of the wooden timbers in the room have rotted away at the bottom, causing
+them to fall diagonally across the sewer, leaning up against the far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The sewer flows  through this room, filling the room with a vile stench.
+The walls are lined with wooden timbers, which support the mud packed
+walls.  Pieces of trash have collected at corners throughout the tunnel in
+small piles, slowly getting eaten away by the steady current of the sewer. 
+A few of the wooden timbers in the room have rotted away at the bottom,
+causing them to fall diagonally across the sewer, leaning up against the
+far wall.
+
+The ground is covered with muddy water.
+        The obvious exits are east and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: The stench of the sewer is less here, as the water is moving more swiftly
+in this larger tunnel. The construction of the tunnel has also changed, the
+wooden timbers supporting the tunnels are gone, and the tunnel is now made
+of stone. There are a variety of little cracks and fissures among the
+stone, where the water has started to erode the stone away. Occasionally
+you can hear the squeak of a rat echoing throughout the tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are southeast and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes southeast to: The stench of the sewer is less here, as the water is moving more swiftly
+in this larger tunnel. The construction of the tunnel has also changed, the
+wooden timbers supporting the tunnels are gone, and the tunnel is now made
+of stone.  There are a variety of little cracks and fissures among the
+stone, where the water has started to erode the stone away.  Occasionally
+you can hear the squeak of a rat echoing throughout the tunnel.
+
+The ground is covered with muddy water.
+        The obvious exits are southeast and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes southeast to: This is one of the primary passages, twenty meters across and contains
+meter-wide railless walkway-ledges on both sides. The air is, for some
+reason, reasonably good in this part of the tunnel. However, lots of noise
+echoes from the water flow, and a terrible rotten stench still engulfs this
+part of the tunnel. Water is flowing in from a small natural cave from
+northeast.
+
+The ground is covered with muddy water.
+        The obvious exits are southeast, northeast and northwest.
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes northeast to: You are in a small natural looking cave. The walls are damp and covered
+with slime. There is enough moisture in the air to make the floor very
+slippery. There is a small waterfall at the east end of the cave. The water
+flows to the sewers to southwest.
+
+The ground is covered with muddy water.
+        The only obvious exit is southwest.
+A pile of silver coins
+Chelan's nether sentinel, silently waiting for orders from its master
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+The party goes east to: This is a large room with tons of weird instruments and alchemical gadgets.
+There is a large table located near the north wall and it is covered with
+old tomes, empty flasks, large jugs and some powder pouches. At the center
+of the room there is also a large rack with chain shackles. A rapid
+waterfall works as the western wall, and a small doorway leads to a chamber
+to south. A stone staircase leads down. There are several strange orbs of
+light hovering near the walls.
+
+        The obvious exits are south, down and west.
+Chelan's nether sentinel, silently waiting for orders from its master
+Peanlir, an elven alchemist wearing a long robe
+Shalafi Tendulkar, human plaguebringer, elder magus <Rama>
+Chelan, beholder curate of Earth, lord of the undead <Rama>
+Chelan hmms thoughtfully.
+<party>: Chelan >> HP:[#######] 104% SP:[###### ]  91% EP:[#######] 100% PSP:[#######] 103%
+Chelan gets white few dirty snake teeth, few dirty snake teeth, white few dirty snake teeth, white few dirty snake teeth and white few dirty snake teeth from a huge sack.

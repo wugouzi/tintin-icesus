@@ -1,0 +1,55 @@
+#action {You study the body of the beast and collect together what you believe are the essential pieces, but the assembled whole fails.} {ubec;}
+#action {You manage to sense two or three focal points of power, but not enough to make a totem.} {ubec}
+#action {You study the body, isolate the focal points of power, and assemble the ones which most clearly represent the virtues of this beast into a totem.} {l totem;scor}
+#action {For a few minutes you think you will be able to make a totem, there is certainly power here, but you can't isolate it.} {ubec}
+#action {You can make no sense of the power in this corpse.} {ubec}
+#action {%* is not the corpse of an animal.} {scor}
+
+#alias {pt %1 %2} {paint marking of %1 on %2 with heart;}
+
+#var WY_READY 1
+#var BR_READY 1
+#alias {WILDER_ATTACK} {
+#if {$WY_READY == 1} {
+  use wilder yell;
+};#else {
+    use headbutt;
+}}
+
+#action {You try to yell something but only croak hoarsely.}
+{#var WY_READY 0;WILDER_ATTACK;}
+#action {You are still too numb for your last blood rage to have any chance of success.}
+{#var BR_READY 0;WILDER_ATTACK;}
+#action {You%s%w%scry out %*} {
+#var WY_READY 0;
+WILDER_ATTACK;
+#ticker {WY_TICKER}
+{#var WY_READY 1;
+ party report wilder yell ready;
+ #unticker {WY_TICKER};} {120};}
+
+#variable TOTEM {lizard totem}
+#alias {tv} {keep $TOTEM;put $TOTEM in shrine;uvs;}
+#alias {utv} {get $TOTEM from shrine;keep $TOTEM;wear $TOTEM;}
+#alias {ctot} {get $TOTEM from shrine;l $TOTEM;put $TOTEM in shrine;}
+
+
+#action {You are unable to clear your mind sufficiently to access the spirit world.} {use spirit walk;}
+#alias {usw} {use spirit walk;}
+#alias {uvsh} {use veneration at shrine with all heart from "bh";}
+#alias {toh} {get heart from "bh";put heart in "heart";}
+
+#alias {pt1} {paint marking of constitution on left foreleg with heart;}
+#alias {pt2} {paint marking of constitution on right foreleg with heart;}
+#alias {pt3} {paint marking of constitution on left hind leg with heart;}
+#alias {pt4} {paint marking of constitution on right hind leg with heart;}
+#alias {pt5} {paint marking of constitution on left hand with heart;}
+#alias {pt6} {paint marking of constitution on right hand with heart;}
+#alias {bw} {bind wounds of %1;}
+#alias {bp} {bind strength to mmiao's %0;}
+#action {You fail to bind power to your %1.} {bp %1;}
+
+
+#action {%1 is no longer powered by %2.} {party report %1's power dropped down;}
+#alias {cfr} {chant for recovery}
+#alias {ddb} {dissipate dire blows %1}
