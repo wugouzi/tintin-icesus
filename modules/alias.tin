@@ -12,7 +12,7 @@
   #unticker {bx};
   }
 
-#alias {sa} {sell all;value all;}
+#alias {sa} {sell all;get all from "mis";value all;}
 
 
 #alias {readalias} {
@@ -24,6 +24,13 @@
 }
 
 #alias {outcrawl} {crawl under bed;crawl through hole;d;e;}
+#var DS 1
+#alias {ds} {
+  drop $DS silver;
+  #math {DS} {$DS + 1};
+}
+
+#alias {dsclear} {#var DS 1;}
 
 #alias {lmis} {l "mis";}
 #alias {lmeat} {l "meat";}
@@ -41,28 +48,39 @@
 #alias {putmeat} {
   put all meat in "meat";
 }
-#alias {ak} {ask %1 about %2;}
+
+#alias {ldd} {
+extinguish lantern;ld;
+#end;
+}
+
+#alias {mith} {count mithril in "money"};
 
 #list bag clear;
 #list weapon clear;
 #list dam clear;
 #list mis clear;
-#list bag add "money" "meat" "bh" "heart" "mis" "eq";
-#list weapon add "tita_great" "MMEOW"
-#list dam add $TOTEM helmet {black cloak} belt armour scarf;
-#list dam add earrings "6epr_l" "6epr_r";
-#list mis add meatknife flint {sleeping bag} lantern shovel;
+#list bag add "money" "meat" "bh" "heart" "mis" "eq" tote;
+#list weapon add {fine steel battle axe};
+#list dam add {cloak} belt bandolier;
+#list dam add earrings "6epr_l" "2str2ec1";
+#list mis add meatknife flint {sleeping bag} lantern shovel rose;
+
 #nop equipment handling
 
-#list bag simplify;
-#list weapon simplify;
-#list dam simplify;
-#list mis simplify;
-
-
-#alias {lwield} {
+#nop SEQ_CON to trigger %1 list
+#alias {sequence} {
+  #var SEQ_CON 0;
+  #foreach {$%1} {seq} {
+    seq;
+    #event {VARIABLE UPDATED SEQ_CON} {
+      #var SEQ_CON 0;
+    };
+  };
+};
+/*
   #var CNT 0;
-  #foreach {$%1} {wea} {
+  #foreach {$%1[]} {wea} {
     #if {$CNT == 0} {
       wield $wea in right hand;
       #var CNT 1;
@@ -70,25 +88,45 @@
       wield $wea in left hand;
     };
   };
+  */
+#alias {lwield} {
+  #foreach {$%1[]} {wea} {
+    wield $wea in both hands;
+  };
+
 };
 
 #alias {lkeep} {
-  #foreach {$%1} {item} {
+  #foreach {$%1[]} {item} {
     keep $item;
   };
 };
 
+#alias {dam2reg} {
+  switch to reg;
+  #var EQSET reg;
+  ext;
+};
+
+#alias {reg2dam} {
+  switch to dam;
+  #var EQSET dam;
+  ext;
+}
+
 #alias {lwear} {
-  #foreach {$%1} {item} {
+  #foreach {$%1[]} {item} {
     wear $item;
   };
 };
 
 #alias {lremove} {
-  #foreach {$%1} {item} {
+  #foreach {$%1[]} {item} {
     wear $item;
   }
 }
+
+#var EQSET {dam};
 
 #alias {mkeep} {
   lkeep bag;
@@ -98,13 +136,17 @@
   lkeep dam;
   #showme keep dam done!;
   lkeep mis;
-  #showme keep mis done!;
 }
 
 #alias {eqdam} {
   lwear dam;
   lwield weapon;
 }
+
+#alias {cbc} {camp build campfire}
+#alias {cb} {camp build}
+#action {You finish building a campfire.} {light circle}
+#alias {lt} {refill lantern;refill lantern;light lantern;}
 
 #nop routes
 #alias {ve2leave} {brief;5 n;6 w;n;w;u;brief;leave game;}
@@ -158,6 +200,12 @@
 #alias {vava} {get armours from "mis";va;}
 #alias {vfurva} {get all skin from "mis";va;}
 #alias {vgemva} {va;}
+#alias {sg2vw} {sg2ve;ve2vw};
+#alias {va2sg} {va2ve;ve2sg;}
+#alias {sg2vbk} {sg2ve;ve2vbk;}
+#alias {vbk2sg} {vbk2ve;ve2sg;}
+#alias {sg2vfur} {sg2ve;ve2vfur;}
+#alias {vfur2sg} {vfur2ve;ve2sg;}
 
 #alias {ng2gale} {brief;n;8 e;4 n;brief;}
 #alias {gale2ng} {brief;4 s;8 w;s;brief;}
@@ -212,6 +260,7 @@
 #alias {sg2ng} {sg2ve;ve2ng;}
 #alias {ng2sg} {ng2ve;ve2sg;}
 #alias {ng2hilltown} {ng2slime;slime2hilltown;}
+#alias {sg2hilltown} {sg2ng;ng2hilltown;}
 #alias {ng2isolated} {ng2hilltown;hilltown2isolated;}
 #alias {hilltown2isolated} {hilltown2brownie;brownie2inn;inn2isolated;}
 #alias {inn2isolated} {inn2goblin;goblin2isolated;}
@@ -229,13 +278,15 @@
 #alias {hilltownent} {brief;4 w;sw;4 w;sw;4 w;2 nw;road;brief;}
 #alias {hilltownout} {brief;path;2 se;4 e;ne;4 e;ne;4 e;brief;}
 #alias {hilltown2brownie} {brief;hilltownout;29 n;10 ne;brownieent;brief;}
-#alias {brownie2hilltown} {brief;browieout;10 sw;20 s;9 s;hilltownent;brief;}
+#alias {brownie2hilltown} {brief;brownieout;10 sw;20 s;9 s;hilltownent;brief;}
 #alias {brownie2inn} {brief;brownieout;15 ne;14 n;21 nw;13 n;inn;brief;}
 #alias {inn2brownie} {brief;14 s;21 se;14 s;15 sw;brownieent;brief;}
 #alias {ng2brownie} {ng2slime;slime2hilltown;hilltown2brownie;}
 #alias {inn2goblin} {brief;2 s;20 nw;n;3 nw;2 n;goblinent;brief;}
 #alias {goblinent} {7 w;6 nw;4 w;nw;path;}
 #alias {goblinout} {2 se;4 e;6 se;7 e;}
+#alias {sg2inn} {sg2brownie;brownie2inn;};
+#alias {sg2brownie} {sg2ng;ng2brownie;}
 #alias {goblin2inn} {brief;goblinout;2 s;3 se;s;20 se;n;inn;brief;}
 #alias {goblin2isolated} {brief;goblinout;4 nw;6 n;ne;2 n;2 ne;4 n;7 ne;9 n;nw;2 w;2 nw;2 w;path;brief;}
 #alias {isolated2goblin} {brief;s;2 e;2 se;2 e;se;9 s;7 sw;4 s;2 sw;2 s;sw;6 s;4 se;goblinent;brief;}
@@ -249,6 +300,10 @@
 #alias {vekkak2khunt} {brief;s;e;3 s;2 se;3 e;se;2 e;se;e;tundra;brief;}
 #alias {vekkak2wild} {brief;s;2 w;3 n;e;camp;brief;}
 #alias {wild2khunt} {wild2vekkak;vekkak2khunt;}
+#alias {sg2centaur} {brief;s;3 e;3 ne;20 e;e;2 ne;9 e;3 ne;17 e;3 n;10 ne;3 nw;3 n;5 nw;n;5 nw;
+4 w;5 nw;4 w;2 nw;w;sw;w;nw;n;path;brief;}
+#alias {centaur2sg} {brief;s;s;se;e;ne;e;2 se;4 e;5 se;4 e;5 se;s;5 se;3 s;3 se;10 sw;3 s;17 w;3 sw;
+9 w;2 sw;w;20 w;3 sw;3 w;n;brief}
 
 #alias {wild2vekkak} {brief;glacier;w;3 s;2 e;n;brief;}
 /*
@@ -256,6 +311,10 @@
 */
 #alias {brownieent} {3 se;e;ne;path;}
 #alias {brownieout} {s;sw;w;3 nw;}
+#alias {adroalout} {path;e;se;2 e;2 se;e;2 se;2 e;se;e;ne;e;ne;se;2 e;2 se;}
+#alias {adroalent} {2 nw;2 w;nw;sw;w;sw;w;nw;2 w;2 nw;w;2 nw;2 w;nw;wr;path}
+#alias {adroal2brownie} {adroalout;6 sw;brownieent;}
+#alias {brownie2adroal} {brownieout;6 ne;adroalent;}
 #alias {shanty2hguhl} {brief;out;2 road;12 e;6 se;3 s;3 se;3 e;brief;}
 #alias {hguhl2ve} {hguhl2tunnel;tunnel2ve;}
 #alias {tunnel2shanty} {tunnel2hguhl;hguhl2shanty;}
@@ -283,3 +342,20 @@
 #alias {dese2sg} {dese2diamond;diamond2sg;}
 #alias {sg2goblin} {sg2diamond;diamondent;}
 #alias {goblin2sg} {diamondout;diamond2sg;}
+#alias {orc2preran} {brief;leave;3 s;2 se;7 s;15 se;e;shop;brief;}
+#alias {preran2orc} {brief;out;w;15 nw;7 n;2 nw;3 n;path;brief;}
+#alias {preran2stag} {brief;out;s;se;7 e;2 ne;15 e;n;wayhouse;brief;}
+#alias {stag2preran} {brief;out;s;15 w;2 sw;7 w;nw;n;shop;brief;}
+#alias {stag2nek} {brief;out;s;3 e;7 se;20 e;15 e;5 ne;12 e;2 se;10 e;2 n;path;nw;w;brief;}
+#alias {nek2stag} {brief;e;se;s;2 s;10 w;2 nw;12 w;5 sw;15 w;20 w;7 nw;3 w;n;wayhouse;brief;}
+#alias {nek1} {brief;e;se;s;2 nw;4 n;path;brief;}
+#alias {nek2} {brief;leave;4 s;2 se;path;nw;w;brief;}
+#alias {sg2nek} {sg2orc;orc2preran;preran2stag;stag2nek;}
+#alias {nek2sg} {nek2stag;stag2preran;preran2orc;orc2sg;}
+#alias {highhill2dezzo} {brief;nw;n;nw;3 n;2 w;sw;2 s;brief;}
+#alias {dezzo2highhill} {brief;w;2 n;ne;2 e;3 s;se;s;se;brief;}
+#alias {dezzo2ve} {dezzo2highhill;highhill2ve;}
+#alias {ve2dezzo} {ve2highhill;highhill2dezzo;}
+#alias {sg2slime} {sg2ng;ng2slime;}
+#alias {sg2gno} {brief;sw;8 w;2 sw;7 w;canyon;brief;}
+#alias {gno2sg} {brief;s;7 e;2 ne;8 e;ne;brief;}

@@ -43,7 +43,13 @@
   #unticker {bx};
 }
 
-#action {You feel better as your head stops spinning.} {WILDER_ATTACK;}
+#action {grubby wilder with buffalo paint} {
+#math cnt 0;#while {$cnt < 20} {#math cnt $cnt + 1;pas FIND WILDER};
+}
+
+#action {Ouch! You have made your wound worse.} {bw mmiao}
+
+#nop #action {You feel better as your head stops spinning.} {WILDER_ATTACK;}
 
 #action {You fail miserably.} {!}
 
@@ -51,18 +57,22 @@
 #nop momentum
 #var res 10;
 #function {delmom} {
-#var UP 100;
-#var LOW 30;
-#math {res} {1 d ($UP - $LOW + 1) + $LOW - 1};
-#math {rr} {100.0 / $res};
-#if {$MOMENT == 1} {
-#delay {$rr} {
-use %1;
-};};#else {
-  #showme NO MEMENT NOW;
+  #var UP 100;
+  #var LOW 30;
+  #math {res} {1 d ($UP - $LOW + 1) + $LOW - 1};
+  #math {rr} {100.0 / $res};
+  #if {$MOMENT == 1} {
+    #if {$rr < 3} {
+      #delay {$rr} {
+        use %1;
+      };
+    };
+  };#else {
+    #showme NO MEMENT NOW;
+  };
+  #return {$res $rr};
 };
-#return {$rr};
-};
+
 
 #alias {monoff} {
 #if {$MOMENT == 1} {
@@ -91,3 +101,5 @@ action {As your opponent takes a step backwards you gain an ideal moment to do a
 #action {You cannot skin this corpse.} {dg}
 
 #nop action {Aerious crawls slowly under the bed.} {crawl under bed;crawl through hole;d;e;}
+
+#nop #action {You are in the upstairs sleeping hall of the Double Dragon Inn.} {mkeep;eqdam;}

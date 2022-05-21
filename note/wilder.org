@@ -23,6 +23,7 @@ Close fighting
     unstoppable. As this improves a wilder will be better at sacrificing himself and forgoing food
     for the good of the tribe.
     |self-protective|
+    |defensive|
 ** archery
     Standing back and shooting is a bit alien to wilders, but when their numbers are sufficient it
     is a useful tactic. Most important is the ability to see and sense where and how opponents and
@@ -37,6 +38,7 @@ Close fighting
     combat, wilders can choose where to hit an opponent to maximize their damage. (e.g. aim at head)
     | haphazard |
     | unsafe    |
+    |precarious|
 ** binding
     A wilder's totem is the key to his physical powers, and without binding of essence there is no
     totem. Binding can not be taught, it must be learned through study and use. A totem which poorly
@@ -44,22 +46,26 @@ Close fighting
     | clumsy      |
     | impractical |
     | akward      |
+    | sloppy      |
+    | ineffective      |
 ** chanting
     The wise shamans use chanting to transfer their fruits of their wisdom to the rest of the tribe.
     Rhetoric and persuasive speech are not effective means for communicating with the tribe.
     |futile|
     |ineffective|
+    |hollow|
 ** close fighting
     Wilders are masters of up close fighting. Circling and feinting are not used so much as head
     butting, kicking, eye gouging, overrunning and grappling. The only reason to step an inch from
     your opponent is to get a really good swing at him with your axe.
     |oafish|
+    |bumbling|
 ** courage
     Unlike the fighting styles of most men, the wilders do not seek to minimize pain and wounding to
     themselves. Victory is all that matters, not pain, not humiliation, not death.
     | bloodless     |
     | faint hearted |
-    |               |
+    | timid         |
 ** respect
     Your respect is a measure of your belief in a power beyond yourself. Without respect you are no
     more than yourself. With respect you can develop a relationship with the universe beyond
@@ -68,6 +74,8 @@ Close fighting
     totem tier
     |irreligious|
     |unbelieving|
+    |faithless|
+    |doubtful|
 ** sagacity
     As brutal as a wilder's life is, it would be ill spent if not guided to a purpose. Those wilders
     that study the purpose will develop their sagacity and share the wisdom and power from this with
@@ -81,10 +89,28 @@ Close fighting
     | It is charged with a little amount of veneration. |
     | It is charged with some veneration.               |
     | It is charged with quite a lot veneration.        |
-    | It is charged with more than enough veneration.   |
-    | It is charged with a huge amount of veneration. |
+    | It is charged with very much veneration.          |
+        | It is charged with more than enough veneration.   |
+    | It is charged with a huge amount of veneration.   |
 ** chant
     durability
 
 ** marking
     Wilder says: The marking of travel is made with a deer heart. It will make lit easier to travel long distances.
+** charm
+Zork [party]: Your charm collection #2 contains:
+Zork [party]: 5 x celerity
+Zork [party]: 2 x momentum ep cost
+Zork [party]: 5 x learn chance
+Zork [party]: 2 x momentum chance
+Zork [party]: 4 x hpmax
+Zork [party]: 5 x damage with axes
+
+
+Aerious [party]: Your charm collection #1 contains:
+Aerious [party]:     4 x treasure finding
+Aerious [party]:     5 x maneuver ep cost
+Aerious [party]:     3 x wounding efficiency
+Aerious [party]:     5 x damage with axes
+** EQ
+    https://naga.icesus.org/wiki/index.php/Translucent_black_dragonscale_belt

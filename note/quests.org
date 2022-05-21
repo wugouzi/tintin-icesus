@@ -23,12 +23,31 @@ menace, and indeed they found a dark elf hiding in a cave near the city walls
 * Explore Chasma Tetria
 * Explore Central Basin
 * Rescue the maiden
+    Rescue the maiden was created
+by Taabbio. A young daughter of a nobleman got bored with her luxurious life in her father's
+castle, and ran away.  However, she was caught in a tremendous storm, and had to seek shelter.
+Luckily she happened to be close to mansion owned by the Swaizzones, Count Yirica and his wife
+Countess Azadril.  She approached the mansion and was heartily welcomed and shown to a nice
+guestroom.  Unluckily, the Swaizzones really weren't that friendly after all, for they locked the
+girl up in the guestroom, for some mysterious purposes of their own. Very soon after his girl was
+gone, the noble got worried about her, and went looking for her.  He followed her trail to the
+mansion, but doesn't have the guts to enter the mansion himself.  He's waiting for some adventurers
+who'd be brave enough to go rescue his daughter and bring her back to him.  He's sure that the girl
+would follow any adventurer who'd go to her and ask her to.
 * Save the Avian community
 * Explore Planitia Scycia
 * Explore Bleak River
 * Explore Terra Gloria
 * Millanien the beautiful elf maiden is in trouble
+    Millanien the beautiful elf maiden is in trouble was created by Moraq. Silvans, the young
+apprentice Farseer in the forest of Kloernien has been having troubles with his love, Millanien.
+The beautiful elf maiden is being forced to be the mistress' of a powerful elven councelor, even
+though she does not want it. Silvans is desperate to help her and would gladly accept any help with
+it.
 * Macca the Head Smith has lost something
+     Macca the
+Head Smith has lost something was created by Echcua. Macca the Head Smith has lost something and is
+desperately trying to find it '.
 * Solael needs you to kill evil troll leader who is harming her forest
     This is what I've heard about Solael needs you to kill evil troll leader who is
 harming her forest: Solael needs you to kill evil troll leader who is harming her forest was
@@ -73,7 +92,7 @@ cases of missing people. Who could find out what has happened to the lost people
 * Explore Molten City
 * Explore Crypt of Magic
 * Aid Aesha in her quest
-* TODO Slay wolf pack leader
+* DONE Slay wolf pack leader
     This is what I've heard about Slay wolf pack leader: Slay wolf pack leader was
 created by Idles. Lurchak, the leader of an elf tribe, is having great difficulties. An evil wolf
 pack is causing terror in his forest, and the elves have not been able to kill the wolves. They
@@ -130,6 +149,16 @@ Cenobium in need of assistance.
 * Resolve the mystery of the tower
 * Explore Volcanic Chasm
 * Assist the Gypsy Magician
+Magician says: Wow! You are willing to help me?! Great! I would really like
+to become a fire breather, as I already told you. I would need a few items
+in order to do this of course. I really appreciate you doing this for me.
+For a list of what items I need, just ask me about items!
+
+Magician says: I only need three items! The first, is a *fire rod*, for me to
+breath fire through. The second is some *pure alcohol*. I'm sure some crazy
+person must drink it. Only pure alcohol is flammable enough to create large
+flames. The third and final, is some *instructions on fire breathing*, to
+help me get started. That's it!
 * Explore Mountain of Winds
 * Solve the mystery of missing Mudtown inhabitants
 * Explore Sigmis

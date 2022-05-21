@@ -21,3 +21,6 @@ knife to @lootcontainer,all iron dagger to @lootcontainer,all iron sabre to @loo
 knight shield to @lootcontainer,all iron rapier to @lootcontainer,all material steel to
 @lootcontainer%expand(@loottest)
 */
+
+#action {You get WOUNDED from the massive damage. Your %* starts to bleed!}
+{party report %1 wounded}

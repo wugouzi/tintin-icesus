@@ -5,8 +5,6 @@
 #action {You can make no sense of the power in this corpse.} {ubec}
 #action {%* is not the corpse of an animal.} {scor}
 
-#alias {pt %1 %2} {paint marking of %1 on %2 with heart;}
-
 #var WY_READY 1
 #var BR_READY 1
 #alias {WILDER_ATTACK} {
@@ -17,7 +15,9 @@
 }}
 
 #action {You try to yell something but only croak hoarsely.}
-{#var WY_READY 0;WILDER_ATTACK;}
+{#var WY_READY 0;WILDER_ATTACK;};
+#action {You cry out EYaa... chokes, and drools blood down your chin.}
+{#var WY_READY 0;WILDER_ATTACK;};
 #action {You are still too numb for your last blood rage to have any chance of success.}
 {#var BR_READY 0;WILDER_ATTACK;}
 #action {You%s%w%scry out %*} {
@@ -28,11 +28,88 @@ WILDER_ATTACK;
  party report wilder yell ready;
  #unticker {WY_TICKER};} {120};}
 
-#variable TOTEM {lizard totem}
-#alias {tv} {keep $TOTEM;put $TOTEM in shrine;uvs;}
-#alias {utv} {get $TOTEM from shrine;keep $TOTEM;wear $TOTEM;}
-#alias {ctot} {get $TOTEM from shrine;l $TOTEM;put $TOTEM in shrine;}
+#list damtotem clear;
+#list regtotem clear;
+#list damtotem add {"wolf1"} {"lizard1"} {"lizard2"};
+#list regtotem add {"bear1"} {"bear2"};
+#var damcnt 1;
+#var regcnt 1;
 
+#alias damt {
+  #math {damcnt} {$damcnt + 1};
+  keep totem;
+  put totem in "eq";
+  get $damtotem[$damcnt] from "eq";
+  wear $damtotem[$damcnt];
+  keep $damtotem[$damcnt];
+
+}
+
+#alias regt {
+  #math {regcnt} {$regcnt + 1};
+  keep totem;
+  put totem in "eq";
+  get $regtotem[$regcnt] from "eq";
+  wear $regtotem[$regcnt];
+  keep $regtotem[$regcnt];
+}
+
+#alias ext {
+  #if {"$EQSET" == "dam"} {
+    keep $regtotem[$regcnt];
+    put $regtotem[$regcnt] in "eq";
+    get $damtotem[$damcnt] from "eq";
+    wear $damtotem[$damcnt];
+    keep $damtotem[$damcnt];
+  };
+  #if {"$EQSET" == "reg"} {
+    keep $damtotem[$damcnt];
+    put $damtotem[$damcnt] in "eq";
+    get $regtotem[$regcnt] from "eq";
+    wear $regtotem[$regcnt];
+    keep $regtotem[$regcnt];
+  }
+}
+
+#alias {tv} {
+  keep totem;
+  #foreach {$damtotem[]} {tot} {
+    get $tot from "eq";
+    put $tot in shrine;
+  };
+  #foreach {$regtotem[]} {tot} {
+    get $tot from "eq";
+    put $tot in shrine;
+  };
+  uvs;
+};
+
+#alias {utv} {
+  #foreach {$damtotem[]} {tot} {
+    get $tot from shrine;
+    put $tot in "eq";
+  };
+  #foreach {$regtotem[]} {tot} {
+    get $tot from shrine;
+    put $tot in "eq";
+  };
+  #var damcnt 1;
+  #var regcnt 1;
+  #if {"$EQSET" == "dam"} {
+    get $damtotem[$damcnt] from "eq";
+    wear $damtotem[$damcnt];
+    keep $damtotem[$damcnt];
+  };
+  #if {"$EQSET" == "reg"} {
+    get $regtotem[$regcnt] from "eq";
+    wear $regtotem[$regcnt];
+    keep $regtotem[$regcnt];
+  };
+};
+
+#var TOTEM {lizard totem};
+#alias {ctot} {get $TOTEM from shrine;l $TOTEM;put $TOTEM in shrine;}
+#alias {rage} {use blood rage;}
 
 #action {You are unable to clear your mind sufficiently to access the spirit world.} {use spirit walk;}
 #alias {usw} {use spirit walk;}
@@ -45,11 +122,45 @@ WILDER_ATTACK;
 #alias {pt4} {paint marking of constitution on right hind leg with heart;}
 #alias {pt5} {paint marking of constitution on left hand with heart;}
 #alias {pt6} {paint marking of constitution on right hand with heart;}
+#alias {pt7} {paint marking of constitution on head with heart;}
+#alias {pt8} {paint marking of constitution on torso with heart;}
+#alias {pt9} {paint marking of constitution on left arm with heart;}
+#alias {pt10} {paint marking of constitution on right arm with heart;}
+#alias {pt11} {paint marking of constitution on neck with heart;}
+
 #alias {bw} {bind wounds of %1;}
 #alias {bp} {bind strength to mmiao's %0;}
 #action {You fail to bind power to your %1.} {bp %1;}
-
+#action {Ouch! You have made %1's wound worse.} {bw %1;}
 
 #action {%1 is no longer powered by %2.} {party report %1's power dropped down;}
 #alias {cfr} {chant for recovery}
+#alias {cfd} {chant for durability}
 #alias {ddb} {dissipate dire blows %1}
+
+
+#action {You finish painting a %* on your} {
+  #if {$PT_MODE == 1} {
+    #math {PT_CNT} {$PT_CNT + 1};
+    PTT;
+  };
+};
+#alias {PT} {
+  #var PT_CNT 1;
+  #var PT_MODE 1;
+  pt1;
+};
+#alias {PTT} {
+  #if {$PT_CNT == 2} {pt2};
+  #if {$PT_CNT == 3} {pt3};
+  #if {$PT_CNT == 4} {pt4};
+  #if {$PT_CNT == 5} {pt5};
+  #if {$PT_CNT == 6} {pt6};
+  #if {$PT_CNT == 7} {pt7};
+  #if {$PT_CNT == 8} {pt8};
+  #if {$PT_CNT == 9} {pt9};
+  #if {$PT_CNT == 10} {pt10};
+  #if {$PT_CNT == 11} {pt11};
+  #if {$PT_CNT == 12} {#var PT_MODE 0;#showme PAINT DONW!};
+};
+#alias {ptcheck} {count heart in "bh"};

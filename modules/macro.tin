@@ -1,1 +1,7 @@
-#macro {press ctrl-l} {l}
+#macro {\cl} {l};
+
+#macro {\cq} {reg2dam};
+#macro {\cw} {dam2reg};
+#macro {\cb} {i};
+#macro {\cg} {ga};
+#macro {\cs} {scor};

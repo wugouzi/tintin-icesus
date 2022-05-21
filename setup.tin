@@ -6,8 +6,6 @@
 #VARIABLE {map_path} {$dir/map}
 #VARIABLE {modulesdir} {$dir/modules}
 
-#session {icesus} {icesus.org} {4000};
-
 #READ {$modulesdir/layout.tin}
 #READ {$modulesdir/login.tin}
 #READ {$modulesdir/config.tin}
@@ -23,6 +21,7 @@
 
 #alias reload {
 #READ {$modulesdir/layout.tin};
+#nop #showme reload layout;
 #READ {$modulesdir/login.tin};
 #READ {$modulesdir/config.tin};
 #READ {$modulesdir/echo.tin};
@@ -36,6 +35,8 @@
 #READ {$modulesdir/wilder.tin};
 #showme reload done!;
 }
+
+#session {icesus} {icesus.org} {4000};
 
 #nop #READ {$modulesdir/map.tin}
 
