@@ -1,5 +1,7 @@
 #var LOOT 0;
 #action {Battle over} {
+  #variable TARGET {NA};
+  #variable TARGET_STATUS {NA};
   #unticker {bx};
   #var BR_READY 1;
 #if {$LOOT == 1} {

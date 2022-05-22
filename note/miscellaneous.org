@@ -1,0 +1,15 @@
+#+title: Miscellaneous
+
+* Combat
+** status
+    | is in excellent shape!     |  100% |
+    | is in good shape.          | <100% |
+    | is slightly hurt.          |  <90% |
+    | is not in good shape.      |  <70% |
+    | is severely hurt.          |  <60% |
+    | is in bad shape.           |  <50% |
+    | is in very bad shape.      |  <40% |
+    | is in extremely bad shape. |  <30% |
+    | is gravely wounded.        |  <20% |
+    | is almost DEAD.            |  <10% |
+    | is DEAD MEAT.              |   <5% |

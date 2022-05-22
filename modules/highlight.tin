@@ -7,5 +7,14 @@
 #highlight {crack} {yellow}
 #highlight {momentum} {violet b red}
 #highlight {ring of luck} {magenta}
-#highlight {%* gets seriously disoriented and loses the ability to fight for a while.} {blue}
+#highlight {%* gets seriously disoriented and loses the ability to fight for a while.} {<cfa>}
 #highlight {You finish the skinning and succeed in removing the skin.} {orange}
+#highlight {A bloodred snake gets seriously disoriented and loses the ability to fight for a while.} {Azure}
+#highlight {Your %* feels better as the wounds on it stop bleeding.} {<cfa>}
+#highlight {It is unrecognizable as living flesh with disgusting, rock-like nodules.} {tan}
+#highlight {You improve the durability of your %*.} {cyan}
+#highlight {It is toughened to the consistency of leather.} {tan}
+#highlight {It has scattered, hardened scars.} {tan}
+#highlight {It is mostly covered with hardened scars.} {tan}
+#highlight {It is like hardened leather, with grotesque welts raised across it.} {tan}
+#highlight {knowledge of binding} {<cfa>}

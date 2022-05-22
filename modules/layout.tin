@@ -1,7 +1,33 @@
+#var PWIN_T -13;
+#var PWIN_B -3;
+#var PWIN_L 100;
+#var PWIN_R 142;
+#var CWIN_T -13;
+#var CWIN_B -3;
+#var CWIN_L 1;
+#var CWIN_R 100;
+
+#function {len} {
+  #var result 0;
+  #parse {%1} {$result+1};
+}
+#alias {drawpwin} {
+  #draw green rounded box $PWIN_T $PWIN_L $PWIN_B $PWIN_R $pwin[];
+}
+/*
+  #parse {$TARTEXT} {TP} {#math {len} {$len+1}};
+  #math {MONMON_L} {$CWIN_L+2};
+  #math {MONMON_R} {$MONMON_L+$MONMON_LEN};
+  #nop #draw side $CWIN_T $MONMON_L $CWIN_T $MONMON_R {$TARTEXT};
+  */
+#alias {drawcwin} {
+  #draw green rounded box $CWIN_T $CWIN_L $CWIN_B $CWIN_R $window[];
+}
 #event {SESSION CONNECTED} {
   #split 0 12;
-  #draw green rounded box -13 100 -3 142 $pwin[];
-  #draw green rounded box -13 1 -3 100 $window[];
+  drawcwin;
+  drawpwin;
+  ps;
 };
 
 
@@ -74,10 +100,19 @@
 {1}
 
 #nop H: [red][truehp]/[truemaxhp][reset] S: [cyan][truesp]/[truemaxsp][reset] E: [yellow][trueep]/[truemaxep][reset] EXP:[exp]([protoadv]) $:[cash] [status] [coords]>
-#PROMPT {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {$prompt1  $prompt2  $prompt3 EXP:%7(%8) $:%9 %10 $TARGET:$TARGET_STATUS} {row -2} {}
+#PROMPT {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {$prompt1  $prompt2  $prompt3 EXP:%7(%8) $:%9 %10 $TARTEXT} {row -13} {}
 
-#variable TARGET {NA}
-#variable TARGET_STATUS {NA}
+#variable TARGET {NA};
+#variable TARGET_STATUS {NA};
+#variable TARTEXT {NA:NA};
+#variable MONMON_LEN {5};
+#nop #math MONMON_LEN {@len{%1}+@len{%3}+1};
+#action {^%* is %*%!{[!.]} (%!{<?}%3%!{%})} {
+  #format {TARGET} {<FCCCCFF>%s} {%1};
+  #format {TARGET_STATUS} {%s<%s<099>} {@colscale{%3;100}} {%3};
+  #var {TARTEXT} {$TARGET:$TARGET_STATUS};
+  #nop drawcwin;
+}
 
 #nop #action {%1 is %2}
 
@@ -97,16 +132,16 @@
 }
 #ACTION {^%1 tells you '%2}
 {
-     showtowin <138>%1 <000><448>tells<000><138> '%2;
+     showtowin <139>%1 <000><449>tells<000><139> '%2;
 }
 #action {^You tell %* '%*} {
-  showtowin <448>tell<000><138> %1 '%2;
+  showtowin <449>tell<000><139> %1 '%2;
 }
 
 #nop #action {<party>: %*} { showtowin <party>: %1;}
 
 #action {^%w [%2]: %*} {
-  showtowin <138>%1 <228>[<448>%2<000><228>]: <138>%3;
+  showtowin <139>%1 <229>[<449>%2<000><229>]: <139>%3;
 }
 
 #ACTION {~%1 chats '%2}
@@ -118,7 +153,7 @@
 {
      #list window del 1;
      #list window ins -1 {%0};
-     #draw green rounded box -13 1 -3 100 $window[];
+     drawcwin;
 }
 
 #ALIAS {test}
@@ -184,11 +219,11 @@
   #math row {@calrow{$GNAME[%1][0];$GNAME[%1][1]}};
   #var pwin[$row] {};
   #list GNAME delete %1;
-  #draw green rounded box -13 100 -3 142 $pwin[];
+  drawpwin;
 }
 #action {You leave the party.} {
   pwininit;
-  #draw green rounded box -13 100 -3 142 $pwin[];
+  drawpwin;
 }
 
 #action {^<party>: %1 >> HP:[%!*] %2%!{%} SP:[%!*] %3%!{%} EP:[%!*] %4%!{%}%*} {
@@ -219,5 +254,5 @@
   #var EP  $GNAME[%1][4];
   #math {row} {@calrow{$r;$c}};
   #var pwin[$row] {<138>%1($r,$c): H:@colscale{$HP;100}$HP<138> S:@colscale{$SP;100}$SP<138> E:@colscale{$EP;100}$EP<238>};
-  #draw green rounded box -13 100 -3 142 $pwin[];
+  drawpwin;
 }

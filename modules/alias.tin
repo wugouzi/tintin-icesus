@@ -281,6 +281,7 @@ extinguish lantern;ld;
 #alias {brownie2hilltown} {brief;brownieout;10 sw;20 s;9 s;hilltownent;brief;}
 #alias {brownie2inn} {brief;brownieout;15 ne;14 n;21 nw;13 n;inn;brief;}
 #alias {inn2brownie} {brief;14 s;21 se;14 s;15 sw;brownieent;brief;}
+#alias {inn2sg} {inn2brownie;brownie2hilltown;hilltown2sg;}
 #alias {ng2brownie} {ng2slime;slime2hilltown;hilltown2brownie;}
 #alias {inn2goblin} {brief;2 s;20 nw;n;3 nw;2 n;goblinent;brief;}
 #alias {goblinent} {7 w;6 nw;4 w;nw;path;}

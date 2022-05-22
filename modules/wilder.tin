@@ -30,7 +30,7 @@ WILDER_ATTACK;
 
 #list damtotem clear;
 #list regtotem clear;
-#list damtotem add {"wolf1"} {"lizard1"} {"lizard2"};
+#list damtotem add {"wolf1"} {"wolf2"} {"lizard1"};
 #list regtotem add {"bear1"} {"bear2"};
 #var damcnt 1;
 #var regcnt 1;
@@ -130,7 +130,9 @@ WILDER_ATTACK;
 
 #alias {bw} {bind wounds of %1;}
 #alias {bp} {bind strength to mmiao's %0;}
-#action {You fail to bind power to your %1.} {bp %1;}
+#nop #action {You fail to bind power to your %1.} {bp %1;}
+#action {You fail to bind power to your Ornate fine steel battle axe.} {bp axe}
+
 #action {Ouch! You have made %1's wound worse.} {bw %1;}
 
 #action {%1 is no longer powered by %2.} {party report %1's power dropped down;}
