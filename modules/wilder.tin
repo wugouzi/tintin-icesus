@@ -30,8 +30,9 @@ WILDER_ATTACK;
 
 #list damtotem clear;
 #list regtotem clear;
-#list damtotem add {"wolf1"} {"wolf2"} {"lizard1"};
-#list regtotem add {"bear1"} {"bear2"};
+#list damtotem add {"wolf1"} {"bear1"} ;
+#list regtotem add {"bear2"};
+#nop #var TOTEM {"wolf1"}
 #var damcnt 1;
 #var regcnt 1;
 
@@ -55,14 +56,17 @@ WILDER_ATTACK;
 }
 
 #alias ext {
-  #if {"$EQSET" == "dam"} {
+  #if {&TOTEM} {
+    #showme $TOTEM;
+  };
+  #elseif {"$EQSET" == "dam"} {
     keep $regtotem[$regcnt];
     put $regtotem[$regcnt] in "eq";
     get $damtotem[$damcnt] from "eq";
     wear $damtotem[$damcnt];
     keep $damtotem[$damcnt];
   };
-  #if {"$EQSET" == "reg"} {
+  #elseif {"$EQSET" == "reg"} {
     keep $damtotem[$damcnt];
     put $damtotem[$damcnt] in "eq";
     get $regtotem[$regcnt] from "eq";
@@ -73,41 +77,52 @@ WILDER_ATTACK;
 
 #alias {tv} {
   keep totem;
-  #foreach {$damtotem[]} {tot} {
-    get $tot from "eq";
-    put $tot in shrine;
+  #if {&TOTEM} {
+    put $TOTEM in shrine;
   };
-  #foreach {$regtotem[]} {tot} {
-    get $tot from "eq";
-    put $tot in shrine;
-  };
+  #else {
+    #foreach {$damtotem[]} {tot} {
+      get $tot from "eq";
+      put $tot in shrine;
+    };
+    #foreach {$regtotem[]} {tot} {
+      get $tot from "eq";
+      put $tot in shrine;
+    };
+  }
   uvs;
 };
 
 #alias {utv} {
-  #foreach {$damtotem[]} {tot} {
-    get $tot from shrine;
-    put $tot in "eq";
+  #if {&TOTEM} {
+    get $TOTEM from shrine;
+    keep $TOTEM;
+    wear $TOTEM;
   };
-  #foreach {$regtotem[]} {tot} {
-    get $tot from shrine;
-    put $tot in "eq";
-  };
-  #var damcnt 1;
-  #var regcnt 1;
-  #if {"$EQSET" == "dam"} {
-    get $damtotem[$damcnt] from "eq";
-    wear $damtotem[$damcnt];
-    keep $damtotem[$damcnt];
-  };
-  #if {"$EQSET" == "reg"} {
-    get $regtotem[$regcnt] from "eq";
-    wear $regtotem[$regcnt];
-    keep $regtotem[$regcnt];
+  #else {
+    #foreach {$damtotem[]} {tot} {
+      get $tot from shrine;
+      put $tot in "eq";
+    };
+    #foreach {$regtotem[]} {tot} {
+      get $tot from shrine;
+      put $tot in "eq";
+    };
+    #var damcnt 1;
+    #var regcnt 1;
+    #if {"$EQSET" == "dam"} {
+      get $damtotem[$damcnt] from "eq";
+      wear $damtotem[$damcnt];
+      keep $damtotem[$damcnt];
+    };
+    #if {"$EQSET" == "reg"} {
+      get $regtotem[$regcnt] from "eq";
+      wear $regtotem[$regcnt];
+      keep $regtotem[$regcnt];
+    };
   };
 };
 
-#var TOTEM {lizard totem};
 #alias {ctot} {get $TOTEM from shrine;l $TOTEM;put $TOTEM in shrine;}
 #alias {rage} {use blood rage;}
 
@@ -115,11 +130,12 @@ WILDER_ATTACK;
 #alias {usw} {use spirit walk;}
 #alias {uvsh} {use veneration at shrine with all heart from "bh";}
 #alias {toh} {get heart from "bh";put heart in "heart";}
+#action {There is no %* here to storm.} {ubx;}
 
 #alias {pt1} {paint marking of constitution on left foreleg with heart;}
 #alias {pt2} {paint marking of constitution on right foreleg with heart;}
-#alias {pt3} {paint marking of constitution on left hind leg with heart;}
-#alias {pt4} {paint marking of constitution on right hind leg with heart;}
+#alias {pt3} {paint marking of strength on left hind leg with heart;}
+#alias {pt4} {paint marking of strength on right hind leg with heart;}
 #alias {pt5} {paint marking of constitution on left hand with heart;}
 #alias {pt6} {paint marking of constitution on right hand with heart;}
 #alias {pt7} {paint marking of constitution on head with heart;}
@@ -127,6 +143,8 @@ WILDER_ATTACK;
 #alias {pt9} {paint marking of constitution on left arm with heart;}
 #alias {pt10} {paint marking of constitution on right arm with heart;}
 #alias {pt11} {paint marking of constitution on neck with heart;}
+#alias {pt12} {paint marking of constitution on backtorso with heart;}
+#alias {pt13} {paint marking of constitution on foretorso with heart;}
 
 #alias {bw} {bind wounds of %1;}
 #alias {bp} {bind strength to mmiao's %0;}
@@ -163,6 +181,8 @@ WILDER_ATTACK;
   #if {$PT_CNT == 9} {pt9};
   #if {$PT_CNT == 10} {pt10};
   #if {$PT_CNT == 11} {pt11};
-  #if {$PT_CNT == 12} {#var PT_MODE 0;#showme PAINT DONW!};
+  #if {$PT_CNT == 12} {pt12};
+  #if {$PT_CNT == 13} {pt13};
+  #if {$PT_CNT == 14} {#var PT_MODE 0;#showme PAINT DONW!};
 };
 #alias {ptcheck} {count heart in "bh"};

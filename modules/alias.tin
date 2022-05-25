@@ -56,15 +56,23 @@ extinguish lantern;ld;
 
 #alias {mith} {count mithril in "money"};
 
+#alias {wd} {
+  #script {word} {wd %0};
+  #foreach {$word[]} {wd} {
+    #showme $wd;
+  };
+}
+
 #list bag clear;
 #list weapon clear;
 #list dam clear;
 #list mis clear;
-#list bag add "money" "meat" "bh" "heart" "mis" "eq" tote;
+#list bag add "money" "meat" "bh" "heart" "eq" tote;
 #list weapon add {fine steel battle axe};
 #list dam add {cloak} belt bandolier;
 #list dam add earrings "6epr_l" "2str2ec1";
 #list mis add meatknife flint {sleeping bag} lantern shovel rose;
+#list mis add {all "glow"} {all earring} {all "light"};
 
 #nop equipment handling
 
@@ -78,6 +86,15 @@ extinguish lantern;ld;
     };
   };
 };
+
+#alias {ope} {
+  search %0;
+  dive %0;
+  push %0;
+  move %0;
+  crawl through %0;
+
+}
 /*
   #var CNT 0;
   #foreach {$%1[]} {wea} {
@@ -111,6 +128,7 @@ extinguish lantern;ld;
 #alias {reg2dam} {
   switch to dam;
   #var EQSET dam;
+  get all earring from "eq";
   ext;
 }
 
@@ -360,3 +378,17 @@ extinguish lantern;ld;
 #alias {sg2slime} {sg2ng;ng2slime;}
 #alias {sg2gno} {brief;sw;8 w;2 sw;7 w;canyon;brief;}
 #alias {gno2sg} {brief;s;7 e;2 ne;8 e;ne;brief;}
+#alias {chromout} {out;10 sw;20 w;9 w;}
+#alias {chroment} {9 e;20 e;10 ne;glade;}
+#alias {chrom2gvil} {brief;chromout;13 n;6 nw;10 n;9 nw;13 n;nw;5 n;clearing;brief;}
+#alias {gvil2chrom} {brief;path;5 s;se;13 s;9 se;10 s;6 se;13 s;chroment;brief;}
+#alias {sg2chrom} {sg2gvil;gvil2chrom;}
+#alias {chrom2sg} {chrom2gvil;gvil2sg;}
+#alias {highhill2moose} {brief;nw;n;nw;3 n;  3 n;nw;n;ne;n;brief;}
+#alias {moose2highhill} {brief;s;sw;s;se;6 s;se;s;se;brief;}
+#alias {moose2ve} {moose2highhill;highhill2ve;}
+#alias {moose2sg} {moose2ve;ve2sg;}
+#alias {dezzo2moose} {brief;w;2 n;ne;2 e;brief;}
+#alias {sg2moose} {sg2highhill;highhill2moose;}
+#alias {sg2highhill} {sg2ve;ve2highhill;}
+#alias {sg2dezzo} {sg2ve;ve2dezzo;}

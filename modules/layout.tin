@@ -1,11 +1,11 @@
-#var PWIN_T -13;
+#var PWIN_T -14;
 #var PWIN_B -3;
-#var PWIN_L 100;
-#var PWIN_R 142;
-#var CWIN_T -13;
+#var PWIN_L 1;
+#var PWIN_R 42;
+#var CWIN_T -14;
 #var CWIN_B -3;
-#var CWIN_L 1;
-#var CWIN_R 100;
+#var CWIN_L 43;
+#var CWIN_R 142;
 
 #function {len} {
   #var result 0;
@@ -14,6 +14,7 @@
 #alias {drawpwin} {
   #draw green rounded box $PWIN_T $PWIN_L $PWIN_B $PWIN_R $pwin[];
 }
+#var PROMPT NA;
 /*
   #parse {$TARTEXT} {TP} {#math {len} {$len+1}};
   #math {MONMON_L} {$CWIN_L+2};
@@ -23,10 +24,13 @@
 #alias {drawcwin} {
   #draw green rounded box $CWIN_T $CWIN_L $CWIN_B $CWIN_R $window[];
 }
+
 #event {SESSION CONNECTED} {
-  #split 0 12;
+  password;
+  #split 0 13;
   drawcwin;
   drawpwin;
+  #nop drawprompt;
   ps;
 };
 
@@ -93,42 +97,20 @@
      #variable mncol @colscale{%3;%4};
      #variable epcol @colscale{%5;%6};
      #format time %t {%H:%M};
-     #format {prompt1} {H: %s%s<238>/<138>%s<099>} {$hpcol} {%1} {%2};
-     #format {prompt2} {S: %s%s<238>/<138>%s<099>} {$mncol} {%3} {%4};
-     #format {prompt3} {E: %s%s<238>/<138>%s<099>} {$epcol} {%5} {%6}
+     #format {prompt1} {H: %s%+4s<238>/<138>%-4s<099>} {$hpcol} {%1} {%2};
+     #format {prompt2} {S: %s%+4s<238>/<138>%-4s<099>} {$mncol} {%3} {%4};
+     #format {prompt3} {E: %s%+4s<238>/<138>%-4s<099>} {$epcol} {%5} {%6};
 }
 {1}
 
 #nop H: [red][truehp]/[truemaxhp][reset] S: [cyan][truesp]/[truemaxsp][reset] E: [yellow][trueep]/[truemaxep][reset] EXP:[exp]([protoadv]) $:[cash] [status] [coords]>
-#PROMPT {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {$prompt1  $prompt2  $prompt3 EXP:%7(%8) $:%9 %10 $TARTEXT} {row -13} {}
-
-#variable TARGET {NA};
-#variable TARGET_STATUS {NA};
-#variable TARTEXT {NA:NA};
-#variable MONMON_LEN {5};
-#nop #math MONMON_LEN {@len{%1}+@len{%3}+1};
-#action {^%* is %*%!{[!.]} (%!{<?}%3%!{%})} {
-  #format {TARGET} {<FCCCCFF>%s} {%1};
-  #format {TARGET_STATUS} {%s<%s<099>} {@colscale{%3;100}} {%3};
-  #var {TARTEXT} {$TARGET:$TARGET_STATUS};
-  #nop drawcwin;
-}
+#PROMPT {H: %1/%2 S: %3/%4 E: %5/%6 EXP:%7(%8) $:%9 %10>} {$prompt1  $prompt2  $prompt3 EXP:%7(%8) $:%9 %10 $EQSET} {row -13} {}
 
 #nop #action {%1 is %2}
 
-
 #VARIABLE {window}
 {
-     {1} {}
-     {2} {}
-     {3} {}
-     {4} {}
-     {5} {}
-     {6} {}
-     {7} {}
-     {8} {}
-     {9} {}
-     {10} {}
+     {1} {} {2} {} {3} {} {4} {} {5} {} {6} {} {7} {} {8} {} {9} {} {10} {} {11} {}
 }
 #ACTION {^%1 tells you '%2}
 {
@@ -142,6 +124,10 @@
 
 #action {^%w [%2]: %*} {
   showtowin <139>%1 <229>[<449>%2<000><229>]: <139>%3;
+}
+
+#action {^%w <%2>: %*} {
+  showtowin <139>%1 <229><<449>%2<000><229>>: <139>%3;
 }
 
 #ACTION {~%1 chats '%2}
@@ -185,9 +171,28 @@
 
 #alias {pwininit} {
   #var GNAME {};
-  #var pwin {{1}{}{2}{}{3}{}{4}{}{5}{}{6}{}{7}{}{8}{}{9}{}};
+  #var pwin {{0}{$pwin[0]}{1}{}{2}{}{3}{}{4}{}{5}{}{6}{}{7}{}{8}{}{9}{}};
 }
-#var pwin {{1}{}{2}{}{3}{}{4}{}{5}{}{6}{}{7}{}{8}{}{9}{}};
+
+#if {&pwin} {};
+#else {#var pwin {{0}{}{1}{}{2}{}{3}{}{4}{}{5}{}{6}{}{7}{}{8}{}{9}{}};};
+#action {{She|He|You} {are|is} affiliated to elemental %2} {
+  #var CH_LOOK 1;
+}
+
+#variable TARGET {NA};
+#variable TARGET_STATUS {NA};
+#variable TARTEXT {NA:NA};
+#action {^%* is %*%!{[!.]} (%!{<?}%3%!{%})} {
+  #if {$CH_LOOK == 1} {
+    #var CH_LOOK 0;
+  }; #else {
+    #format {TARGET} {<FCCCCFF>%s} {%1};
+    #format {TARGET_STATUS} {%s<%s<099>} {@colscale{%3;100}} {%3};
+    #var pwin[0] {$TARGET : $TARGET_STATUS%};
+    drawpwin;
+  };
+}
 
 #function calrow {
   #math result {(%1-1)*3+%2};
@@ -235,11 +240,11 @@
 }
 #gag {^<party>: %1 >> HP:[%!*] %2%!{%} SP:[%!*] %3%!{%} EP:[%!*] %4%!{%}%*};
 
-#action {^| {[A-Za-z]+}%!s{[0-9]},{[0-9]}%!*Hp:%!s%4%!{%}%!sSp:%!s%5%!{%}%!sEp:%!s%6%!{%}%!s| Exp: %7%!s|$} {
+#action {^| {[A-Za-z]+}%!s{[0-9]},{[0-9]}%!*Hp:%!s%d%!{%}%!sSp:%!s%d%!{%}%!sEp:%!s%d%!{%}%!s| Exp: %7%!s|$} {
   #var GNAME[%1] {{0}{%2}{1}{%3}{2}{%4}{3}{%5}{4}{%6}};
   pwinupdate %1;
 }
-#action {^| {[A-Za-z]+}%!s{[0-9]},{[0-9]}%!*Hp:%!s%4%!{%}%!sSp:%!s%5%!{%}%!sEp:%!s%6%!{%}%!s|%!s|$} {
+#action {^| {[A-Za-z]+}%!s{[0-9]},{[0-9]}%!*Hp:%!s%d%!{%}%!sSp:%!s%d%!{%}%!sEp:%!s%d%!{%}%!s|%!s|$} {
   #nop #showme %1&&%2&&%3&&%4&&%5&&%6&&%7;
 
   #var GNAME[%1] {{0}{%2}{1}{%3}{2}{%4}{3}{%5}{4}{%6}};

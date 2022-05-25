@@ -13,3 +13,5 @@
     | is gravely wounded.        |  <20% |
     | is almost DEAD.            |  <10% |
     | is DEAD MEAT.              |   <5% |
+** Sleep things
+    leather tent, which looks quite warm inside

@@ -6,6 +6,7 @@
 #VARIABLE {map_path} {$dir/map}
 #VARIABLE {modulesdir} {$dir/modules}
 
+
 #READ {$modulesdir/layout.tin}
 #READ {$modulesdir/login.tin}
 #READ {$modulesdir/config.tin}

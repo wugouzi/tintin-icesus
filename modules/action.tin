@@ -1,7 +1,7 @@
 #var LOOT 0;
 #action {Battle over} {
-  #variable TARGET {NA};
-  #variable TARGET_STATUS {NA};
+  #var pwin[0] {$TARGET : <119>DEAD<099>};
+  drawpwin;
   #unticker {bx};
   #var BR_READY 1;
 #if {$LOOT == 1} {

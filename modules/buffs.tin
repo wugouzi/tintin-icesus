@@ -1,0 +1,14 @@
+#action {You feel weaker as the power of Earth leaves you.} {party report [Power of Earth] ends};
+#action {You feel essence of the nether leave your body.} {party report [Essence of Nether] ends};
+#action {The life boost fades, making you feel threatened.} {party report [Life Boost] ends};
+#action {You feel a loss as gift of elements ceases to affect you.} {party report [Gift of Elements] ends};
+#action {The green cloud of poison around your body disperses.} {party report [Venon Ward] ends}
+#action {You feel like your body turns to normal again.} {party report [Coven Dreams] ends};
+#action {Your mystic vision gained through your mental third eye ends.} {party report [Mind's Eye] ends}
+#action {Your displacement field ceases to function.} {party report [Displacement] ends}
+#action {The inertia bubble around you dissolves.} {party report [Inertia Bubble] ends}
+#action {You feel slower as the strange subdimensional rift disappears.} {party report [Haste] ends}
+#action {Your mind feels limited again.} {party report [Unfold Mind] ends}
+#action {The presence of the spirits lessens and after a few deep breaths you feel that they are gone.} {party report [Phantasmal Shroud] ends}
+#action {You feel relieved as the terrible spirits have finally fled to their own realm.} {party report [Vestment of Souls] ends}
+#action {Some of the physical powers of %1 is drawn back to you! You feel your muscles bulge, becoming healthier and faster!} {party report [Touch of the Nether] up}

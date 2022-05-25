@@ -1,4 +1,4 @@
-#highlight {You add %* power to the shrine and continue venerating.} {azure}
+#highlight {You add %* power to the shrine and continue venerating.} {<cfa>}
 #highlight {you are unable to hold on to} {violet b red}
 #highlight {sign} {yellow}
 #highlight {plaque} {yellow}

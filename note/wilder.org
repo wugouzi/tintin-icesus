@@ -92,11 +92,22 @@ Close fighting
     | It is charged with very much veneration.          |
         | It is charged with more than enough veneration.   |
     | It is charged with a huge amount of veneration.   |
+*** Mobs
+    treant in chromatic forest
+    It has inferior power of constitution.
+    It has major power of recuperation.
+    It has major power of regeneration.
+    It has moderate power of strength.
 ** chant
     durability
 
+    
 ** marking
-    Wilder says: The marking of travel is made with a deer heart. It will make lit easier to travel long distances.
+    Wilder says: The marking of travel is made with a deer heart. It will make lit easier to travel
+    long distances.
+
+    Wilder says: The marking of vision is made with the heart of an owl. It
+will allow you to see better in both light and dark.
 ** charm
 Zork [party]: Your charm collection #2 contains:
 Zork [party]: 5 x celerity

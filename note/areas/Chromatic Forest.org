@@ -1,0 +1,36 @@
+#+title: Chromatic Forest
+
+~greet brant~
+Brant says: Good day to you, too, Mmiao! Life here passes a day at a time
+in the same routine...Cutting down trees all day long. You think we'd get
+tired of it, but it never happens. I don't actually take part in the
+cutting process myself, I just supervise.
+Brant says: You know, I could always use more workers. If you'd care to
+'volunteer', just ask me about it. I will of course reward hard workers.
+
+~ask brant about volunteer~
+Brant says: So, you want to help out, eh? Here's the deal...We're plenty
+fast cutting down these here trees. But there's a troublesome patch of
+treants a ways past our camp that just won't be cut down. They are alive,
+after all...If you could destroy some of them and bring back their branches
+as proof, I'd reward you. There is also a meddlesome tree spirit that
+sometimes harasses my workers...if you could kill it, I'd greatly
+appreciate it. Just bring proof of the deed and I'll reward you.
+
+
+Brant rifles his pockets, apparently searching for something he lost, but
+can't seem to find it. He mutters, 'Where's that damn storage key?...'
+
+~You ask Brant about key~
+Brant says: Aah, don't mind me grumbling. We have a storehouse here in the
+camp where all the food is kept, and I was just thinking I would pop on
+over to grab a snack, but I seem to have misplaced the key somewhere. I
+definitely had it before that battle at the stream, when I fought against
+the damn tree spirit.
+
+~dig grass~ to find the trapdoor,
+~examine water~
+The water is too muddy to discern anything it may hide. It makes you a bit
+uneasy, but you are probably just paranoid in thinking there was something
+in the water waiting to attack you. On the other hand, you don't feel like
+staying around to find out...
