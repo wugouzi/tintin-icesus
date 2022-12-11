@@ -1,5 +1,164 @@
 #+title: Miscellaneous
+* Event
+** scavenger hunt
+Aerious tells you 'in this instance valley is the 'valley of icesus' which is basically the whole
+world'.
+Aerious tells you 'the piles of disc will show up 1-2 rooms into an area'.
+Aerious tells you 'gotta find 6 piles and return them to the mob i think at adv-guild'.
+Your magical power has returned to full strength.
+Aerious tells you 'it can be really hard if low on EPR etc.. but perhaps deer marking would help a
+bit to run through all the areas to find them all'.
+* MISC
+** bandar
+*** shards
+2 x Indigo small shard of crystallized accuracy magic named "accu2"
+22:16:45.407 2 x Indigo small shard of crystallized speed magic named "speed2"
+22:16:45.409 2 x Indigo small shard of crystallized vigor magic named "epr2"
+22:16:45.410 2 x Indigo small shard of crystallized volcanic fallout spell essence named "vulva2"
+22:16:45.412 2 x Indigo tiny shard of crystallized accuracy magic named "accu1"
+22:16:45.413 2 x Indigo tiny shard of crystallized choking magic named "dfshard"
+22:16:45.414 2 x Indigo tiny shard of crystallized psychic infusion magic named "psinfu1"
+22:16:45.415 2 x Indigo tiny shard of crystallized willpower magic named "dfshard"
+22:16:45.416 2 x White large shard of crystallized cold resist magic named "coldres3"
+22:16:45.417 2 x White large shard of crystallized hand maneuvers skill essence named "handman3"
+22:16:45.418 2 x White large shard of crystallized polearms skill essence named "pole3"
+22:16:45.419 2 x White shard of occult medium magic named "occu"
+22:16:45.420 2 x White shard of witch-bane named "wbane"
+22:16:45.420 2 x White small shard of crystallized avoid hits skill essence named "avoid2"
+22:16:45.421 2 x White small shard of crystallized constitution magic named "con2"
+22:16:45.422 2 x White small shard of crystallized fine hand coordination skill essence named "+2finehand"
+22:16:45.424 2 x White small shard of crystallized hand maneuvers skill essence named "handman2"
+22:16:45.776 2 x White small shard of crystallized secrets of psyche skill essence named "psyche2"
+22:16:45.778 2 x White tiny shard of crystallized avoid hits skill essence named "avoid1"
+22:16:45.779 2 x White tiny shard of crystallized cast cold skill essence named "cold1"
+22:16:45.780 2 x White tiny shard of crystallized choking magic named "choke1"
+22:16:45.781 2 x White tiny shard of crystallized cold damage magic named "colddmg1"
+22:16:45.782 2 x White tiny shard of crystallized expertise of mindcraft skill essence named "mind1"
+22:16:45.784 2 x White tiny shard of crystallized mastery of elements skill essence named "moe1"
+22:16:45.785 2 x White tiny shard of crystallized poison damage magic named "poisdam1"
+22:16:45.786 2 x White void shard named "void"
+22:16:45.787 3 x Indigo tiny shard of crystallized intelligence magic named "int1"
+22:16:45.788 3 x White large shard of crystallized asphyxiation resist magic named "asphyres3"
+22:16:45.789 3 x White shard of occult medium magic named "occult"
+22:16:45.789 4 x Indigo tiny shard of crystallized acid spell magic named "acidspell1"
+22:16:45.790 4 x White tiny shard of crystallized poison spell magic named "poispell1"
+22:16:45.791 5 x Indigo tiny shard of crystallized vigor magic named "epr1"
+22:16:45.792 Indigo massive shard of crystallized asphyxiation resist magic named "asphres5"
+22:16:45.794 Indigo small shard of crystallized asphyxia infusion magic named "aspinfu2"
+22:16:45.795 Indigo small shard of crystallized damage magic named "dmg2"
+22:16:45.795 Indigo small shard of crystallized diet of wasps spell essence named "diet"
+22:16:45.796 Indigo small shard of crystallized magic power magic named "dfshard"
+22:16:45.797 Indigo small shard of crystallized poison infusion magic named "poisinfu2"
+22:16:45.798 Indigo tiny shard of crystallized asphyxia infusion magic named "aspinfu1"
+22:16:45.799 Indigo tiny shard of crystallized celerity magic named "cele1"
+22:16:45.799 Indigo tiny shard of crystallized charisma magic named "cha1"
+22:16:45.800 Indigo tiny shard of crystallized fire spell magic named "fspell1"
+22:16:45.801 Indigo tiny shard of crystallized lightning damage magic named "litudmg1"
+22:16:45.802 White huge shard of crystallized asphyxiation resist magic named "comb"
+22:16:45.802 White large shard of crystallized brawling skill essence named "brawling3"
+22:16:45.803 White large shard of crystallized darkness magic named "dark3"
+22:16:45.804 --More--(45%)
 
+22:16:47.165 White large shard of crystallized lightning damage magic named "litudam3"
+22:16:47.167 White large shard of crystallized poison spell magic named "poison3"
+22:16:47.169 White large shard of crystallized situation awareness skill essence named "situaware3"
+22:16:47.171 White large shard of crystallized sonic resist magic named "sonres3"
+22:16:47.172 White large shard of crystallized water rituals skill essence named "waterrit3"
+22:16:47.174 White shard of weakness named "resistoff"
+22:16:47.175 White small shard of crystallized acid resist magic named "acidres2"
+22:16:47.176 White small shard of crystallized bond of water skill essence named "waterbond2"
+22:16:47.177 White small shard of crystallized bowery skill essence named "bowery2"
+22:16:47.178 White small shard of crystallized cast cold skill essence named "coldspell2"
+22:16:47.179 White small shard of crystallized cold damage magic named "colddmg2"
+22:16:47.180 White small shard of crystallized cold resist magic named "coldres2"
+22:16:47.181 White small shard of crystallized concentrated attack skill essence named "attack2"
+22:16:47.182 White small shard of crystallized earth rituals skill essence named "earthrit2"
+22:16:47.184 White small shard of crystallized expertise of mindcraft skill essence named "mindcraft2"
+22:16:47.185 White small shard of crystallized fire damage magic named "firedmg2"
+22:16:47.186 White small shard of crystallized fire resist magic named "fres2"
+22:16:47.187 White small shard of crystallized fire spell magic named "fspell2"
+22:16:47.187 White small shard of crystallized hex skill essence named "hex2"
+22:16:47.188 White small shard of crystallized magic flow control skill essence named "magicflow2"
+22:16:47.189 White small shard of crystallized mend skin spell essence named "mskin2"
+22:16:47.190 White small shard of crystallized poison resist magic named "dfshard"
+22:16:47.191 White small shard of crystallized scourge skill essence named "scourge2"
+22:16:47.192 White small shard of crystallized secrets of psyche skill essence named "secretpsi2"
+22:16:47.193 White small shard of crystallized shapeshifting skill essence named "shitteri2"
+22:16:47.194 White small shard of crystallized situation awareness skill essence named "2situaware"
+22:16:47.195 White small shard of crystallized staves skill essence named "staff2"
+22:16:47.220 White small shard of crystallized strike skill essence named "strike2"
+22:16:47.220 White tiny shard of crystallized accuracy magic named "accu1"
+22:16:47.221 White tiny shard of crystallized auramancy skill essence named "auramancy"
+22:16:47.222 White tiny shard of crystallized block skill essence named "dfshard"
+22:16:47.222 White tiny shard of crystallized cast cold skill essence named "coldskill1"
+22:16:47.223 White tiny shard of crystallized celerity magic named "cele1"
+22:16:47.223 White tiny shard of crystallized choking magic named "kinky1"
+22:16:47.223 White tiny shard of crystallized cold damage magic named "colddgm1"
+22:16:47.224 White tiny shard of crystallized combat sense skill essence named "cbtsense1"
+22:16:47.224 White tiny shard of crystallized constitution magic named "con1"
+22:16:47.225 White tiny shard of crystallized controlled retreat skill essence named "contret1"
+22:16:47.226 White tiny shard of crystallized flagellation skill essence named "flage1"
+22:16:47.226 White tiny shard of crystallized gangrenous eviscerate skill essence named "dfshard"
+22:16:47.227 White tiny shard of crystallized hex skill essence named "hex1"
+22:16:47.227 White tiny shard of crystallized hunting skill essence named "hunting1"
+22:16:47.228 White tiny shard of crystallized intelligence magic named "int1"
+22:16:47.228 White tiny shard of crystallized lightning damage magic named "ldmg1"
+22:16:47.228 White tiny shard of crystallized meditation skill essence named "medi1"
+22:16:47.229 White tiny shard of crystallized melee skill essence named "dfshard"
+22:16:47.447 White tiny shard of crystallized plane manipulation skill essence named "planemani1"
+22:16:47.449 White tiny shard of crystallized poison spell magic named "poisspell1"
+22:16:47.450 White tiny shard of crystallized prowess magic named "prow1"
+22:16:47.451 --More--(91%)
+22:16:48.125 White tiny shard of crystallized sonic damage magic named "sondmg1"
+22:16:48.128 White tiny shard of crystallized speed magic named "speed1"
+22:16:48.129 White tiny shard of crystallized strength magic named "str1"
+22:16:48.131 White tiny shard of crystallized vigor magic named "epr1"
+22:16:48.132 White tiny shard of crystallized willpower magic named "pspr1"
+*** charms
+2 x White assassin's charm named "assass"
+22:17:09.105 2 x White cavalier's charm named "cava"
+22:17:09.106 2 x White dragonscale crafter's charm named "dscale"
+22:17:09.107 2 x White fighter's charm named "mepcost"
+22:17:09.108 2 x White mage's charm named "spmome"
+22:17:09.109 2 x White preacher's charm named "preach"
+22:17:09.110 2 x White prowess charm named "prow"bb
+22:17:09.111 2 x White ranger's charm named "camp"
+22:17:09.111 2 x White spellbinder's charm named "spellbound"
+22:17:09.112 2 x White treasure hunter's charm named "treas"
+22:17:09.113 3 x White apprentice's charm named "lbd"
+22:17:09.113 3 x White poison devourer charm named "poisres"
+22:17:09.114 4 x White acid devourer charm named "acidres"
+22:17:09.115 5 x White channeler's charm named "channel"
+22:17:09.115 White archer's charm named "archer"
+22:17:09.116 White archer's charm named "arttu"
+22:17:09.116 White asphyxiation infusion charm named "asphinfu"
+22:17:09.117 White cold infusion charm named "coldinf"
+22:17:09.117 White corpse crafter's charm named "corpseac"
+22:17:09.118 White defiance charm named "defi"
+22:17:09.118 White elementalist's charm named "infusions"
+22:17:09.119 White fire-brand charm named "firedmg"
+22:17:09.120 White flailer's charm named "flail"
+22:17:09.120 White frost tamer charm named "coldres"
+22:17:09.121 White frost-brand charm named "colddmg"
+22:17:09.121 White happy camper's charm named "happy"
+22:17:09.122 White humble charm named "humi"
+22:17:09.122 White lightning infusion charm named "lituinfu"
+22:17:09.122 White lightning-brand charm named "litudmg"
+22:17:09.123 White magic infusion charm named "maginfu"
+22:17:09.123 White mindbender's charm named "pspmax"
+22:17:09.124 White monk's charm named "medi"
+22:17:09.124 White psionicist's charm named "psi"
+22:17:09.125 White smith's charm named "smith"
+22:17:09.125 White sniper's charm named "arttuep"
+22:17:09.125 White swordman's charm named "sword"
+22:17:09.126 White tailor's charm named "tailor"
+22:17:09.389 White thoughtcaster's charm named "pspcost"
+22:17:09.392 White traveler's charm named "xprate"
+22:17:09.393 White vigorating charm named "epr"
+22:17:09.394 White warmage's charm named "swarm"
+22:17:11.457 2 x White dragonscale crafter's charm named "dscale"
+22:17:11.458 2 x White fighter's charm named "manep"
+22:17:11.459 2 x White happy camper's charm named "happy"
 * Combat
 ** status
     | is in excellent shape!     |  100% |
@@ -15,3 +174,119 @@
     | is DEAD MEAT.              |   <5% |
 ** Sleep things
     leather tent, which looks quite warm inside
+* EQ
+** off
+    Vaporous glistening dragonscale gloves of offence 2-10m hand
+
+    Fine steel ring mail bracers of slayer arms
+
+    green dragonscale vest
+
+     the Pendant of Violence
+
+     green dragonscale collar
+
+     emerald spike
+
+     green dragonscale bracers
+
+     brown leggings
+
+     Weakly corroded clothes
+
+     crown-shaped crest
+
+     void mage leggging?
+** epr
+    Boots of a trail runner
+** Player eq
+*** vess
+Wielded in right hand and left hand: bow of burning gold <bright pink glow>
+He is wearing:
+ Worn on head: jeweled golden circlet named "2dex4hpr" <bright green glow>
+ Worn on left ear: white earring of Agility named "2dex" <intense green glow>
+ Worn on right ear: white fur earring of cold resistance named "2marks" <bright white glow>
+ Worn on neck: white chitinium silk necklace named "2d2p" <strong white glow>
+ Worn on amulet: A multicoloured feather amulet <intense green glow>
+ Worn on cloak: manta ray cloak named "1hc" <strong chartreuse glow>
+ Worn on torso: giant crustacean shell named "2h" <bright chartreuse glow>
+ Worn on right arm: A white bracelet with a symbol of the earth named "2dexf" <vivid white glow>
+ Worn on right hand: a silk glove  named "2dexlg" <bright white glow>
+ Worn on left hand: glove made of thick and hard dragonscales named "2dexag" <vivid cyan glow>
+ Worn on left finger: Mithril ring of Slayer named "2str" <intense aquamarine glow>
+ Worn on right finger: A beautiful elven ring named "2dex4hpr" <strong green glow>
+ Worn on belt: unassuming fur belt named "1hb" <bright white glow>
+ Worn on left leg: Legging of the Archmage <humming> named "2intr" <bright green glow>
+ Worn on right leg: Legging of the Archmage <humming> named "2intl" <vivid green glow>
+ Worn on right foot: elegant lady's riding boot named "2dexfb" <bright white glow>
+ Worn on left foot: elegant lady's riding boot named "2strpb" <bright aquamarine glow>
+ Worn on clothes: black pirate coat named "1hd" <deep chartreuse glow>
+ Worn on miscellaneous: black leather bandolier <vivid chartreuse glow>
+*** Zohlor
+Wielded in right hand: flaming spear (dark) <intense red glow> (flaming)
+Wielded in left hand: snow-white tower shield named "Ba'rath" <glowing>
+He is wearing:
+ Worn on head: hoarfrosted northern full helm (dark) <intense magic glow> (blue hue)
+ Worn on left ear: lamp black earring of cold resistance named "Z_HPMAX^2" <intense white glow>
+ Worn on right ear: lamp black earring of alacrity named "Z_HPMAX" <intense white glow>
+ Worn on neck: Ornate silver bowtie <intense white glow> (blue hue)
+ Worn on amulet: heart in a silver cage named "mk2_asc" <vivid white glow>
+ Worn on cloak: cloak of stars (dark) <intense magic glow>
+ Worn on left leg, right leg, torso, left arm and right arm: hideous reddish scale mail named
+"Z_asc" <intense magic glow> (blue hue)
+ Worn on right hand and left hand: blademaster's black gloves named "ajo" (dark) (glowing) (blue
+hue)
+ Worn on left finger: ring of the old defiler named "FP_solo" <intense white glow>
+ Worn on right finger: old iron ring named "Z_ASC" <vivid white glow>
+ Worn on belt: emerald cincture of infinite vigor named "EP_CINC" (dark) <intense magic glow>
+ Worn on right foot: elegant lady's riding boot named "Z-FP_DEF" <intense white glow>
+ Worn on left foot: elegant lady's riding boot named "Z-FP_DEF2" <intense white glow>
+ Worn on clothes: purple pirate coat named "z_asc" <intense magic glow>
+ Worn on miscellaneous: crown-shaped crest <intense magic glow>
+Phoenix tattoo of fire priests on the right cheek.
+*** drakken
+Wielded in right hand and left hand: lance of the arctic winds named "NORFUKE" <vivid white glow>
+He is wearing:
+ Worn on head: black silk hood named "mk2" <vivid white glow>
+ Worn on left ear: dull iron earring <bright white glow>
+ Worn on right ear: a reddish gold earring named "cen" <bright yellow glow>
+ Worn on neck: torc of eternal flames named "+3fs" <deep white glow>
+ Worn on amulet: The Amulet of Ancient Unicorns named "needsSpelD" <vivid green glow>
+ Worn on cloak: rust-brown cloak <dim chartreuse glow>
+ Worn on left leg, right leg, torso, left arm and right arm: hideous reddish scale mail <bright
+white glow>
+ Worn on right hand: glove made of thick and hard dragonscales named "2dex2bs2ci" (dark) <vivid
+white glow>
+ Worn on left hand: glove made of thick and hard dragonscales (dark) <bright white glow>
+ Worn on left finger: white leather ring of Wisdom named "2wis" <bright green glow>
+ Worn on right finger: silver ring of nether currents <intense chartreuse glow>
+ Worn on belt: translucent black dragonscale belt (glowing) <strong white glow>
+ Worn on right foot: elegant lady's riding boot (dark) <dim cyan glow>
+ Worn on left foot: elegant lady's riding boot (dark) <bright turquoise glow>
+ Worn on clothes: regimentals of the light infantry of Vaerlon <intense green glow>
+ Worn on miscellaneous: black leather bandolier <vivid green glow>
+* Combat messages
+** Impale
+    | Troll pierces you hitting your left leg with his javelin causing large scratches.                                     |
+    |You impale Brakhel hitting his neck with your javelin damaging the muscle tissue severely.|
+
+    | You impale Troll hitting his right thigh with your javelin causing blood to flow from open wounds.                    |
+    | You impale .* hitting \w+ body with your .* BREAKING the sound barrier along with the body.                           |
+    | You impale .* hitting \w+ left leg with your * penetrating the skin and damaging the muscle tissue.                   |
+    | You impale Troll hitting his right leg with your javelin PULVERIZING the bones with a resonating boom.                |
+    | You impale Guard dog hitting its foretorso with your javelin BURNING through FLESH and BONE alike.                    |
+    | You firmly shove Troll hitting his torso with your javelin damaging the intestinal tissue SERIOUSLY.                  |
+    | You firmly shove Troll hitting his left leg with your javelin BURNING through FLESH and BONE alike.                   |
+    | You powerfully shove Kruric hitting his left hand with your javelin PULVERIZING the bones with a resonating boom.     |
+    | You puncture Guard dog hitting its foretorso with your javelin SCORCHING through the soft meat, BLACKENING the bones. |
+    | You masterfully stab Guard dog hitting its foretorso with your javelin DEVASTATING the ENTIRE internal structure.     |
+    | Troll impales you hitting your upper torso with his javelin causing dangerous cuts.                                   |
+    |                                                                                                                       |
+    hit again
+    |  ..and hit foe again piercing the arm, cutting open an artery.|
+** Parry
+    | Troll steps aside and partially parries your jab.                                    |
+    | You swing your pitch black shield against the attack and parry Guard dog's bite.     |
+    | You swing your pitch black shield against the attack and parry Guard dog's bludgeon. |
+    | Troll anticipates the attack and quickly intercepts it with his spiked spear and skillfully parries your thrust.                                                                                    |
+    |                                                                                      |

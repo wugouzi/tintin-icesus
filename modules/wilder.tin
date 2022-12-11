@@ -146,6 +146,8 @@ WILDER_ATTACK;
 #alias {pt12} {paint marking of constitution on backtorso with heart;}
 #alias {pt13} {paint marking of constitution on foretorso with heart;}
 
+
+
 #alias {bw} {bind wounds of %1;}
 #alias {bp} {bind strength to mmiao's %0;}
 #nop #action {You fail to bind power to your %1.} {bp %1;}

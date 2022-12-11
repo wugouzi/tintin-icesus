@@ -1,0 +1,35 @@
+#+title: Vekkak Hunting Grounds
+
+Wofei says: You may not pass the bridge as you clearly do not have Kaieb's permission. Go ask him
+about it if you want to pass this bridge. This is just precaution and for your own good.
+
+greet hunter
+You politely greet Wofei and ask her how her life fares.
+Wofei says: Hiya, stranger. Are you too here to hunt caribous?
+
+ask hunter about caribous
+Wofei says: Those fine animals... We came to hunt them here as this place
+is really famous of its caribous. We set up three camps around here but we
+have had some major problems lately...
+
+ask hunter about problem
+Wofei says: Yeah, some very large and powerful creature has been
+slaughtering caribous on the north side of the river. Many of them weren't
+even eaten so it must have killed some of them just from the joy of
+killing. Our third hunting camp was located there also and we heard noises
+and screams from there last night but we are too afraid to go and see what
+has happened. Our leader Kaieb fears that the creature is the legendary
+frost beast of the glacier but I think that it is just a legend.
+
+ask hunter about kaieb
+You ask Wofei about kaieb.
+Wofei says: He's the leader of our hunting party. He is probably in his
+tent in the first camp if you wish to meet him.
+
+ask kaieb about permission
+You ask Kaieb about permission.
+Kaieb says: So you want to cross the river and search the northern part of
+this tundra?
+
+You ask Kaieb about yes.
+Kaieb says: Ok, here is a pass. Wofei will recognize it and let you pass.

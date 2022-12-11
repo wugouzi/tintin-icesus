@@ -1,0 +1,67 @@
+#+title: Fire Priests
+
+* Throw
+    You predict the next move of your opponent and accurately throw the black, clearly glowing spear
+named "SPEAR" (glowing) <deep orange glow> (flaming) at Azadril, GOD-LIKELY OBLITERATING her neck
+and DEVASTATING EVERYTHING in the weapon's path.
+* Miscellaneous
+** race
+22:28:42 Zohlor tells you 'dex,str,wis,con is the order
+of stats you want to go for'.
+22:29:11 Zohlor tells you 'race is tricky, but antaeun
+is kinda good and you get to join nomads'.
+22:29:47 Zohlor tells you 'orc with devourer is good
+too'.
+
+22:33:58 Zohlor tells you 'basically you want to look at
+the racial guilds and pick a specific race fit for them.
+Nomads and devourer (slightly more) have perks that are
+really beneficial for playing it more offensively,
+civilized has perks (especially the preach perk) that
+benefit the party a bit more but you won't be as good
+with frontrowing stuff'.
+** Pros
+    wamba
+
+    zohlor
+** Eq
+    strike spear to ground+pull spear+check power in spear
+* GUILD INFO
+** Mastery
+                                                                           .
+Harac tells you
+
+juxtaposed barrage is throw mastery, increases when you throw and as it rises it
+adds those copythrows
+
+lord of war is for blaze of glory which gives momentums to party, increases when ppl uses them i
+think
+
+sainthood mastery is the one that raises when you get yourself asskicked, very slow atlast for me :P
+
+secrets of fire is somekind of overall mastery i think, also very slow
+
+triuph over magic rises when you use mana scald to get opponents spellcast visible, sometimes it
+even blocks spells so its very good one
+
+undying faith has something to do with fury, raises when usin spells i think
+
+devotion is the same
+
+words is preaching mastery
+
+world in flames is when you burn things like corpses, dunno if spells raises it too'.
+
+Harac tells you 'and rapture is for spells/spellblade i think'.
+
+Harac tells you '| Impetuous rapture                |    42%  |     44%  |'.
+Harac tells you '| Juxtaposed barrage               |    58%  |     15%  |'.
+Harac tells you '| Lord of war                      |    39%  |     45%  |'.
+Harac tells you '| Sacrosanct pyromania             |    42%  |     81%  |'.
+Harac tells you '| Sainthood through suffering      |    18%  |     59%  |'.
+Harac tells you '| Secrets of fire                  |    23%  |      5%  |'.
+Harac tells you '| Triumph over magic               |    29%  |     59%  |'.
+Harac tells you '| Undying faith                    |    36%  |     23%  |'.
+Harac tells you '| Unquestionable devotion          |    26%  |     90%  |'.
+Harac tells you '| Words of the goddess             |    53%  |     31%  |'.
+Harac tells you '| World in flames                  |    31%  |     65%  |'.

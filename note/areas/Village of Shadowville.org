@@ -1,0 +1,12 @@
+#+title: Village Of Shadowville
+
+ask Tinton about help
+You ask Tinton about help.
+Tinton says: Help indeed. The birds have been ruining my business this
+season and I would appreciate if someone could help me in getting rid of
+them.
+
+You ask Tinton about birds.
+Tinton says: Well, you see I like birds otherwise, but this strawberry
+season has been terrible and the birds are simply ruining my business. So I
+would like someone to simply get rid of the birds - no questions asked!

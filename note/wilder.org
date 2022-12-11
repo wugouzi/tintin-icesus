@@ -22,8 +22,11 @@ Close fighting
     any individual. When each member acts only for the best interest of the whole, the tribe is
     unstoppable. As this improves a wilder will be better at sacrificing himself and forgoing food
     for the good of the tribe.
-    |self-protective|
-    |defensive|
+    | self-protective |
+    | defensive       |
+    | conservative    |
+
+    protect
 ** archery
     Standing back and shooting is a bit alien to wilders, but when their numbers are sufficient it
     is a useful tactic. Most important is the ability to see and sense where and how opponents and
@@ -39,6 +42,7 @@ Close fighting
     | haphazard |
     | unsafe    |
     |precarious|
+    |hit-or-miss|
 ** binding
     A wilder's totem is the key to his physical powers, and without binding of essence there is no
     totem. Binding can not be taught, it must be learned through study and use. A totem which poorly
@@ -47,35 +51,51 @@ Close fighting
     | impractical |
     | akward      |
     | sloppy      |
-    | ineffective      |
+    | ineffective |
+    | passable    |
+    | qualified   |
+    | capable     |
+    |             |
 ** chanting
     The wise shamans use chanting to transfer their fruits of their wisdom to the rest of the tribe.
     Rhetoric and persuasive speech are not effective means for communicating with the tribe.
+
+    more regen
     |futile|
     |ineffective|
     |hollow|
+    |unmoving|
+
 ** close fighting
     Wilders are masters of up close fighting. Circling and feinting are not used so much as head
     butting, kicking, eye gouging, overrunning and grappling. The only reason to step an inch from
     your opponent is to get a really good swing at him with your axe.
-    |oafish|
-    |bumbling|
+    | oafish    |
+    | bumbling  |
+    | ponderous |
+    |           |
 ** courage
     Unlike the fighting styles of most men, the wilders do not seek to minimize pain and wounding to
     themselves. Victory is all that matters, not pain, not humiliation, not death.
     | bloodless     |
     | faint hearted |
     | timid         |
+    | daunted       |
+    | lustless      |
+
+    suicide
 ** respect
     Your respect is a measure of your belief in a power beyond yourself. Without respect you are no
     more than yourself. With respect you can develop a relationship with the universe beyond
     yourself.
 
     totem tier
-    |irreligious|
-    |unbelieving|
-    |faithless|
-    |doubtful|
+    | irreligious |
+    | unbelieving |
+    | faithless   |
+    | doubtful    |
+    | distrustful |
+    |misbelieving|
 ** sagacity
     As brutal as a wilder's life is, it would be ill spent if not guided to a purpose. Those wilders
     that study the purpose will develop their sagacity and share the wisdom and power from this with
@@ -123,5 +143,19 @@ Aerious [party]:     4 x treasure finding
 Aerious [party]:     5 x maneuver ep cost
 Aerious [party]:     3 x wounding efficiency
 Aerious [party]:     5 x damage with axes
+
+21:22:54 Zork [party]:     5 x celerity
+21:22:54 Zork [party]:     2 x momentum chance
+21:22:54 Zork [party]:     5 x learn chance
+21:22:54 Zork [party]:     2 x momentum ep cost
+21:22:54 Zork [party]:     5 x hpmax
+21:22:54 Zork [party]:     5 x damage with axes
+
+Bandar tells you '    4 x maneuver ep cost'.
+Bandar tells you '5 x combat size'.
+Bandar tells you '5 x momentum chance'.
+Bandar tells you '4 x momentum ep cost'.
+Bandar tells you '2 x maneuver damage'.
+Bandar tells you '5 x damage with axes'.
 ** EQ
     https://naga.icesus.org/wiki/index.php/Translucent_black_dragonscale_belt

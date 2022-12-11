@@ -1,0 +1,31 @@
+#+title: Nefankaz
+
+ask alchemist about ingredients
+You ask Gobble about ingredients.
+I still need the following ingredients:
+A demonroot.
+Some chitinium silk.
+A fire diamond.
+Some troll blood.
+Lightning dragon powder.
+Bring me these missing ingredients and I will be able to finish my potion!
+
+You ask Gobble about demonroot.
+Gobble says: Yes, I have one demonroot missing from my potion. If you can
+bring me one of those I would be very grateful!
+
+ask cook about number
+You ask Okk about number.
+Okk says: The tickets and numbers are simply to make things more easier
+here. I'm so busy with my customers that without a system like that it's
+impossible to remember who ordered what. And you want food, I'm afraid I
+can't help you since I only give the tickets to the residents of this isle.
+
+ask birt about food
+You ask Birt about food.
+Birt says: Yes, I am always soo hungry! Since my father broke the oven he
+has been a regular customer with the orc village's cook. I wonder if my
+father has already fetched our daily meal from the cook.
+
+The village idiot says: The little green men will arrive at nightfall! I
+know, I've seen them!

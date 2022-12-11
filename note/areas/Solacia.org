@@ -1,0 +1,24 @@
+#+title: Solacia
+
+You ask Osmathos the elf potter about qimithans.
+Osmathos the elf potter says: I had chatted with Cistheril whole evening
+and when I finally left the hut I noticed a slender figure standing quite
+near me. Her eyes had a reddish glow, so I'm quite sure she was a dark elf.
+She - however - did not attack me, but instead disappeared into forest, at
+the eastern direction.
+
+You ask Osmathos the elf potter about cistheril.
+Osmathos the elf potter says: He has a great burden on his shoulders.
+That's why I just couldn't tell him about my encounter with the dark elf.
+
+You ask Vhandon the elf about pomdran.
+Vhandon the elf says: Sheanna is so proud of our son. And of course I'm
+too! The lad is going to be a real magician and studies so hard to fulfil
+his dreams. Our small village will benefit a lot of his studies. There's no
+need to fear dark elves anymore after Pomdran has come back to us.
+
+ask Sheanna about Pomdran
+You ask Sheanna the elf mistress about pomdran.
+Sheanna the elf mistress says: Ah, my elder son is not here. He is studying
+in a well respected Society of Dazhora and will be a great magician one day
+soon.

@@ -1,0 +1,64 @@
+#+title: Waelhart
+
+
+~ask Alchemist about gustav~
+Alchemist says: Gustav is the chairman of the town's council of elders. As
+of late, I have had to meet him daily to discuss strategies against the
+wolf attacks.
+
+~ask alchemist about wolfweres~
+Alchemist says: They are indeed fascinating and very, very misunderstood
+creatures. The wolfweres are true natural born shapeshifters. While a
+passing traveller is most likely to encounter them in the form of a wolf,
+they are capable of shifting into nearly any shape they desire. Even more
+astonishing is their ability to discourse while in a form which provides
+them vocal cords.
+
+
+greet mercenary
+You politely greet Marcus and ask him how his life fares.
+Marcus says: Excuse me, have you seen a large bloke in a black shirt
+wandering around?
+
+ask mercenary about bloke
+You ask Marcus about bloke.
+Marcus says: Petra and I have been looking for our travelling companion for
+two days now. He is not one to disappear while on an assignment.
+
+ask mercenary about petra
+You ask Marcus about petra.
+Marcus says: That would be the lady with the sword.
+
+greet Gustav
+You politely greet Gustav and ask him how his life fares.
+Gustav says: Ah, a traveller. Welcome to Waelhart. I apologise for my
+hastiness, but the council of elders is currently discussing matters that
+direly affect the townsfolk.
+
+ask gustav about wolf
+You ask Gustav about wolf.
+Gustav says: Hmm. You are one who travels far, not shaken by dangers. If
+you wish to help the town, you can try to locate the wolves' nest and slay
+them all.
+
+
+greet girl
+You politely greet Larae and ask her how her life fares.
+Larae says: I have an important task to take care of our horses.
+
+ask girl about task
+You ask Larae about task.
+Larae says: I'm afraid of the cemetery, don't go near it.
+
+ask girl about cemetery
+You ask Larae about cemetery.
+Larae says: I'm sure ghosts live there, but nobody believes me.
+
+                    s
+You ask Larae about ghosts.
+Larae says: Yes. Once I passed the cemetery when I visited the privy at
+night and I clearly saw some vague people wandering there. I will never go
+to the privy at night again!
+
+You ask Larae about privy.
+Larae says: Never ever to the privy at night...

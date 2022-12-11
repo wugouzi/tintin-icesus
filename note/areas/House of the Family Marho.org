@@ -1,0 +1,23 @@
+#+title: House Of The Family Marho
+
+ask cinan about vaapo
+You ask Cinan the matriarch about vaapo.
+Cinan the matriarch says: Vaapo is the most stubborn and arrogant young
+girl. I really don't know what went wrong with her as she got an excellent,
+strict upbringing. Her last foolishness was to get a job and when I told
+her to quit working immediately, she just disappeared. I haven't heard of
+her ever since!
+
+ask cinan about job
+You ask Cinan the matriarch about job.
+Cinan the matriarch says: It's a sign of a twisted mind if a woman is
+working! I just can't stand the thought of Vaapo is disgracing her
+reputation. And the reputation of the family of Marho!
+
+l Cinan
+Cinan Marho is an old halfling woman. Her husband has died years ago and
+since then she has been the matriarch of the cottage. Cinan has two
+children, whom have reached adulthood. Cinan's son is called Nason and the
+daughter Vaapo. Cinan is a stern person and she seems to enjoy it. Cinan
+seems to love only her cat, which at the moment lies on the lap of the
+matriarch.
